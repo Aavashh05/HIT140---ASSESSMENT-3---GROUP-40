@@ -1,0 +1,9 @@
+Feature,Coefficient
+FIFA_Points_Diff,1.0603273497614472
+Prior_GF_Avg_Diff,-0.2889520523166841
+Prior_GA_Avg_Diff,0.37446549709802673
+Prior_Draw_Rate_Diff,0.2003048237378528
+Prior_CleanSheet_Rate_Diff,0.057044377303206786
+Prior_FailedScore_Rate_Diff,-0.4268233471804133
+Prior_Opp_FIFA_Points_Avg_Diff,0.12171808329249416
+Prior_Strength_Adjusted_GD_Avg_Diff,0.4463967124282622

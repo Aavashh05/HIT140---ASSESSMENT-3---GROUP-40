@@ -1,0 +1,1 @@
+Predicted Goals Scored = 1.6386 + 0.0025(FIFA_Points_Diff) - 0.1283(Prior_GF_Avg) + 0.1022(Opp_Prior_GA_Avg) - 0.3149(Prior_Draw_Rate) - 0.4598(Prior_FailedScore_Rate) - 0.0924(Opp_Prior_CleanSheet_Rate) + 0.9084(Opp_Prior_FailedScore_Rate) - 0.0041(Rest_Days_Diff)
