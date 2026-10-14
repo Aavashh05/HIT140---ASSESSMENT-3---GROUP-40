@@ -1,0 +1,885 @@
+league,season,team,game,date,round,day,venue,result,GF,GA,opponent,Standard_Gls,Standard_Sh,Standard_SoT,Standard_SoTPct,Standard_G_per_Sh,Standard_G_per_SoT,Standard_PK,Standard_PKatt,time,match_report
+,2026,,2023-09-07 Ecuador-nan,2023-09-07,World Cup qualification,Thu,Away,L,0,1,Ecuador,0,5,3,60.0,0.0,0.0,0,0,21:00:00,/en/matches/2f7e4951/Argentina-Ecuador-September-7-2023-WCQ----CONMEBOL-M
+,2026,,2023-09-07 Peru-nan,2023-09-07,World Cup qualification,Thu,Away,D,0,0,Peru,0,5,0,0.0,0.0,,0,0,18:30:00,/en/matches/e29564c5/Paraguay-Peru-September-7-2023-WCQ----CONMEBOL-M
+,2026,,2023-09-07 Venezuela-nan,2023-09-07,World Cup qualification,Thu,Away,L,0,1,Venezuela,0,7,2,28.6,0.0,0.0,0,0,18:00:00,/en/matches/65227f28/Colombia-Venezuela-September-7-2023-WCQ----CONMEBOL-M
+,2026,,2023-09-07 nan-Argentina,2023-09-07,World Cup qualification,Thu,Home,W,1,0,Argentina,1,13,4,30.8,0.08,0.25,0,0,21:00:00,/en/matches/2f7e4951/Argentina-Ecuador-September-7-2023-WCQ----CONMEBOL-M
+,2026,,2023-09-08 Bolivia-nan,2023-09-08,World Cup qualification,Fri,Away,L,1,5,Bolivia,1,4,3,75.0,0.25,0.33,0,0,21:45:00,/en/matches/e1827307/Brazil-Bolivia-September-8-2023-WCQ----CONMEBOL-M
+,2026,,2023-09-08 Chile-nan,2023-09-08,World Cup qualification,Fri,Away,L,1,3,Chile,1,7,2,28.6,0.14,0.5,0,0,20:00:00,/en/matches/a3fac10c/Uruguay-Chile-September-8-2023-WCQ----CONMEBOL-M
+,2026,,2023-09-12 Uruguay-nan,2023-09-12,World Cup qualification,Tue,Away,L,1,2,Uruguay,1,5,2,40.0,0.2,0.5,0,0,16:00:00,/en/matches/37e01439/Ecuador-Uruguay-September-12-2023-WCQ----CONMEBOL-M
+,2026,,2023-09-12 nan-Bolivia,2023-09-12,World Cup qualification,Tue,Home,L,0,3,Bolivia,0,4,2,50.0,0.0,0.0,0,0,16:00:00,/en/matches/60df245b/Bolivia-Argentina-September-12-2023-WCQ----CONMEBOL-M
+,2026,,2023-09-12 nan-Chile,2023-09-12,World Cup qualification,Tue,Home,D,0,0,Chile,0,10,5,50.0,0.0,0.0,0,0,21:30:00,/en/matches/acc6c6da/Chile-Colombia-September-12-2023-WCQ----CONMEBOL-M
+,2026,,2023-09-12 nan-Ecuador,2023-09-12,World Cup qualification,Tue,Home,W,2,1,Ecuador,2,15,4,26.7,0.13,0.5,0,1,16:00:00,/en/matches/37e01439/Ecuador-Uruguay-September-12-2023-WCQ----CONMEBOL-M
+,2026,,2023-09-12 nan-Peru,2023-09-12,World Cup qualification,Tue,Home,L,0,1,Peru,0,6,0,0.0,0.0,,0,0,21:00:00,/en/matches/110848f8/Peru-Brazil-September-12-2023-WCQ----CONMEBOL-M
+,2026,,2023-09-12 nan-Venezuela,2023-09-12,World Cup qualification,Tue,Home,W,1,0,Venezuela,1,11,3,27.3,0.09,0.33,1,1,18:00:00,/en/matches/6c17b321/Venezuela-Paraguay-September-12-2023-WCQ----CONMEBOL-M
+,2026,,2023-10-12 Paraguay-nan,2023-10-12,World Cup qualification,Thu,Away,L,0,1,Paraguay,0,4,1,25.0,0.0,0.0,0,0,20:00:00,/en/matches/26b9c13c/Argentina-Paraguay-October-12-2023-WCQ----CONMEBOL-M
+,2026,,2023-10-12 Uruguay-nan,2023-10-12,World Cup qualification,Thu,Away,D,2,2,Uruguay,2,15,6,40.0,0.13,0.33,1,1,15:30:00,/en/matches/69c44fb6/Colombia-Uruguay-October-12-2023-WCQ----CONMEBOL-M
+,2026,,2023-10-12 Venezuela-nan,2023-10-12,World Cup qualification,Thu,Away,D,1,1,Venezuela,1,9,2,22.2,0.11,0.5,0,0,20:30:00,/en/matches/7bfa1a62/Brazil-Venezuela-October-12-2023-WCQ----CONMEBOL-M
+,2026,,2023-10-12 nan-Argentina,2023-10-12,World Cup qualification,Thu,Home,W,1,0,Argentina,1,15,4,26.7,0.07,0.25,0,0,20:00:00,/en/matches/26b9c13c/Argentina-Paraguay-October-12-2023-WCQ----CONMEBOL-M
+,2026,,2023-10-12 nan-Bolivia,2023-10-12,World Cup qualification,Thu,Home,L,1,2,Bolivia,1,16,4,25.0,0.06,0.25,0,0,19:00:00,/en/matches/34f19d1b/Bolivia-Ecuador-October-12-2023-WCQ----CONMEBOL-M
+,2026,,2023-10-12 nan-Colombia,2023-10-12,World Cup qualification,Thu,Home,D,2,2,Colombia,2,14,4,28.6,0.14,0.5,0,0,15:30:00,/en/matches/69c44fb6/Colombia-Uruguay-October-12-2023-WCQ----CONMEBOL-M
+,2026,,2023-10-17 Bolivia-nan,2023-10-17,World Cup qualification,Tue,Away,L,0,1,Bolivia,0,6,0,0.0,0.0,,0,0,19:30:00,/en/matches/55a75f54/Paraguay-Bolivia-October-17-2023-WCQ----CONMEBOL-M
+,2026,,2023-10-17 Brazil-nan,2023-10-17,World Cup qualification,Tue,Away,L,0,2,Brazil,0,2,0,0.0,0.0,,0,0,21:00:00,/en/matches/234290bd/Uruguay-Brazil-October-17-2023-WCQ----CONMEBOL-M
+,2026,,2023-10-17 Colombia-nan,2023-10-17,World Cup qualification,Tue,Away,D,0,0,Colombia,0,8,3,37.5,0.0,0.0,0,1,18:30:00,/en/matches/bbd48b0c/Ecuador-Colombia-October-17-2023-WCQ----CONMEBOL-M
+,2026,,2023-10-17 nan-Ecuador,2023-10-17,World Cup qualification,Tue,Home,D,0,0,Ecuador,0,10,3,30.0,0.0,0.0,0,0,18:30:00,/en/matches/bbd48b0c/Ecuador-Colombia-October-17-2023-WCQ----CONMEBOL-M
+,2026,,2023-10-17 nan-Peru,2023-10-17,World Cup qualification,Tue,Home,L,0,2,Peru,0,6,0,0.0,0.0,,0,0,21:00:00,/en/matches/3cf7c7b1/Peru-Argentina-October-17-2023-WCQ----CONMEBOL-M
+,2026,,2023-10-17 nan-Uruguay,2023-10-17,World Cup qualification,Tue,Home,W,2,0,Uruguay,2,5,2,40.0,0.4,1.0,0,0,21:00:00,/en/matches/234290bd/Uruguay-Brazil-October-17-2023-WCQ----CONMEBOL-M
+,2026,,2023-11-15 Mauritania-nan,2023-11-15,First round,Wed,Away,L,0,2,Mauritania,0,,,,,,0,0,17:00:00,/en/matches/182c461a/Congo-DR-Mauritania-November-15-2023-WCQ----CAF-M
+,2026,,2023-11-16 Afghanistan-nan,2023-11-16,Second round,Thu,Away,L,1,8,Afghanistan,1,,,,,,0,0,18:45:00,/en/matches/d3b2f56c/Qatar-Afghanistan-November-16-2023-WCQ----AFC-M
+,2026,,2023-11-16 Angola-nan,2023-11-16,First round,Thu,Away,D,0,0,Angola,0,,,,,,0,0,18:00:00,/en/matches/945bc517/Cabo-Verde-Angola-November-16-2023-WCQ----CAF-M
+,2026,,2023-11-16 Bangladesh-nan,2023-11-16,Second round,Thu,Away,L,0,7,Bangladesh,0,,,,,,0,0,20:10:00,/en/matches/e43c3b06/Australia-Bangladesh-November-16-2023-WCQ----AFC-M
+,2026,,2023-11-16 Brazil-nan,2023-11-16,World Cup qualification,Thu,Away,L,1,2,Brazil,1,12,3,25.0,0.08,0.33,0,0,19:00:00,/en/matches/d050b216/Colombia-Brazil-November-16-2023-WCQ----CONMEBOL-M
+,2026,,2023-11-16 Djibouti-nan,2023-11-16,First round,Thu,Away,L,0,6,Djibouti,0,,,,,,0,0,18:00:00,/en/matches/e374c8dd/Egypt-Djibouti-November-16-2023-WCQ----CAF-M
+,2026,,2023-11-16 Hong Kong-nan,2023-11-16,Second round,Thu,Away,L,0,4,Hong Kong,0,,,,,,0,0,18:00:00,/en/matches/cddbdc05/IR-Iran-Hong-Kong-November-16-2023-WCQ----AFC-M
+,2026,,2023-11-16 Indonesia-nan,2023-11-16,Second round,Thu,Away,L,1,5,Indonesia,1,,,,,,0,0,17:45:00,/en/matches/b9d1f9df/Iraq-Indonesia-November-16-2023-WCQ----AFC-M
+,2026,,2023-11-16 Myanmar-nan,2023-11-16,Second round,Thu,Away,L,0,5,Myanmar,0,,,,,,0,0,19:02:00,/en/matches/1ea987f4/Japan-Myanmar-November-16-2023-WCQ----AFC-M
+,2026,,2023-11-16 Pakistan-nan,2023-11-16,Second round,Thu,Away,L,0,4,Pakistan,0,,,,,,0,0,19:30:00,/en/matches/2164d4f9/Saudi-Arabia-Pakistan-November-16-2023-WCQ----AFC-M
+,2026,,2023-11-16 Singapore-nan,2023-11-16,Second round,Thu,Away,L,0,5,Singapore,0,,,,,,0,0,20:00:00,/en/matches/03fcde90/Korea-Republic-Singapore-November-16-2023-WCQ----AFC-M
+,2026,,2023-11-16 Somalia-nan,2023-11-16,First round,Thu,Away,L,1,3,Somalia,1,,,,,,0,0,18:00:00,/en/matches/274550ca/Algeria-Somalia-November-16-2023-WCQ----CAF-M
+,2026,,2023-11-16 Uruguay-nan,2023-11-16,World Cup qualification,Thu,Away,W,2,0,Uruguay,2,6,2,33.3,0.33,1.0,0,0,21:00:00,/en/matches/863e2131/Argentina-Uruguay-November-16-2023-WCQ----CONMEBOL-M
+,2026,,2023-11-16 nan-Argentina,2023-11-16,World Cup qualification,Thu,Home,L,0,2,Argentina,0,12,3,25.0,0.0,0.0,0,0,21:00:00,/en/matches/863e2131/Argentina-Uruguay-November-16-2023-WCQ----CONMEBOL-M
+,2026,,2023-11-16 nan-Chile,2023-11-16,World Cup qualification,Thu,Home,D,0,0,Chile,0,13,5,38.5,0.0,0.0,0,0,21:30:00,/en/matches/bddd61cd/Chile-Paraguay-November-16-2023-WCQ----CONMEBOL-M
+,2026,,2023-11-16 nan-Colombia,2023-11-16,World Cup qualification,Thu,Home,W,2,1,Colombia,2,23,10,43.5,0.09,0.2,0,0,19:00:00,/en/matches/d050b216/Colombia-Brazil-November-16-2023-WCQ----CONMEBOL-M
+,2026,,2023-11-16 nan-Tajikistan,2023-11-16,Second round,Thu,Home,D,1,1,Tajikistan,1,,,,,,0,0,18:00:00,/en/matches/1250ff01/Tajikistan-Jordan-November-16-2023-WCQ----AFC-M
+,2026,,2023-11-16 nan-Turkmenistan,2023-11-16,Second round,Thu,Home,L,1,3,Turkmenistan,1,,,,,,0,0,19:00:00,/en/matches/c61e9ab7/Turkmenistan-Uzbekistan-November-16-2023-WCQ----AFC-M
+,2026,,2023-11-16 nan-Venezuela,2023-11-16,World Cup qualification,Thu,Home,D,0,0,Venezuela,0,7,2,28.6,0.0,0.0,0,0,18:00:00,/en/matches/247d2292/Venezuela-Ecuador-November-16-2023-WCQ----CONMEBOL-M
+,2026,,2023-11-17 Madagascar-nan,2023-11-17,First round,Fri,Away,L,0,1,Madagascar,0,,,,,,0,0,16:00:00,/en/matches/16249aa4/Ghana-Madagascar-November-17-2023-WCQ----CAF-M
+,2026,,2023-11-17 Seychelles-nan,2023-11-17,First round,Fri,Away,L,0,9,Seychelles,0,,,,,,0,0,19:00:00,/en/matches/876807e5/Cote-dIvoire-Seychelles-November-17-2023-WCQ----CAF-M
+,2026,,2023-11-17 São Tomé-nan,2023-11-17,First round,Fri,Away,L,0,4,São Tomé,0,,,,,,0,0,20:00:00,/en/matches/d145d2a7/Tunisia-Sao-Tome-and-Principe-November-17-2023-WCQ----CAF-M
+,2026,,2023-11-18 Benin-nan,2023-11-18,First round,Sat,Away,L,1,2,Benin,1,,,,,,0,0,15:00:00,/en/matches/19fd008f/South-Africa-Benin-November-18-2023-WCQ----CAF-M
+,2026,,2023-11-18 South Sudan-nan,2023-11-18,First round,Sat,Away,L,0,4,South Sudan,0,,,,,,0,0,19:00:00,/en/matches/62b81b0b/Senegal-South-Sudan-November-18-2023-WCQ----CAF-M
+,2026,,2023-11-19 Sierra Leone-Sierra Leone,2023-11-19,First round,Sun,Neutral,L,0,2,Sierra Leone,0,,,,,,0,0,16:00:00,/en/matches/c1d9c52e/Sierra-Leone-Egypt-November-19-2023-WCQ----CAF-M
+,2026,,2023-11-19 Sudan-Sudan,2023-11-19,First round,Sun,Neutral,W,1,0,Sudan,0,,,,,,0,0,18:00:00,/en/matches/64b01a41/Sudan-Congo-DR-November-19-2023-WCQ----CAF-M
+,2026,,2023-11-19 nan-Mozambique,2023-11-19,First round,Sun,Home,L,0,2,Mozambique,0,,,,,,0,0,15:00:00,/en/matches/fe0ed213/Mozambique-Algeria-November-19-2023-WCQ----CAF-M
+,2026,,2023-11-20 Gambia-Gambia,2023-11-20,First round,Mon,Neutral,L,0,2,Gambia,0,,,,,,0,0,16:00:00,/en/matches/31fb4cda/Gambia-Cote-dIvoire-November-20-2023-WCQ----CAF-M
+,2026,,2023-11-21 Argentina-nan,2023-11-21,World Cup qualification,Tue,Away,W,1,0,Argentina,1,8,2,25.0,0.13,0.5,0,0,21:30:00,/en/matches/d9dda5bc/Brazil-Argentina-November-21-2023-WCQ----CONMEBOL-M
+,2026,,2023-11-21 Bolivia-nan,2023-11-21,World Cup qualification,Tue,Away,L,0,3,Bolivia,0,4,0,0.0,0.0,,0,0,20:30:00,/en/matches/5f1085fe/Uruguay-Bolivia-November-21-2023-WCQ----CONMEBOL-M
+,2026,,2023-11-21 Chile-nan,2023-11-21,World Cup qualification,Tue,Away,L,0,1,Chile,0,12,3,25.0,0.0,0.0,0,0,18:30:00,/en/matches/3287ff4c/Ecuador-Chile-November-21-2023-WCQ----CONMEBOL-M
+,2026,,2023-11-21 Colombia-nan,2023-11-21,World Cup qualification,Tue,Away,W,1,0,Colombia,1,12,4,33.3,0.08,0.25,1,1,20:00:00,/en/matches/6c72239f/Paraguay-Colombia-November-21-2023-WCQ----CONMEBOL-M
+,2026,,2023-11-21 Eswatini-Eswatini,2023-11-21,First round,Tue,Neutral,L,0,2,Eswatini,0,,,,,,0,0,16:15:00,/en/matches/ffb13e26/Eswatini-Cabo-Verde-November-21-2023-WCQ----CAF-M
+,2026,,2023-11-21 IR Iran-nan,2023-11-21,Second round,Tue,Away,D,2,2,IR Iran,2,,,,,,0,0,18:00:00,/en/matches/054ec5f5/Uzbekistan-IR-Iran-November-21-2023-WCQ----AFC-M
+,2026,,2023-11-21 Palestine-Palestine,2023-11-21,Second round,Tue,Neutral,L,0,1,Palestine,0,,,,,,0,0,17:00:00,/en/matches/153eefd2/Palestine-Australia-November-21-2023-WCQ----AFC-M
+,2026,,2023-11-21 Saudi Arabia-nan,2023-11-21,Second round,Tue,Away,W,2,0,Saudi Arabia,2,,,,,,0,0,18:00:00,/en/matches/c66c0269/Jordan-Saudi-Arabia-November-21-2023-WCQ----AFC-M
+,2026,,2023-11-21 nan-Brazil,2023-11-21,World Cup qualification,Tue,Home,L,0,1,Brazil,0,8,4,50.0,0.0,0.0,0,0,21:30:00,/en/matches/d9dda5bc/Brazil-Argentina-November-21-2023-WCQ----CONMEBOL-M
+,2026,,2023-11-21 nan-China PR,2023-11-21,Second round,Tue,Home,L,0,3,China PR,0,,,,,,0,0,20:00:00,/en/matches/d7b8ab3d/China-PR-Korea-Republic-November-21-2023-WCQ----AFC-M
+,2026,,2023-11-21 nan-Comoros,2023-11-21,First round,Tue,Home,W,1,0,Comoros,1,,,,,,0,0,19:00:00,/en/matches/3928f7b3/Comoros-Ghana-November-21-2023-WCQ----CAF-M
+,2026,,2023-11-21 nan-India,2023-11-21,Second round,Tue,Home,L,0,3,India,0,,,,,,0,0,19:00:00,/en/matches/9e12e8b0/India-Qatar-November-21-2023-WCQ----AFC-M
+,2026,,2023-11-21 nan-Jordan,2023-11-21,Second round,Tue,Home,L,0,2,Jordan,0,,,,,,0,0,18:00:00,/en/matches/c66c0269/Jordan-Saudi-Arabia-November-21-2023-WCQ----AFC-M
+,2026,,2023-11-21 nan-Malawi,2023-11-21,First round,Tue,Home,L,0,1,Malawi,0,,,,,,0,0,15:00:00,/en/matches/d84b3da7/Malawi-Tunisia-November-21-2023-WCQ----CAF-M
+,2026,,2023-11-21 nan-Paraguay,2023-11-21,World Cup qualification,Tue,Home,L,0,1,Paraguay,0,13,2,15.4,0.0,0.0,0,0,20:00:00,/en/matches/6c72239f/Paraguay-Colombia-November-21-2023-WCQ----CONMEBOL-M
+,2026,,2023-11-21 nan-Rwanda,2023-11-21,First round,Tue,Home,W,2,0,Rwanda,2,,,,,,0,0,15:00:00,/en/matches/74591a8e/Rwanda-South-Africa-November-21-2023-WCQ----CAF-M
+,2026,,2023-11-21 nan-Syria,2023-11-21,Second round,Tue,Home,L,0,5,Syria,0,,,,,,0,0,17:45:00,/en/matches/62e1e28b/Syria-Japan-November-21-2023-WCQ----AFC-M
+,2026,,2023-11-21 nan-Tanzania,2023-11-21,First round,Tue,Home,L,0,2,Tanzania,0,,,,,,0,0,22:00:00,/en/matches/8980dd38/Tanzania-Morocco-November-21-2023-WCQ----CAF-M
+,2026,,2023-11-21 nan-Togo,2023-11-21,First round,Tue,Home,D,0,0,Togo,0,,,,,,0,0,16:00:00,/en/matches/9e13db88/Togo-Senegal-November-21-2023-WCQ----CAF-M
+,2026,,2023-11-21 nan-Uzbekistan,2023-11-21,Second round,Tue,Home,D,2,2,Uzbekistan,2,,,,,,0,0,18:00:00,/en/matches/054ec5f5/Uzbekistan-IR-Iran-November-21-2023-WCQ----AFC-M
+,2026,,2023-11-21 nan-Vietnam,2023-11-21,Second round,Tue,Home,L,0,1,Vietnam,0,,,,,,0,0,19:00:00,/en/matches/5eac360b/Vietnam-Iraq-November-21-2023-WCQ----AFC-M
+,2026,,2024-03-21 Korea DPR-nan,2024-03-21,Second round,Thu,Away,L,0,1,Korea DPR,0,,,,,,0,0,19:23:00,/en/matches/9402d6e2/Japan-Korea-DPR-March-21-2024-WCQ----AFC-M
+,2026,,2024-03-21 Kuwait-nan,2024-03-21,Second round,Thu,Away,L,0,3,Kuwait,0,,,,,,0,0,21:30:00,/en/matches/aa4560ca/Qatar-Kuwait-March-21-2024-WCQ----AFC-M
+,2026,,2024-03-21 Lebanon-nan,2024-03-21,Second round,Thu,Away,L,0,2,Lebanon,0,,,,,,0,0,20:10:00,/en/matches/d7d1e5b6/Australia-Lebanon-March-21-2024-WCQ----AFC-M
+,2026,,2024-03-21 Philippines-nan,2024-03-21,Second round,Thu,Away,L,0,1,Philippines,0,,,,,,0,0,22:00:00,/en/matches/fb1a0b4c/Iraq-Philippines-March-21-2024-WCQ----AFC-M
+,2026,,2024-03-21 Tajikistan-nan,2024-03-21,Second round,Thu,Away,L,0,1,Tajikistan,0,,,,,,0,0,22:00:00,/en/matches/55a1cffd/Saudi-Arabia-Tajikistan-March-21-2024-WCQ----AFC-M
+,2026,,2024-03-21 Thailand-nan,2024-03-21,Second round,Thu,Away,D,1,1,Thailand,1,,,,,,0,0,20:00:00,/en/matches/5620715c/Korea-Republic-Thailand-March-21-2024-WCQ----AFC-M
+,2026,,2024-03-21 Turkmenistan-nan,2024-03-21,Second round,Thu,Away,L,0,5,Turkmenistan,0,,,,,,0,0,20:30:00,/en/matches/9bcd142c/IR-Iran-Turkmenistan-March-21-2024-WCQ----AFC-M
+,2026,,2024-03-21 nan-Hong Kong,2024-03-21,Second round,Thu,Home,L,0,2,Hong Kong,0,,,,,,0,0,20:00:00,/en/matches/305871f3/Hong-Kong-Uzbekistan-March-21-2024-WCQ----AFC-M
+,2026,,2024-03-21 nan-Pakistan,2024-03-21,Second round,Thu,Home,L,0,3,Pakistan,0,,,,,,0,0,14:00:00,/en/matches/0c0a6775/Pakistan-Jordan-March-21-2024-WCQ----AFC-M
+,2026,,2024-03-26 Hong Kong-nan,2024-03-26,Second round,Tue,Away,L,0,3,Hong Kong,0,,,,,,0,0,19:30:00,/en/matches/0635af99/Uzbekistan-Hong-Kong-March-26-2024-WCQ----AFC-M
+,2026,,2024-03-26 Lebanon-Lebanon,2024-03-26,Second round,Tue,Neutral,L,0,5,Lebanon,0,,,,,,0,0,19:45:00,/en/matches/4dabee7e/Lebanon-Australia-March-26-2024-WCQ----AFC-M
+,2026,,2024-03-26 Pakistan-nan,2024-03-26,Second round,Tue,Away,L,0,7,Pakistan,0,,,,,,0,0,21:00:00,/en/matches/5d123dc9/Jordan-Pakistan-March-26-2024-WCQ----AFC-M
+,2026,,2024-03-26 nan-Kuwait,2024-03-26,Second round,Tue,Home,L,1,2,Kuwait,1,,,,,,0,0,22:00:00,/en/matches/69aaa58b/Kuwait-Qatar-March-26-2024-WCQ----AFC-M
+,2026,,2024-03-26 nan-Philippines,2024-03-26,Second round,Tue,Home,L,0,5,Philippines,0,,,,,,0,0,19:00:00,/en/matches/65ac4cb2/Philippines-Iraq-March-26-2024-WCQ----AFC-M
+,2026,,2024-03-26 nan-Tajikistan,2024-03-26,Second round,Tue,Home,D,1,1,Tajikistan,1,,,,,,0,0,20:00:00,/en/matches/bfcd8c4b/Tajikistan-Saudi-Arabia-March-26-2024-WCQ----AFC-M
+,2026,,2024-03-26 nan-Thailand,2024-03-26,Second round,Tue,Home,L,0,3,Thailand,0,,,,,,0,0,19:30:00,/en/matches/7bcd7348/Thailand-Korea-Republic-March-26-2024-WCQ----AFC-M
+,2026,,2024-03-26 nan-Turkmenistan,2024-03-26,Second round,Tue,Home,L,0,1,Turkmenistan,0,,,,,,0,0,20:00:00,/en/matches/a40108d3/Turkmenistan-IR-Iran-March-26-2024-WCQ----AFC-M
+,2026,,2024-06-05 Equ. Guinea-nan,2024-06-05,First round,Wed,Away,L,0,1,Equ. Guinea,0,,,,,,0,0,20:00:00,/en/matches/e509f451/Tunisia-Equatorial-Guinea-June-5-2024-WCQ----CAF-M
+,2026,,2024-06-06 Afghanistan-Afghanistan,2024-06-06,Second round,Thu,Neutral,D,0,0,Afghanistan,0,,,,,,0,0,19:00:00,/en/matches/59aa43d0/Afghanistan-Qatar-June-6-2024-WCQ----AFC-M
+,2026,,2024-06-06 Barbados-nan,2024-06-06,Second round,Thu,Away,L,1,4,Barbados,1,,,,,,1,1,08:30:00,/en/matches/fbb2e9ce/Curacao-Barbados-June-6-2024-WCQ----CONCACAF-M
+,2026,,2024-06-06 Burkina Faso-nan,2024-06-06,First round,Thu,Away,L,1,2,Burkina Faso,1,,,,,,0,0,21:00:00,/en/matches/246d17f5/Egypt-Burkina-Faso-June-6-2024-WCQ----CAF-M
+,2026,,2024-06-06 Congo DR-nan,2024-06-06,First round,Thu,Away,D,1,1,Congo DR,1,,,,,,0,0,19:00:00,/en/matches/ba8ce130/Senegal-Congo-DR-June-6-2024-WCQ----CAF-M
+,2026,,2024-06-06 Guinea-nan,2024-06-06,First round,Thu,Away,W,2,1,Guinea,2,,,,,,0,0,22:00:00,/en/matches/ceca1b4a/Algeria-Guinea-June-6-2024-WCQ----CAF-M
+,2026,,2024-06-06 Guyana-nan,2024-06-06,Second round,Thu,Away,L,0,2,Guyana,0,,,,,,0,0,19:30:00,/en/matches/3fd52545/Panama-Guyana-June-6-2024-WCQ----CONCACAF-M
+,2026,,2024-06-06 St. Lucia-nan,2024-06-06,Second round,Thu,Away,L,1,2,St. Lucia,1,,,,,,0,0,17:00:00,/en/matches/21009528/Haiti-St-Lucia-June-6-2024-WCQ----CONCACAF-M
+,2026,,2024-06-06 Tajikistan-nan,2024-06-06,Second round,Thu,Away,L,0,3,Tajikistan,0,,,,,,0,0,20:30:00,/en/matches/7efa0fb8/Jordan-Tajikistan-June-6-2024-WCQ----AFC-M
+,2026,,2024-06-06 Turkmenistan-nan,2024-06-06,Second round,Thu,Away,L,1,3,Turkmenistan,1,,,,,,0,0,19:30:00,/en/matches/6b991823/Uzbekistan-Turkmenistan-June-6-2024-WCQ----AFC-M
+,2026,,2024-06-06 nan-Bangladesh,2024-06-06,Second round,Thu,Home,L,0,2,Bangladesh,0,,,,,,0,0,16:45:00,/en/matches/88252278/Bangladesh-Australia-June-6-2024-WCQ----AFC-M
+,2026,,2024-06-06 nan-Hong Kong,2024-06-06,Second round,Thu,Home,L,2,4,Hong Kong,2,,,,,,0,0,20:00:00,/en/matches/a40b3de9/Hong-Kong-IR-Iran-June-6-2024-WCQ----AFC-M
+,2026,,2024-06-06 nan-Indonesia,2024-06-06,Second round,Thu,Home,L,0,2,Indonesia,0,,,,,,0,0,16:00:00,/en/matches/bbe14154/Indonesia-Iraq-June-6-2024-WCQ----AFC-M
+,2026,,2024-06-06 nan-Mali,2024-06-06,First round,Thu,Home,L,1,2,Mali,1,,,,,,0,0,19:00:00,/en/matches/676ea0f7/Mali-Ghana-June-6-2024-WCQ----CAF-M
+,2026,,2024-06-06 nan-Myanmar,2024-06-06,Second round,Thu,Home,L,0,5,Myanmar,0,,,,,,0,0,18:40:00,/en/matches/1da5aefb/Myanmar-Japan-June-6-2024-WCQ----AFC-M
+,2026,,2024-06-06 nan-Pakistan,2024-06-06,Second round,Thu,Home,L,0,3,Pakistan,0,,,,,,0,0,20:30:00,/en/matches/02dd93e9/Pakistan-Saudi-Arabia-June-6-2024-WCQ----AFC-M
+,2026,,2024-06-06 nan-Senegal,2024-06-06,First round,Thu,Home,D,1,1,Senegal,1,,,,,,0,0,19:00:00,/en/matches/ba8ce130/Senegal-Congo-DR-June-6-2024-WCQ----CAF-M
+,2026,,2024-06-06 nan-Singapore,2024-06-06,Second round,Thu,Home,L,0,7,Singapore,0,,,,,,0,0,20:00:00,/en/matches/e8a870da/Singapore-Korea-Republic-June-6-2024-WCQ----AFC-M
+,2026,,2024-06-07 Gabon-nan,2024-06-07,First round,Fri,Away,L,0,1,Gabon,0,,,,,,0,0,19:00:00,/en/matches/c858edc7/Cote-dIvoire-Gabon-June-7-2024-WCQ----CAF-M
+,2026,,2024-06-07 Zambia-nan,2024-06-07,First round,Fri,Away,L,1,2,Zambia,1,,,,,,0,0,20:00:00,/en/matches/b767d6a0/Morocco-Zambia-June-7-2024-WCQ----CAF-M
+,2026,,2024-06-07 nan-Nigeria,2024-06-07,First round,Fri,Home,D,1,1,Nigeria,1,,,,,,0,0,20:00:00,/en/matches/bf096bb2/Nigeria-South-Africa-June-7-2024-WCQ----CAF-M
+,2026,,2024-06-08 nan-Aruba,2024-06-08,Second round,Sat,Home,L,0,2,Aruba,0,,,,,,0,0,20:00:00,/en/matches/03de5ddf/Aruba-Curacao-June-8-2024-WCQ----CONCACAF-M
+,2026,,2024-06-08 nan-Cameroon,2024-06-08,First round,Sat,Home,W,4,1,Cameroon,4,,,,,,1,1,14:00:00,/en/matches/581fa1b7/Cameroon-Cabo-Verde-June-8-2024-WCQ----CAF-M
+,2026,,2024-06-09 Namibia-Namibia,2024-06-09,First round,Sun,Neutral,D,0,0,Namibia,0,,,,,,0,0,18:00:00,/en/matches/4ea5c113/Namibia-Tunisia-June-9-2024-WCQ----CAF-M
+,2026,,2024-06-09 Togo-nan,2024-06-09,First round,Sun,Away,L,0,1,Togo,0,,,,,,0,0,17:00:00,/en/matches/9cf901f9/Congo-DR-Togo-June-9-2024-WCQ----CAF-M
+,2026,,2024-06-09 nan-Barbados,2024-06-09,Second round,Sun,Home,L,1,3,Barbados,1,,,,,,0,0,17:00:00,/en/matches/07fca286/Barbados-Haiti-June-9-2024-WCQ----CONCACAF-M
+,2026,,2024-06-09 nan-Mauritania,2024-06-09,First round,Sun,Home,L,0,1,Mauritania,0,,,,,,0,0,16:00:00,/en/matches/b611fa69/Mauritania-Senegal-June-9-2024-WCQ----CAF-M
+,2026,,2024-06-09 nan-Montserrat,2024-06-09,Second round,Sun,Home,L,1,3,Montserrat,1,,,,,,0,0,19:00:00,/en/matches/74f47cc6/Montserrat-Panama-June-9-2024-WCQ----CONCACAF-M
+,2026,,2024-06-10 CAR-nan,2024-06-10,First round,Mon,Away,L,3,4,CAR,3,,,,,,0,0,19:00:00,/en/matches/4411ff7e/Ghana-Central-African-Republic-June-10-2024-WCQ----CAF-M
+,2026,,2024-06-10 nan-Guinea-Bissau,2024-06-10,First round,Mon,Home,D,1,1,Guinea-Bissau,1,,,,,,0,0,16:00:00,/en/matches/5f1718d0/Guinea-Bissau-Egypt-June-10-2024-WCQ----CAF-M
+,2026,,2024-06-10 nan-Uganda,2024-06-10,First round,Mon,Home,L,1,2,Uganda,1,,,,,,0,0,19:00:00,/en/matches/64f8c7e8/Uganda-Algeria-June-10-2024-WCQ----CAF-M
+,2026,,2024-06-11 China PR-nan,2024-06-11,Second round,Tue,Away,L,0,1,China PR,0,,,,,,0,0,20:00:00,/en/matches/a9032a94/Korea-Republic-China-PR-June-11-2024-WCQ----AFC-M
+,2026,,2024-06-11 Congo-Congo,2024-06-11,First round,Tue,Neutral,L,0,6,Congo,0,,,,,,0,0,20:00:00,/en/matches/da88a674/Congo-Morocco-June-11-2024-WCQ----CAF-M
+,2026,,2024-06-11 India-nan,2024-06-11,Second round,Tue,Away,L,1,2,India,1,,,,,,0,0,18:45:00,/en/matches/91f832ba/Qatar-India-June-11-2024-WCQ----AFC-M
+,2026,,2024-06-11 Jordan-nan,2024-06-11,Second round,Tue,Away,W,2,1,Jordan,2,,,,,,0,0,21:00:00,/en/matches/f99487d7/Saudi-Arabia-Jordan-June-11-2024-WCQ----AFC-M
+,2026,,2024-06-11 Kenya-Kenya,2024-06-11,First round,Tue,Neutral,D,0,0,Kenya,0,,,,,,0,0,15:00:00,/en/matches/480b570a/Kenya-Cote-dIvoire-June-11-2024-WCQ----CAF-M
+,2026,,2024-06-11 Libya-nan,2024-06-11,First round,Tue,Away,L,0,1,Libya,0,,,,,,0,0,15:00:00,/en/matches/6005ac0d/Cabo-Verde-Libya-June-11-2024-WCQ----CAF-M
+,2026,,2024-06-11 Palestine-nan,2024-06-11,Second round,Tue,Away,L,0,5,Palestine,0,,,,,,0,0,20:10:00,/en/matches/bac1275f/Australia-Palestine-June-11-2024-WCQ----AFC-M
+,2026,,2024-06-11 Syria-nan,2024-06-11,Second round,Tue,Away,L,0,5,Syria,0,,,,,,0,0,19:14:00,/en/matches/1e1e0432/Japan-Syria-June-11-2024-WCQ----AFC-M
+,2026,,2024-06-11 Uzbekistan-nan,2024-06-11,Second round,Tue,Away,D,0,0,Uzbekistan,0,,,,,,0,0,21:30:00,/en/matches/d8114698/IR-Iran-Uzbekistan-June-11-2024-WCQ----AFC-M
+,2026,,2024-06-11 Vietnam-nan,2024-06-11,Second round,Tue,Away,L,1,3,Vietnam,1,,,,,,0,0,21:00:00,/en/matches/13c5e4bb/Iraq-Vietnam-June-11-2024-WCQ----AFC-M
+,2026,,2024-06-11 Zimbabwe-nan,2024-06-11,First round,Tue,Away,L,1,3,Zimbabwe,1,,,,,,0,0,18:00:00,/en/matches/475cfa0e/South-Africa-Zimbabwe-June-11-2024-WCQ----CAF-M
+,2026,,2024-06-11 nan-IR Iran,2024-06-11,Second round,Tue,Home,D,0,0,IR Iran,0,,,,,,0,0,21:30:00,/en/matches/d8114698/IR-Iran-Uzbekistan-June-11-2024-WCQ----AFC-M
+,2026,,2024-06-11 nan-Saudi Arabia,2024-06-11,Second round,Tue,Home,L,1,2,Saudi Arabia,1,,,,,,0,0,21:00:00,/en/matches/f99487d7/Saudi-Arabia-Jordan-June-11-2024-WCQ----AFC-M
+,2026,,2024-09-05 Bahrain-nan,2024-09-05,Third round,Thu,Away,W,1,0,Bahrain,0,3,1,33.3,0.0,0.0,0,0,20:10:00,/en/matches/10a08731/Australia-Bahrain-September-5-2024-WCQ----AFC-M
+,2026,,2024-09-05 Chile-nan,2024-09-05,World Cup qualification,Thu,Away,L,0,3,Chile,0,5,1,20.0,0.0,0.0,0,0,21:00:00,/en/matches/368ff884/Argentina-Chile-September-5-2024-WCQ----CONMEBOL-M
+,2026,,2024-09-05 China PR-nan,2024-09-05,Third round,Thu,Away,L,0,7,China PR,0,1,0,0.0,0.0,,0,0,19:35:00,/en/matches/1dc362ac/Japan-China-PR-September-5-2024-WCQ----AFC-M
+,2026,,2024-09-05 Indonesia-nan,2024-09-05,Third round,Thu,Away,D,1,1,Indonesia,1,8,2,25.0,0.13,0.5,0,0,21:00:00,/en/matches/34684991/Saudi-Arabia-Indonesia-September-5-2024-WCQ----AFC-M
+,2026,,2024-09-05 Korea DPR-nan,2024-09-05,Third round,Thu,Away,L,0,1,Korea DPR,0,8,4,50.0,0.0,0.0,0,1,19:00:00,/en/matches/d6caf3ec/Uzbekistan-Korea-DPR-September-5-2024-WCQ----AFC-M
+,2026,,2024-09-05 Kuwait-nan,2024-09-05,Third round,Thu,Away,D,1,1,Kuwait,1,5,2,40.0,0.2,0.5,1,1,21:00:00,/en/matches/ba5eab2d/Jordan-Kuwait-September-5-2024-WCQ----AFC-M
+,2026,,2024-09-05 Kyrgyz Republic-nan,2024-09-05,Third round,Thu,Away,L,0,1,Kyrgyz Republic,0,7,6,85.7,0.0,0.0,0,0,20:30:00,/en/matches/47632c55/IR-Iran-Kyrgyz-Republic-September-5-2024-WCQ----AFC-M
+,2026,,2024-09-05 Oman-nan,2024-09-05,Third round,Thu,Away,L,0,1,Oman,0,11,5,45.5,0.0,0.0,0,0,19:00:00,/en/matches/68be961d/Iraq-Oman-September-5-2024-WCQ----AFC-M
+,2026,,2024-09-05 Palestine-nan,2024-09-05,Third round,Thu,Away,D,0,0,Palestine,0,10,3,30.0,0.0,0.0,0,0,20:00:00,/en/matches/c95bcad6/Korea-Republic-Palestine-September-5-2024-WCQ----AFC-M
+,2026,,2024-09-05 UAE-nan,2024-09-05,Third round,Thu,Away,W,3,1,UAE,3,9,4,44.4,0.33,0.75,0,0,19:00:00,/en/matches/baa1d351/Qatar-United-Arab-Emirates-September-5-2024-WCQ----AFC-M
+,2026,,2024-09-06 Ecuador-nan,2024-09-06,World Cup qualification,Fri,Away,L,0,1,Ecuador,0,9,2,22.2,0.0,0.0,0,0,22:00:00,/en/matches/8da8f0c8/Brazil-Ecuador-September-6-2024-WCQ----CONMEBOL-M
+,2026,,2024-09-06 Paraguay-nan,2024-09-06,World Cup qualification,Fri,Away,D,0,0,Paraguay,0,8,2,25.0,0.0,0.0,0,0,20:30:00,/en/matches/87b3dc5b/Uruguay-Paraguay-September-6-2024-WCQ----CONMEBOL-M
+,2026,,2024-09-06 nan-Brazil,2024-09-06,World Cup qualification,Fri,Home,W,1,0,Brazil,1,10,3,30.0,0.1,0.33,0,0,22:00:00,/en/matches/8da8f0c8/Brazil-Ecuador-September-6-2024-WCQ----CONMEBOL-M
+,2026,,2024-09-06 nan-Peru,2024-09-06,World Cup qualification,Fri,Home,D,1,1,Peru,1,9,3,33.3,0.11,0.33,0,0,20:30:00,/en/matches/9800bfd8/Peru-Colombia-September-6-2024-WCQ----CONMEBOL-M
+,2026,,2024-09-06 nan-Uruguay,2024-09-06,World Cup qualification,Fri,Home,D,0,0,Uruguay,0,11,1,9.1,0.0,0.0,0,0,20:30:00,/en/matches/87b3dc5b/Uruguay-Paraguay-September-6-2024-WCQ----CONMEBOL-M
+,2026,,2024-09-10 Argentina-nan,2024-09-10,World Cup qualification,Tue,Away,L,1,2,Argentina,1,13,1,7.7,0.08,1.0,0,0,15:30:00,/en/matches/a116795c/Colombia-Argentina-September-10-2024-WCQ----CONMEBOL-M
+,2026,,2024-09-10 Brazil-nan,2024-09-10,World Cup qualification,Tue,Away,L,0,1,Brazil,0,9,3,33.3,0.0,0.0,0,0,20:30:00,/en/matches/f40d8740/Paraguay-Brazil-September-10-2024-WCQ----CONMEBOL-M
+,2026,,2024-09-10 Korea DPR-Korea DPR,2024-09-10,Third round,Tue,Neutral,D,2,2,Korea DPR,2,11,5,45.5,0.18,0.4,0,0,19:00:00,/en/matches/85268717/Korea-DPR-Qatar-September-10-2024-WCQ----AFC-M
+,2026,,2024-09-10 Palestine-Palestine,2024-09-10,Third round,Tue,Neutral,L,1,3,Palestine,1,10,4,40.0,0.1,0.25,0,0,22:00:00,/en/matches/9e8c26b1/Palestine-Jordan-September-10-2024-WCQ----AFC-M
+,2026,,2024-09-10 Peru-nan,2024-09-10,World Cup qualification,Tue,Away,L,0,1,Peru,0,2,1,50.0,0.0,0.0,0,0,16:00:00,/en/matches/29425586/Ecuador-Peru-September-10-2024-WCQ----CONMEBOL-M
+,2026,,2024-09-10 nan-Bahrain,2024-09-10,Third round,Tue,Home,L,0,5,Bahrain,0,3,1,33.3,0.0,0.0,0,0,19:00:00,/en/matches/b9b375c2/Bahrain-Japan-September-10-2024-WCQ----AFC-M
+,2026,,2024-09-10 nan-China PR,2024-09-10,Third round,Tue,Home,L,1,2,China PR,0,15,1,6.7,0.0,0.0,0,0,20:00:00,/en/matches/cebb22d0/China-PR-Saudi-Arabia-September-10-2024-WCQ----AFC-M
+,2026,,2024-09-10 nan-Colombia,2024-09-10,World Cup qualification,Tue,Home,W,2,1,Colombia,2,9,5,55.6,0.22,0.4,1,1,15:30:00,/en/matches/a116795c/Colombia-Argentina-September-10-2024-WCQ----CONMEBOL-M
+,2026,,2024-09-10 nan-Indonesia,2024-09-10,Third round,Tue,Home,D,0,0,Indonesia,0,5,2,40.0,0.0,0.0,0,0,19:00:00,/en/matches/b9d3ffd0/Indonesia-Australia-September-10-2024-WCQ----AFC-M
+,2026,,2024-09-10 nan-Kuwait,2024-09-10,Third round,Tue,Home,D,0,0,Kuwait,0,7,2,28.6,0.0,0.0,0,0,21:00:00,/en/matches/c8af72c4/Kuwait-Iraq-September-10-2024-WCQ----AFC-M
+,2026,,2024-09-10 nan-Kyrgyz Republic,2024-09-10,Third round,Tue,Home,L,2,3,Kyrgyz Republic,2,11,2,18.2,0.18,1.0,0,0,20:00:00,/en/matches/729e9176/Kyrgyz-Republic-Uzbekistan-September-10-2024-WCQ----AFC-M
+,2026,,2024-09-10 nan-Oman,2024-09-10,Third round,Tue,Home,L,1,3,Oman,0,6,0,0.0,0.0,,0,0,18:00:00,/en/matches/ec1883b2/Oman-Korea-Republic-September-10-2024-WCQ----AFC-M
+,2026,,2024-09-10 nan-Paraguay,2024-09-10,World Cup qualification,Tue,Home,W,1,0,Paraguay,1,7,2,28.6,0.14,0.5,0,0,20:30:00,/en/matches/f40d8740/Paraguay-Brazil-September-10-2024-WCQ----CONMEBOL-M
+,2026,,2024-09-10 nan-UAE,2024-09-10,Third round,Tue,Home,L,0,1,UAE,0,12,2,16.7,0.0,0.0,0,0,20:00:00,/en/matches/f2e5d98e/United-Arab-Emirates-IR-Iran-September-10-2024-WCQ----AFC-M
+,2026,,2024-09-10 nan-Venezuela,2024-09-10,World Cup qualification,Tue,Home,D,0,0,Venezuela,0,20,6,30.0,0.0,0.0,0,0,18:00:00,/en/matches/3c0cdf72/Venezuela-Uruguay-September-10-2024-WCQ----CONMEBOL-M
+,2026,,2024-10-10 China PR-nan,2024-10-10,Third round,Thu,Away,L,1,3,China PR,1,7,1,14.3,0.14,1.0,0,0,19:40:00,/en/matches/30586f79/Australia-China-PR-October-10-2024-WCQ----AFC-M
+,2026,,2024-10-10 IR Iran-nan,2024-10-10,Third round,Thu,Away,D,0,0,IR Iran,0,10,5,50.0,0.0,0.0,0,0,19:00:00,/en/matches/812a04e9/Uzbekistan-IR-Iran-October-10-2024-WCQ----AFC-M
+,2026,,2024-10-10 Japan-nan,2024-10-10,Third round,Thu,Away,W,2,0,Japan,2,7,3,42.9,0.29,0.67,0,0,21:00:00,/en/matches/19cbb8b1/Saudi-Arabia-Japan-October-10-2024-WCQ----AFC-M
+,2026,,2024-10-10 Korea Republic-nan,2024-10-10,Third round,Thu,Away,W,2,0,Korea Republic,2,12,5,41.7,0.17,0.4,0,0,17:00:00,/en/matches/aa794aa7/Jordan-Korea-Republic-October-10-2024-WCQ----AFC-M
+,2026,,2024-10-10 Kyrgyz Republic-nan,2024-10-10,Third round,Thu,Away,L,1,3,Kyrgyz Republic,1,8,3,37.5,0.13,0.33,0,0,19:00:00,/en/matches/059b56ef/Qatar-Kyrgyz-Republic-October-10-2024-WCQ----AFC-M
+,2026,,2024-10-10 Palestine-nan,2024-10-10,Third round,Thu,Away,L,0,1,Palestine,0,4,1,25.0,0.0,0.0,0,0,21:00:00,/en/matches/61015812/Iraq-Palestine-October-10-2024-WCQ----AFC-M
+,2026,,2024-10-10 Paraguay-nan,2024-10-10,World Cup qualification,Thu,Away,D,0,0,Paraguay,0,3,2,66.7,0.0,0.0,0,0,16:00:00,/en/matches/c4354f34/Ecuador-Paraguay-October-10-2024-WCQ----CONMEBOL-M
+,2026,,2024-10-10 nan-Bolivia,2024-10-10,World Cup qualification,Thu,Home,W,1,0,Bolivia,1,14,8,57.1,0.07,0.13,0,0,16:00:00,/en/matches/cf073fac/Bolivia-Colombia-October-10-2024-WCQ----CONMEBOL-M
+,2026,,2024-10-10 nan-Chile,2024-10-10,World Cup qualification,Thu,Home,L,1,2,Chile,1,7,1,14.3,0.14,1.0,0,0,21:00:00,/en/matches/be9cefba/Chile-Brazil-October-10-2024-WCQ----CONMEBOL-M
+,2026,,2024-10-10 nan-Ecuador,2024-10-10,World Cup qualification,Thu,Home,D,0,0,Ecuador,0,15,5,33.3,0.0,0.0,0,0,16:00:00,/en/matches/c4354f34/Ecuador-Paraguay-October-10-2024-WCQ----CONMEBOL-M
+,2026,,2024-10-10 nan-Jordan,2024-10-10,Third round,Thu,Home,L,0,2,Jordan,0,13,2,15.4,0.0,0.0,0,0,17:00:00,/en/matches/aa794aa7/Jordan-Korea-Republic-October-10-2024-WCQ----AFC-M
+,2026,,2024-10-10 nan-Saudi Arabia,2024-10-10,Third round,Thu,Home,L,0,2,Saudi Arabia,0,13,2,15.4,0.0,0.0,0,0,21:00:00,/en/matches/19cbb8b1/Saudi-Arabia-Japan-October-10-2024-WCQ----AFC-M
+,2026,,2024-10-10 nan-Uzbekistan,2024-10-10,Third round,Thu,Home,D,0,0,Uzbekistan,0,10,1,10.0,0.0,0.0,0,0,19:00:00,/en/matches/812a04e9/Uzbekistan-IR-Iran-October-10-2024-WCQ----AFC-M
+,2026,,2024-10-10 nan-Venezuela,2024-10-10,World Cup qualification,Thu,Home,D,1,1,Venezuela,1,16,6,37.5,0.06,0.17,0,0,17:00:00,/en/matches/ab629e8a/Venezuela-Argentina-October-10-2024-WCQ----CONMEBOL-M
+,2026,,2024-10-11 Tahiti-Tahiti,2024-10-11,Second round,Fri,Neutral,L,0,3,Tahiti,0,,,,,,0,0,13:00:00,/en/matches/af72bb90/New-Zealand-Tahiti-October-11-2024-WCQ----OFC-M
+,2026,,2024-10-11 nan-Peru,2024-10-11,World Cup qualification,Fri,Home,W,1,0,Peru,1,13,3,23.1,0.08,0.33,0,0,20:30:00,/en/matches/67e91e6b/Peru-Uruguay-October-11-2024-WCQ----CONMEBOL-M
+,2026,,2024-10-15 Australia-nan,2024-10-15,Third round,Tue,Away,D,1,1,Australia,0,1,0,0.0,0.0,,0,0,19:35:00,/en/matches/53fa3c4e/Japan-Australia-October-15-2024-WCQ----AFC-M
+,2026,,2024-10-15 Bahrain-nan,2024-10-15,Third round,Tue,Away,D,0,0,Bahrain,0,5,2,40.0,0.0,0.0,0,0,21:00:00,/en/matches/7be76bd3/Saudi-Arabia-Bahrain-October-15-2024-WCQ----AFC-M
+,2026,,2024-10-15 Bolivia-nan,2024-10-15,World Cup qualification,Tue,Away,L,0,6,Bolivia,0,4,1,25.0,0.0,0.0,0,0,21:00:00,/en/matches/1682e565/Argentina-Bolivia-October-15-2024-WCQ----CONMEBOL-M
+,2026,,2024-10-15 Chile-nan,2024-10-15,World Cup qualification,Tue,Away,L,0,4,Chile,0,8,2,25.0,0.0,0.0,0,0,15:30:00,/en/matches/e5141722/Colombia-Chile-October-15-2024-WCQ----CONMEBOL-M
+,2026,,2024-10-15 Ecuador-nan,2024-10-15,World Cup qualification,Tue,Away,D,0,0,Ecuador,0,8,4,50.0,0.0,0.0,0,0,20:30:00,/en/matches/d046b8a6/Uruguay-Ecuador-October-15-2024-WCQ----CONMEBOL-M
+,2026,,2024-10-15 IR Iran-IR Iran,2024-10-15,Third round,Tue,Neutral,W,4,1,IR Iran,4,15,7,46.7,0.27,0.57,0,0,19:30:00,/en/matches/58d5c397/IR-Iran-Qatar-October-15-2024-WCQ----AFC-M
+,2026,,2024-10-15 Iraq-nan,2024-10-15,Third round,Tue,Away,L,2,3,Iraq,2,8,2,25.0,0.25,1.0,0,0,20:00:00,/en/matches/ad95fa29/Korea-Republic-Iraq-October-15-2024-WCQ----AFC-M
+,2026,,2024-10-15 Oman-nan,2024-10-15,Third round,Tue,Away,L,0,4,Oman,0,3,1,33.3,0.0,0.0,0,0,19:00:00,/en/matches/5f683c48/Jordan-Oman-October-15-2024-WCQ----AFC-M
+,2026,,2024-10-15 Peru-nan,2024-10-15,World Cup qualification,Tue,Away,L,0,4,Peru,0,3,2,66.7,0.0,0.0,0,0,21:45:00,/en/matches/398f157e/Brazil-Peru-October-15-2024-WCQ----CONMEBOL-M
+,2026,,2024-10-15 Qatar-Qatar,2024-10-15,Third round,Tue,Neutral,L,1,4,Qatar,1,11,1,9.1,0.09,1.0,0,0,19:30:00,/en/matches/58d5c397/IR-Iran-Qatar-October-15-2024-WCQ----AFC-M
+,2026,,2024-10-15 UAE-nan,2024-10-15,Third round,Tue,Away,L,0,1,UAE,0,10,5,50.0,0.0,0.0,0,0,19:00:00,/en/matches/c94cf88a/Uzbekistan-United-Arab-Emirates-October-15-2024-WCQ----AFC-M
+,2026,,2024-10-15 Venezuela-nan,2024-10-15,World Cup qualification,Tue,Away,L,1,2,Venezuela,1,6,3,50.0,0.17,0.33,0,0,20:00:00,/en/matches/b055e496/Paraguay-Venezuela-October-15-2024-WCQ----CONMEBOL-M
+,2026,,2024-10-15 nan-Japan,2024-10-15,Third round,Tue,Home,D,1,1,Japan,0,12,3,25.0,0.0,0.0,0,0,19:35:00,/en/matches/53fa3c4e/Japan-Australia-October-15-2024-WCQ----AFC-M
+,2026,,2024-10-15 nan-Korea Republic,2024-10-15,Third round,Tue,Home,W,3,2,Korea Republic,3,7,3,42.9,0.43,1.0,0,0,20:00:00,/en/matches/ad95fa29/Korea-Republic-Iraq-October-15-2024-WCQ----AFC-M
+,2026,,2024-10-15 nan-Uruguay,2024-10-15,World Cup qualification,Tue,Home,D,0,0,Uruguay,0,11,4,36.4,0.0,0.0,0,0,20:30:00,/en/matches/d046b8a6/Uruguay-Ecuador-October-15-2024-WCQ----CONMEBOL-M
+,2026,,2024-11-14 Argentina-nan,2024-11-14,World Cup qualification,Thu,Away,L,1,2,Argentina,1,9,1,11.1,0.11,1.0,0,0,20:30:00,/en/matches/70ebc98c/Paraguay-Argentina-November-14-2024-WCQ----CONMEBOL-M
+,2026,,2024-11-14 Bolivia-nan,2024-11-14,World Cup qualification,Thu,Away,L,0,4,Bolivia,0,1,1,100.0,0.0,0.0,0,0,19:00:00,/en/matches/a77d4729/Ecuador-Bolivia-November-14-2024-WCQ----CONMEBOL-M
+,2026,,2024-11-14 Jordan-nan,2024-11-14,Third round,Thu,Away,D,0,0,Jordan,0,9,4,44.4,0.0,0.0,0,0,19:15:00,/en/matches/67a25229/Iraq-Jordan-November-14-2024-WCQ----AFC-M
+,2026,,2024-11-14 Korea DPR-Korea DPR,2024-11-14,Third round,Thu,Neutral,L,2,3,Korea DPR,1,17,4,23.5,0.06,0.25,0,0,19:00:00,/en/matches/50c84f34/Korea-DPR-IR-Iran-November-14-2024-WCQ----AFC-M
+,2026,,2024-11-14 Saudi Arabia-nan,2024-11-14,Third round,Thu,Away,D,0,0,Saudi Arabia,0,3,1,33.3,0.0,0.0,0,0,20:10:00,/en/matches/84c76d11/Australia-Saudi-Arabia-November-14-2024-WCQ----AFC-M
+,2026,,2024-11-14 Uzbekistan-nan,2024-11-14,Third round,Thu,Away,L,2,3,Uzbekistan,2,19,8,42.1,0.11,0.25,0,0,19:15:00,/en/matches/38a3fe1f/Qatar-Uzbekistan-November-14-2024-WCQ----AFC-M
+,2026,,2024-11-14 nan-Australia,2024-11-14,Third round,Thu,Home,D,0,0,Australia,0,13,2,15.4,0.0,0.0,0,0,20:10:00,/en/matches/84c76d11/Australia-Saudi-Arabia-November-14-2024-WCQ----AFC-M
+,2026,,2024-11-14 nan-Iraq,2024-11-14,Third round,Thu,Home,D,0,0,Iraq,0,10,2,20.0,0.0,0.0,0,0,19:15:00,/en/matches/67a25229/Iraq-Jordan-November-14-2024-WCQ----AFC-M
+,2026,,2024-11-14 nan-Kuwait,2024-11-14,Third round,Thu,Home,L,1,3,Kuwait,1,4,1,25.0,0.25,1.0,0,0,17:00:00,/en/matches/c24b5438/Kuwait-Korea-Republic-November-14-2024-WCQ----AFC-M
+,2026,,2024-11-14 nan-Paraguay,2024-11-14,World Cup qualification,Thu,Home,W,2,1,Paraguay,2,8,2,25.0,0.25,1.0,0,0,20:30:00,/en/matches/70ebc98c/Paraguay-Argentina-November-14-2024-WCQ----CONMEBOL-M
+,2026,,2024-11-14 nan-Qatar,2024-11-14,Third round,Thu,Home,W,3,2,Qatar,3,10,7,70.0,0.3,0.43,0,0,19:15:00,/en/matches/38a3fe1f/Qatar-Uzbekistan-November-14-2024-WCQ----AFC-M
+,2026,,2024-11-14 nan-Venezuela,2024-11-14,World Cup qualification,Thu,Home,D,1,1,Venezuela,1,12,5,41.7,0.08,0.2,0,0,17:00:00,/en/matches/bd726a09/Venezuela-Brazil-November-14-2024-WCQ----CONMEBOL-M
+,2026,,2024-11-15 Colombia-nan,2024-11-15,World Cup qualification,Fri,Away,L,2,3,Colombia,2,10,4,40.0,0.2,0.5,0,0,21:00:00,/en/matches/68a63ecd/Uruguay-Colombia-November-15-2024-WCQ----CONMEBOL-M
+,2026,,2024-11-15 Vanuatu-Vanuatu,2024-11-15,Second round,Fri,Neutral,L,1,8,Vanuatu,1,,,,,,0,0,19:30:00,/en/matches/356dcbd3/New-Zealand-Vanuatu-November-15-2024-WCQ----OFC-M
+,2026,,2024-11-15 nan-Indonesia,2024-11-15,Third round,Fri,Home,L,0,4,Indonesia,0,8,3,37.5,0.0,0.0,0,0,19:00:00,/en/matches/822b50cd/Indonesia-Japan-November-15-2024-WCQ----AFC-M
+,2026,,2024-11-15 nan-Uruguay,2024-11-15,World Cup qualification,Fri,Home,W,3,2,Uruguay,2,10,5,50.0,0.2,0.4,0,0,21:00:00,/en/matches/68a63ecd/Uruguay-Colombia-November-15-2024-WCQ----CONMEBOL-M
+,2026,,2024-11-18 Samoa-Samoa,2024-11-18,Second round,Mon,Neutral,L,0,8,Samoa,0,,,,,,0,0,19:30:00,/en/matches/253e2a60/Samoa-New-Zealand-November-18-2024-WCQ----OFC-M
+,2026,,2024-11-19 Ecuador-nan,2024-11-19,World Cup qualification,Tue,Away,W,1,0,Ecuador,1,4,1,25.0,0.25,1.0,0,0,18:00:00,/en/matches/58dcd927/Colombia-Ecuador-November-19-2024-WCQ----CONMEBOL-M
+,2026,,2024-11-19 Korea DPR-Korea DPR,2024-11-19,Third round,Tue,Neutral,L,0,1,Korea DPR,0,15,2,13.3,0.0,0.0,0,1,19:00:00,/en/matches/7ed569f0/Korea-DPR-Uzbekistan-November-19-2024-WCQ----AFC-M
+,2026,,2024-11-19 Palestine-Palestine,2024-11-19,Third round,Tue,Neutral,D,1,1,Palestine,1,6,2,33.3,0.17,0.5,0,0,17:00:00,/en/matches/70c665e7/Palestine-Korea-Republic-November-19-2024-WCQ----AFC-M
+,2026,,2024-11-19 Peru-nan,2024-11-19,World Cup qualification,Tue,Away,L,0,1,Peru,0,2,0,0.0,0.0,,0,0,21:00:00,/en/matches/0dba6a58/Argentina-Peru-November-19-2024-WCQ----CONMEBOL-M
+,2026,,2024-11-19 Uruguay-nan,2024-11-19,World Cup qualification,Tue,Away,D,1,1,Uruguay,1,8,2,25.0,0.13,0.5,0,0,21:45:00,/en/matches/1d7d18d3/Brazil-Uruguay-November-19-2024-WCQ----CONMEBOL-M
+,2026,,2024-11-19 nan-Bahrain,2024-11-19,Third round,Tue,Home,D,2,2,Bahrain,2,7,3,42.9,0.29,0.67,0,0,21:15:00,/en/matches/1ab55832/Bahrain-Australia-November-19-2024-WCQ----AFC-M
+,2026,,2024-11-19 nan-Bolivia,2024-11-19,World Cup qualification,Tue,Home,D,2,2,Bolivia,2,11,5,45.5,0.18,0.4,1,1,16:00:00,/en/matches/29e7ab7e/Bolivia-Paraguay-November-19-2024-WCQ----CONMEBOL-M
+,2026,,2024-11-19 nan-Brazil,2024-11-19,World Cup qualification,Tue,Home,D,1,1,Brazil,1,18,3,16.7,0.06,0.33,0,0,21:45:00,/en/matches/1d7d18d3/Brazil-Uruguay-November-19-2024-WCQ----CONMEBOL-M
+,2026,,2024-11-19 nan-China PR,2024-11-19,Third round,Tue,Home,L,1,3,China PR,1,8,3,37.5,0.13,0.33,0,0,20:00:00,/en/matches/55f958d8/China-PR-Japan-November-19-2024-WCQ----AFC-M
+,2026,,2024-11-19 nan-Colombia,2024-11-19,World Cup qualification,Tue,Home,L,0,1,Colombia,0,25,7,28.0,0.0,0.0,0,0,18:00:00,/en/matches/58dcd927/Colombia-Ecuador-November-19-2024-WCQ----CONMEBOL-M
+,2026,,2024-11-19 nan-Indonesia,2024-11-19,Third round,Tue,Home,W,2,0,Indonesia,2,13,6,46.2,0.15,0.33,0,0,19:00:00,/en/matches/958478d0/Indonesia-Saudi-Arabia-November-19-2024-WCQ----AFC-M
+,2026,,2024-11-19 nan-Kuwait,2024-11-19,Third round,Tue,Home,D,1,1,Kuwait,1,10,5,50.0,0.1,0.2,0,0,21:15:00,/en/matches/420712d4/Kuwait-Jordan-November-19-2024-WCQ----AFC-M
+,2026,,2024-11-19 nan-Kyrgyz Republic,2024-11-19,Third round,Tue,Home,L,2,3,Kyrgyz Republic,2,8,3,37.5,0.25,0.67,1,1,20:00:00,/en/matches/248b7f63/Kyrgyz-Republic-IR-Iran-November-19-2024-WCQ----AFC-M
+,2026,,2024-11-19 nan-Oman,2024-11-19,Third round,Tue,Home,L,0,1,Oman,0,9,3,33.3,0.0,0.0,0,0,20:00:00,/en/matches/0bb05102/Oman-Iraq-November-19-2024-WCQ----AFC-M
+,2026,,2024-11-19 nan-UAE,2024-11-19,Third round,Tue,Home,W,5,0,UAE,5,9,6,66.7,0.56,0.83,2,2,20:00:00,/en/matches/86d8141f/United-Arab-Emirates-Qatar-November-19-2024-WCQ----AFC-M
+,2026,,2025-03-19 nan-Liberia,2025-03-19,First round,Wed,Home,L,0,1,Liberia,0,,,,,,0,0,16:00:00,/en/matches/81bfb76c/Liberia-Tunisia-March-19-2025-WCQ----CAF-M
+,2026,,2025-03-20 Bahrain-nan,2025-03-20,Third round,Thu,Away,L,0,2,Bahrain,0,7,2,28.6,0.0,0.0,0,0,19:35:00,/en/matches/909338e3/Japan-Bahrain-March-20-2025-WCQ----AFC-M
+,2026,,2025-03-20 Chile-nan,2025-03-20,World Cup qualification,Thu,Away,L,0,1,Chile,0,9,3,33.3,0.0,0.0,0,0,20:00:00,/en/matches/7cb2c20b/Paraguay-Chile-March-20-2025-WCQ----CONMEBOL-M
+,2026,,2025-03-20 China PR-nan,2025-03-20,Third round,Thu,Away,L,0,1,China PR,0,3,0,0.0,0.0,,0,0,21:15:00,/en/matches/a7d9d337/Saudi-Arabia-China-PR-March-20-2025-WCQ----AFC-M
+,2026,,2025-03-20 Colombia-nan,2025-03-20,World Cup qualification,Thu,Away,L,1,2,Colombia,1,10,3,30.0,0.1,0.33,0,0,21:45:00,/en/matches/8113f03f/Brazil-Colombia-March-20-2025-WCQ----CONMEBOL-M
+,2026,,2025-03-20 Indonesia-nan,2025-03-20,Third round,Thu,Away,L,1,5,Indonesia,1,11,4,36.4,0.09,0.25,0,1,20:10:00,/en/matches/a1184faf/Australia-Indonesia-March-20-2025-WCQ----AFC-M
+,2026,,2025-03-20 Korea DPR-nan,2025-03-20,Third round,Thu,Away,L,1,5,Korea DPR,1,12,6,50.0,0.08,0.17,0,0,21:15:00,/en/matches/f2202c5e/Qatar-Korea-DPR-March-20-2025-WCQ----AFC-M
+,2026,,2025-03-20 Kuwait-nan,2025-03-20,Third round,Thu,Away,D,2,2,Kuwait,2,4,2,50.0,0.5,1.0,0,0,21:15:00,/en/matches/733f0c12/Iraq-Kuwait-March-20-2025-WCQ----AFC-M
+,2026,,2025-03-20 Kyrgyz Republic-nan,2025-03-20,Third round,Thu,Away,L,0,1,Kyrgyz Republic,0,1,0,0.0,0.0,,0,0,21:00:00,/en/matches/62bc4d7f/Uzbekistan-Kyrgyz-Republic-March-20-2025-WCQ----AFC-M
+,2026,,2025-03-20 Mauritius-nan,2025-03-20,First round,Thu,Away,L,0,1,Mauritius,0,,,,,,0,0,15:00:00,/en/matches/3e6878f4/Cabo-Verde-Mauritius-March-20-2025-WCQ----CAF-M
+,2026,,2025-03-20 Oman-nan,2025-03-20,Third round,Thu,Away,D,1,1,Oman,1,5,2,40.0,0.2,0.5,0,0,20:00:00,/en/matches/d4f2ffe2/Korea-Republic-Oman-March-20-2025-WCQ----AFC-M
+,2026,,2025-03-20 Palestine-nan,2025-03-20,Third round,Thu,Away,L,1,3,Palestine,1,11,3,27.3,0.09,0.33,0,0,21:15:00,/en/matches/a0d0b336/Jordan-Palestine-March-20-2025-WCQ----AFC-M
+,2026,,2025-03-20 UAE-nan,2025-03-20,Third round,Thu,Away,L,0,2,UAE,0,6,1,16.7,0.0,0.0,0,0,19:30:00,/en/matches/32d96c81/IR-Iran-United-Arab-Emirates-March-20-2025-WCQ----AFC-M
+,2026,,2025-03-20 nan-Brazil,2025-03-20,World Cup qualification,Thu,Home,W,2,1,Brazil,2,17,7,41.2,0.12,0.29,1,1,21:45:00,/en/matches/8113f03f/Brazil-Colombia-March-20-2025-WCQ----CONMEBOL-M
+,2026,,2025-03-21 Albania-nan,2025-03-21,First round,Fri,Away,L,0,2,Albania,0,3,0,0.0,0.0,,0,0,19:45:00,/en/matches/9d4a21a1/England-Albania-March-21-2025-WCQ----UEFA-M
+,2026,,2025-03-21 Argentina-nan,2025-03-21,World Cup qualification,Fri,Away,W,1,0,Argentina,1,12,4,33.3,0.08,0.25,0,0,20:30:00,/en/matches/d640293b/Uruguay-Argentina-March-21-2025-WCQ----CONMEBOL-M
+,2026,,2025-03-21 Burundi-Burundi,2025-03-21,First round,Fri,Neutral,L,0,1,Burundi,0,,,,,,0,0,19:00:00,/en/matches/46e89285/Burundi-Cote-dIvoire-March-21-2025-WCQ----CAF-M
+,2026,,2025-03-21 Chad-nan,2025-03-21,First round,Fri,Away,L,0,5,Chad,0,,,,,,0,0,19:00:00,/en/matches/5a1bac6e/Ghana-Chad-March-21-2025-WCQ----CAF-M
+,2026,,2025-03-21 Ethiopia-Ethiopia,2025-03-21,First round,Fri,Neutral,L,0,2,Ethiopia,0,,,,,,0,0,21:00:00,/en/matches/d5dea417/Ethiopia-Egypt-March-21-2025-WCQ----CAF-M
+,2026,,2025-03-21 Fiji-Fiji,2025-03-21,Third round — Semi-finals,Fri,Neutral,L,0,7,Fiji,0,,,,,,0,0,19:10:00,/en/matches/6da04fe5/New-Zealand-Fiji-March-21-2025-WCQ----OFC-M
+,2026,,2025-03-21 Lesotho-nan,2025-03-21,First round,Fri,Away,W,3,0,Lesotho,0,,,,,,0,0,18:00:00,/en/matches/694674ab/South-Africa-Lesotho-March-21-2025-WCQ----CAF-M
+,2026,,2025-03-21 Niger-Niger,2025-03-21,First round,Fri,Neutral,L,1,2,Niger,1,,,,,,0,0,21:30:00,/en/matches/f9eab233/Niger-Morocco-March-21-2025-WCQ----CAF-M
+,2026,,2025-03-21 South Sudan-nan,2025-03-21,First round,Fri,Away,L,0,1,South Sudan,0,,,,,,0,0,17:00:00,/en/matches/5706042a/Congo-DR-South-Sudan-March-21-2025-WCQ----CAF-M
+,2026,,2025-03-21 Venezuela-nan,2025-03-21,World Cup qualification,Fri,Away,L,1,2,Venezuela,1,10,6,60.0,0.1,0.17,0,0,16:00:00,/en/matches/cfd35a04/Ecuador-Venezuela-March-21-2025-WCQ----CONMEBOL-M
+,2026,,2025-03-21 nan-Botswana,2025-03-21,First round,Fri,Home,L,1,3,Botswana,1,,,,,,0,0,15:00:00,/en/matches/b7369d7d/Botswana-Algeria-March-21-2025-WCQ----CAF-M
+,2026,,2025-03-21 nan-Romania,2025-03-21,First round,Fri,Home,L,0,1,Romania,0,15,3,20.0,0.0,0.0,0,0,21:45:00,/en/matches/2946963a/Romania-Bosnia-and-Herzegovina-March-21-2025-WCQ----UEFA-M
+,2026,,2025-03-21 nan-Uruguay,2025-03-21,World Cup qualification,Fri,Home,L,0,1,Uruguay,0,6,2,33.3,0.0,0.0,0,0,20:30:00,/en/matches/d640293b/Uruguay-Argentina-March-21-2025-WCQ----CONMEBOL-M
+,2026,,2025-03-22 Faroe Islands-nan,2025-03-22,First round,Sat,Away,L,1,2,Faroe Islands,1,5,3,60.0,0.2,0.33,0,0,20:45:00,/en/matches/c32c2c7c/Czechia-Faroe-Islands-March-22-2025-WCQ----UEFA-M
+,2026,,2025-03-22 Sudan-Sudan,2025-03-22,First round,Sat,Neutral,D,0,0,Sudan,0,,,,,,0,0,21:00:00,/en/matches/e3be527f/Sudan-Senegal-March-22-2025-WCQ----CAF-M
+,2026,,2025-03-22 nan-Moldova,2025-03-22,First round,Sat,Home,L,0,5,Moldova,0,10,4,40.0,0.0,0.0,0,0,19:00:00,/en/matches/4dc6294d/Moldova-Norway-March-22-2025-WCQ----UEFA-M
+,2026,,2025-03-24 Cyprus-nan,2025-03-24,First round,Mon,Away,L,1,2,Cyprus,1,11,4,36.4,0.09,0.25,0,0,20:45:00,/en/matches/8c25cff9/Bosnia-and-Herzegovina-Cyprus-March-24-2025-WCQ----UEFA-M
+,2026,,2025-03-24 Gambia-nan,2025-03-24,First round,Mon,Away,L,0,1,Gambia,0,,,,,,0,0,19:00:00,/en/matches/29e52aa3/Cote-dIvoire-Gambia-March-24-2025-WCQ----CAF-M
+,2026,,2025-03-24 Latvia-nan,2025-03-24,First round,Mon,Away,L,0,3,Latvia,0,3,1,33.3,0.0,0.0,0,0,19:45:00,/en/matches/e2b397bc/England-Latvia-March-24-2025-WCQ----UEFA-M
+,2026,,2025-03-24 Madagascar-Madagascar,2025-03-24,First round,Mon,Neutral,L,0,3,Madagascar,0,,,,,,0,0,19:00:00,/en/matches/c3ff60b5/Madagascar-Ghana-March-24-2025-WCQ----CAF-M
+,2026,,2025-03-24 Malawi-nan,2025-03-24,First round,Mon,Away,L,0,2,Malawi,0,,,,,,0,1,22:00:00,/en/matches/f2133803/Tunisia-Malawi-March-24-2025-WCQ----CAF-M
+,2026,,2025-03-24 New Caledonia-New Caledonia,2025-03-24,Third round — Final,Mon,Neutral,L,0,3,New Caledonia,0,,,,,,0,0,19:00:00,/en/matches/55a995af/New-Caledonia-New-Zealand-March-24-2025-WCQ----OFC-M
+,2026,,2025-03-25 Benin-Benin,2025-03-25,First round,Tue,Neutral,L,0,2,Benin,0,,,,,,0,0,16:00:00,/en/matches/50708f6f/Benin-South-Africa-March-25-2025-WCQ----CAF-M
+,2026,,2025-03-25 Brazil-nan,2025-03-25,World Cup qualification,Tue,Away,L,1,4,Brazil,1,3,1,33.3,0.33,1.0,0,0,21:00:00,/en/matches/f797e10f/Argentina-Brazil-March-25-2025-WCQ----CONMEBOL-M
+,2026,,2025-03-25 Jordan-nan,2025-03-25,Third round,Tue,Away,D,1,1,Jordan,1,11,3,27.3,0.09,0.33,0,0,20:00:00,/en/matches/cbfbb5e5/Korea-Republic-Jordan-March-25-2025-WCQ----AFC-M
+,2026,,2025-03-25 Mozambique-nan,2025-03-25,First round,Tue,Away,L,1,5,Mozambique,1,,,,,,0,0,22:00:00,/en/matches/7899da69/Algeria-Mozambique-March-25-2025-WCQ----CAF-M
+,2026,,2025-03-25 Paraguay-nan,2025-03-25,World Cup qualification,Tue,Away,D,2,2,Paraguay,2,21,6,28.6,0.1,0.33,0,0,19:00:00,/en/matches/bb3b96c6/Colombia-Paraguay-March-25-2025-WCQ----CONMEBOL-M
+,2026,,2025-03-25 Saudi Arabia-nan,2025-03-25,Third round,Tue,Away,D,0,0,Saudi Arabia,0,1,0,0.0,0.0,,0,0,19:35:00,/en/matches/30695e3b/Japan-Saudi-Arabia-March-25-2025-WCQ----AFC-M
+,2026,,2025-03-25 Sierra Leone-nan,2025-03-25,First round,Tue,Away,L,0,1,Sierra Leone,0,,,,,,0,0,21:00:00,/en/matches/983b68f5/Egypt-Sierra-Leone-March-25-2025-WCQ----CAF-M
+,2026,,2025-03-25 Tanzania-nan,2025-03-25,First round,Tue,Away,L,0,2,Tanzania,0,,,,,,0,0,21:30:00,/en/matches/91ff2db6/Morocco-Tanzania-March-25-2025-WCQ----CAF-M
+,2026,,2025-03-25 Togo-nan,2025-03-25,First round,Tue,Away,L,0,2,Togo,0,,,,,,0,0,21:00:00,/en/matches/22940553/Senegal-Togo-March-25-2025-WCQ----CAF-M
+,2026,,2025-03-25 Uzbekistan-nan,2025-03-25,Third round,Tue,Away,D,2,2,Uzbekistan,2,13,4,30.8,0.15,0.5,0,0,19:30:00,/en/matches/4421e0fc/IR-Iran-Uzbekistan-March-25-2025-WCQ----AFC-M
+,2026,,2025-03-25 nan-Angola,2025-03-25,First round,Tue,Home,L,1,2,Angola,1,,,,,,0,0,17:00:00,/en/matches/f2b90db3/Angola-Cabo-Verde-March-25-2025-WCQ----CAF-M
+,2026,,2025-03-25 nan-Argentina,2025-03-25,World Cup qualification,Tue,Home,W,4,1,Argentina,4,12,7,58.3,0.33,0.57,0,0,21:00:00,/en/matches/f797e10f/Argentina-Brazil-March-25-2025-WCQ----CONMEBOL-M
+,2026,,2025-03-25 nan-Bolivia,2025-03-25,World Cup qualification,Tue,Home,D,0,0,Bolivia,0,32,7,21.9,0.0,0.0,0,0,16:00:00,/en/matches/bed222ed/Bolivia-Uruguay-March-25-2025-WCQ----CONMEBOL-M
+,2026,,2025-03-25 nan-Chile,2025-03-25,World Cup qualification,Tue,Home,D,0,0,Chile,0,16,2,12.5,0.0,0.0,0,0,21:00:00,/en/matches/7d5bc986/Chile-Ecuador-March-25-2025-WCQ----CONMEBOL-M
+,2026,,2025-03-25 nan-China PR,2025-03-25,Third round,Tue,Home,L,0,2,China PR,0,12,1,8.3,0.0,0.0,0,0,19:00:00,/en/matches/9b41ea05/China-PR-Australia-March-25-2025-WCQ----AFC-M
+,2026,,2025-03-25 nan-Colombia,2025-03-25,World Cup qualification,Tue,Home,D,2,2,Colombia,2,10,5,50.0,0.2,0.4,0,0,19:00:00,/en/matches/bb3b96c6/Colombia-Paraguay-March-25-2025-WCQ----CONMEBOL-M
+,2026,,2025-03-25 nan-Gibraltar,2025-03-25,First round,Tue,Home,L,0,4,Gibraltar,0,1,0,0.0,0.0,,0,0,20:45:00,/en/matches/25665b0c/Gibraltar-Czechia-March-25-2025-WCQ----UEFA-M
+,2026,,2025-03-25 nan-IR Iran,2025-03-25,Third round,Tue,Home,D,2,2,IR Iran,2,20,8,40.0,0.1,0.25,0,0,19:30:00,/en/matches/4421e0fc/IR-Iran-Uzbekistan-March-25-2025-WCQ----AFC-M
+,2026,,2025-03-25 nan-Israel,2025-03-25,First round,Tue,Home,L,2,4,Israel,2,10,6,60.0,0.2,0.33,0,0,21:45:00,/en/matches/6a16d955/Israel-Norway-March-25-2025-WCQ----UEFA-M
+,2026,,2025-03-25 nan-Japan,2025-03-25,Third round,Tue,Home,D,0,0,Japan,0,12,2,16.7,0.0,0.0,0,0,19:35:00,/en/matches/30695e3b/Japan-Saudi-Arabia-March-25-2025-WCQ----AFC-M
+,2026,,2025-03-25 nan-Korea Republic,2025-03-25,Third round,Tue,Home,D,1,1,Korea Republic,1,12,3,25.0,0.08,0.33,0,0,20:00:00,/en/matches/cbfbb5e5/Korea-Republic-Jordan-March-25-2025-WCQ----AFC-M
+,2026,,2025-03-25 nan-Kyrgyz Republic,2025-03-25,Third round,Tue,Home,W,3,1,Kyrgyz Republic,3,14,5,35.7,0.21,0.6,0,0,19:45:00,/en/matches/d8389213/Kyrgyz-Republic-Qatar-March-25-2025-WCQ----AFC-M
+,2026,,2025-03-25 nan-Mauritania,2025-03-25,First round,Tue,Home,L,0,2,Mauritania,0,,,,,,0,0,21:00:00,/en/matches/030bc69e/Mauritania-Congo-DR-March-25-2025-WCQ----CAF-M
+,2026,,2025-03-25 nan-Palestine,2025-03-25,Third round,Tue,Home,W,2,1,Palestine,2,15,5,33.3,0.13,0.4,0,0,21:15:00,/en/matches/1bbf9b0d/Palestine-Iraq-March-25-2025-WCQ----AFC-M
+,2026,,2025-06-05 Brazil-nan,2025-06-05,World Cup qualification,Thu,Away,D,0,0,Brazil,0,3,2,66.7,0.0,0.0,0,0,18:00:00,/en/matches/0b1890f7/Ecuador-Brazil-June-5-2025-WCQ----CONMEBOL-M
+,2026,,2025-06-05 IR Iran-nan,2025-06-05,Third round,Thu,Away,L,0,1,IR Iran,0,6,3,50.0,0.0,0.0,0,0,21:15:00,/en/matches/f6da2deb/Qatar-IR-Iran-June-5-2025-WCQ----AFC-M
+,2026,,2025-06-05 Japan-nan,2025-06-05,Third round,Thu,Away,L,0,1,Japan,0,13,1,7.7,0.0,0.0,0,0,21:10:00,/en/matches/ae130257/Australia-Japan-June-5-2025-WCQ----AFC-M
+,2026,,2025-06-05 Korea Republic-nan,2025-06-05,Third round,Thu,Away,W,2,0,Korea Republic,2,13,7,53.8,0.15,0.29,0,0,21:15:00,/en/matches/8a15f138/Iraq-Korea-Republic-June-5-2025-WCQ----AFC-M
+,2026,,2025-06-05 Uruguay-nan,2025-06-05,World Cup qualification,Thu,Away,L,0,2,Uruguay,0,5,1,20.0,0.0,0.0,0,0,19:00:00,/en/matches/cf0d5a07/Paraguay-Uruguay-June-5-2025-WCQ----CONMEBOL-M
+,2026,,2025-06-05 nan-Australia,2025-06-05,Third round,Thu,Home,W,1,0,Australia,1,6,3,50.0,0.17,0.33,0,0,21:10:00,/en/matches/ae130257/Australia-Japan-June-5-2025-WCQ----AFC-M
+,2026,,2025-06-05 nan-Bahrain,2025-06-05,Third round,Thu,Home,L,0,2,Bahrain,0,17,2,11.8,0.0,0.0,0,0,19:00:00,/en/matches/f4e3cd49/Bahrain-Saudi-Arabia-June-5-2025-WCQ----AFC-M
+,2026,,2025-06-05 nan-Chile,2025-06-05,World Cup qualification,Thu,Home,L,0,1,Chile,0,7,3,42.9,0.0,0.0,0,0,21:00:00,/en/matches/bc9dbf8c/Chile-Argentina-June-5-2025-WCQ----CONMEBOL-M
+,2026,,2025-06-05 nan-Ecuador,2025-06-05,World Cup qualification,Thu,Home,D,0,0,Ecuador,0,7,3,42.9,0.0,0.0,0,0,18:00:00,/en/matches/0b1890f7/Ecuador-Brazil-June-5-2025-WCQ----CONMEBOL-M
+,2026,,2025-06-05 nan-Iraq,2025-06-05,Third round,Thu,Home,L,0,2,Iraq,0,5,2,40.0,0.0,0.0,0,0,21:15:00,/en/matches/8a15f138/Iraq-Korea-Republic-June-5-2025-WCQ----AFC-M
+,2026,,2025-06-05 nan-Oman,2025-06-05,Third round,Thu,Home,L,0,3,Oman,0,10,2,20.0,0.0,0.0,0,0,20:00:00,/en/matches/1c28d9c5/Oman-Jordan-June-5-2025-WCQ----AFC-M
+,2026,,2025-06-05 nan-Paraguay,2025-06-05,World Cup qualification,Thu,Home,W,2,0,Paraguay,2,12,5,41.7,0.17,0.4,1,1,19:00:00,/en/matches/cf0d5a07/Paraguay-Uruguay-June-5-2025-WCQ----CONMEBOL-M
+,2026,,2025-06-05 nan-Qatar,2025-06-05,Third round,Thu,Home,W,1,0,Qatar,1,6,3,50.0,0.17,0.33,0,0,21:15:00,/en/matches/f6da2deb/Qatar-IR-Iran-June-5-2025-WCQ----AFC-M
+,2026,,2025-06-05 nan-UAE,2025-06-05,Third round,Thu,Home,D,0,0,UAE,0,10,6,60.0,0.0,0.0,0,0,20:00:00,/en/matches/be27166e/United-Arab-Emirates-Uzbekistan-June-5-2025-WCQ----AFC-M
+,2026,,2025-06-06 Italy-nan,2025-06-06,First round,Fri,Away,L,0,3,Italy,0,6,1,16.7,0.0,0.0,0,0,20:45:00,/en/matches/ce5226f5/Norway-Italy-June-6-2025-WCQ----UEFA-M
+,2026,,2025-06-06 Montenegro-nan,2025-06-06,First round,Fri,Away,L,0,2,Montenegro,0,6,3,50.0,0.0,0.0,0,0,20:45:00,/en/matches/f046950e/Czechia-Montenegro-June-6-2025-WCQ----UEFA-M
+,2026,,2025-06-06 Peru-nan,2025-06-06,World Cup qualification,Fri,Away,D,0,0,Peru,0,4,1,25.0,0.0,0.0,0,0,15:30:00,/en/matches/72e0f65c/Colombia-Peru-June-6-2025-WCQ----CONMEBOL-M
+,2026,,2025-06-06 St. Lucia-nan,2025-06-06,Second round,Fri,Away,L,0,4,St. Lucia,0,,,,,,0,0,19:30:00,/en/matches/2e55727d/Curacao-St-Lucia-June-6-2025-WCQ----CONCACAF-M
+,2026,,2025-06-06 nan-Gibraltar,2025-06-06,First round,Fri,Home,L,0,7,Gibraltar,0,3,0,0.0,0.0,,0,0,19:45:00,/en/matches/fcdb7b4b/Gibraltar-Croatia-June-6-2025-WCQ----UEFA-M
+,2026,,2025-06-06 nan-No. Macedonia,2025-06-06,First round,Fri,Home,D,1,1,No. Macedonia,1,7,2,28.6,0.14,0.5,0,0,20:45:00,/en/matches/696d2eb9/North-Macedonia-Belgium-June-6-2025-WCQ----UEFA-M
+,2026,,2025-06-07 Romania-nan,2025-06-07,First round,Sat,Away,L,1,2,Romania,1,10,3,30.0,0.1,0.33,0,0,20:45:00,/en/matches/427a7354/Austria-Romania-June-7-2025-WCQ----UEFA-M
+,2026,,2025-06-07 San Marino-nan,2025-06-07,First round,Sat,Away,L,0,1,San Marino,0,5,0,0.0,0.0,,0,0,15:00:00,/en/matches/0544aaf7/Bosnia-and-Herzegovina-San-Marino-June-7-2025-WCQ----UEFA-M
+,2026,,2025-06-07 nan-Andorra,2025-06-07,First round,Sat,Home,L,0,1,Andorra,0,4,0,0.0,0.0,,0,0,18:00:00,/en/matches/e7d39bec/Andorra-England-June-7-2025-WCQ----UEFA-M
+,2026,,2025-06-07 nan-Aruba,2025-06-07,Second round,Sat,Home,L,0,5,Aruba,0,,,,,,0,1,17:00:00,/en/matches/1c4064b5/Aruba-Haiti-June-7-2025-WCQ----CONCACAF-M
+,2026,,2025-06-07 nan-Belize,2025-06-07,Second round,Sat,Home,L,0,2,Belize,0,,,,,,0,0,19:00:00,/en/matches/aa913422/Belize-Panama-June-7-2025-WCQ----CONCACAF-M
+,2026,,2025-06-07 nan-Finland,2025-06-07,First round,Sat,Home,L,0,2,Finland,0,5,2,40.0,0.0,0.0,0,0,21:45:00,/en/matches/be89656e/Finland-Netherlands-June-7-2025-WCQ----UEFA-M
+,2026,,2025-06-09 Czechia-nan,2025-06-09,First round,Mon,Away,L,1,5,Czechia,1,14,5,35.7,0.07,0.2,0,0,20:45:00,/en/matches/45d707dc/Croatia-Czechia-June-9-2025-WCQ----UEFA-M
+,2026,,2025-06-09 Wales-nan,2025-06-09,First round,Mon,Away,L,3,4,Wales,3,12,8,66.7,0.25,0.38,1,1,20:45:00,/en/matches/7c95d65c/Belgium-Wales-June-9-2025-WCQ----UEFA-M
+,2026,,2025-06-09 nan-Croatia,2025-06-09,First round,Mon,Home,W,5,1,Croatia,5,18,11,61.1,0.28,0.45,2,2,20:45:00,/en/matches/45d707dc/Croatia-Czechia-June-9-2025-WCQ----UEFA-M
+,2026,,2025-06-09 nan-Estonia,2025-06-09,First round,Mon,Home,L,0,1,Estonia,0,7,2,28.6,0.0,0.0,0,0,21:45:00,/en/matches/da5ed6b0/Estonia-Norway-June-9-2025-WCQ----UEFA-M
+,2026,,2025-06-10 Australia-nan,2025-06-10,Third round,Tue,Away,W,2,1,Australia,2,4,3,75.0,0.5,0.67,0,0,21:15:00,/en/matches/f2a554e6/Saudi-Arabia-Australia-June-10-2025-WCQ----AFC-M
+,2026,,2025-06-10 Colombia-nan,2025-06-10,World Cup qualification,Tue,Away,D,1,1,Colombia,1,11,5,45.5,0.09,0.2,0,0,21:00:00,/en/matches/25a7c42b/Argentina-Colombia-June-10-2025-WCQ----CONMEBOL-M
+,2026,,2025-06-10 Indonesia-nan,2025-06-10,Third round,Tue,Away,L,0,6,Indonesia,0,0,0,,,,0,0,19:35:00,/en/matches/f448bf08/Japan-Indonesia-June-10-2025-WCQ----AFC-M
+,2026,,2025-06-10 Iraq-nan,2025-06-10,Third round,Tue,Away,W,1,0,Iraq,1,7,4,57.1,0.14,0.25,0,0,21:15:00,/en/matches/316731a5/Jordan-Iraq-June-10-2025-WCQ----AFC-M
+,2026,,2025-06-10 Korea DPR-nan,2025-06-10,Third round,Tue,Away,L,0,3,Korea DPR,0,8,1,12.5,0.0,0.0,0,0,19:30:00,/en/matches/b4e33a41/IR-Iran-Korea-DPR-June-10-2025-WCQ----AFC-M
+,2026,,2025-06-10 Kuwait-nan,2025-06-10,Third round,Tue,Away,L,0,4,Kuwait,0,6,0,0.0,0.0,,0,0,20:00:00,/en/matches/898e1bb9/Korea-Republic-Kuwait-June-10-2025-WCQ----AFC-M
+,2026,,2025-06-10 Malta-nan,2025-06-10,First round,Tue,Away,L,0,8,Malta,0,5,2,40.0,0.0,0.0,0,0,20:45:00,/en/matches/5e00c2e8/Netherlands-Malta-June-10-2025-WCQ----UEFA-M
+,2026,,2025-06-10 Nicaragua-nan,2025-06-10,Second round,Tue,Away,L,0,3,Nicaragua,0,,,,,,0,0,19:00:00,/en/matches/5b3d5856/Panama-Nicaragua-June-10-2025-WCQ----CONCACAF-M
+,2026,,2025-06-10 Paraguay-nan,2025-06-10,World Cup qualification,Tue,Away,L,0,1,Paraguay,0,5,1,20.0,0.0,0.0,0,0,21:45:00,/en/matches/86bf566e/Brazil-Paraguay-June-10-2025-WCQ----CONMEBOL-M
+,2026,,2025-06-10 Qatar-nan,2025-06-10,Third round,Tue,Away,L,0,3,Qatar,0,1,0,0.0,0.0,,0,0,18:45:00,/en/matches/7e8f73eb/Uzbekistan-Qatar-June-10-2025-WCQ----AFC-M
+,2026,,2025-06-10 Venezuela-nan,2025-06-10,World Cup qualification,Tue,Away,L,0,2,Venezuela,0,10,1,10.0,0.0,0.0,0,0,20:00:00,/en/matches/a4cbcbc8/Uruguay-Venezuela-June-10-2025-WCQ----CONMEBOL-M
+,2026,,2025-06-10 nan-Argentina,2025-06-10,World Cup qualification,Tue,Home,D,1,1,Argentina,1,10,3,30.0,0.1,0.33,0,0,21:00:00,/en/matches/25a7c42b/Argentina-Colombia-June-10-2025-WCQ----CONMEBOL-M
+,2026,,2025-06-10 nan-Brazil,2025-06-10,World Cup qualification,Tue,Home,W,1,0,Brazil,1,11,4,36.4,0.09,0.25,0,0,21:45:00,/en/matches/86bf566e/Brazil-Paraguay-June-10-2025-WCQ----CONMEBOL-M
+,2026,,2025-06-10 nan-Jordan,2025-06-10,Third round,Tue,Home,L,0,1,Jordan,0,9,0,0.0,0.0,,0,0,21:15:00,/en/matches/316731a5/Jordan-Iraq-June-10-2025-WCQ----AFC-M
+,2026,,2025-06-10 nan-Peru,2025-06-10,World Cup qualification,Tue,Home,D,0,0,Peru,0,13,5,38.5,0.0,0.0,0,0,20:30:00,/en/matches/bb493069/Peru-Ecuador-June-10-2025-WCQ----CONMEBOL-M
+,2026,,2025-06-10 nan-San Marino,2025-06-10,First round,Tue,Home,L,0,4,San Marino,0,8,2,25.0,0.0,0.0,0,0,20:45:00,/en/matches/d17f0ad5/San-Marino-Austria-June-10-2025-WCQ----UEFA-M
+,2026,,2025-06-10 nan-Saudi Arabia,2025-06-10,Third round,Tue,Home,L,1,2,Saudi Arabia,1,14,6,42.9,0.07,0.17,0,1,21:15:00,/en/matches/f2a554e6/Saudi-Arabia-Australia-June-10-2025-WCQ----AFC-M
+,2026,,2025-06-10 nan-Uzbekistan,2025-06-10,Third round,Tue,Home,W,3,0,Uzbekistan,3,18,8,44.4,0.17,0.38,0,0,18:45:00,/en/matches/7e8f73eb/Uzbekistan-Qatar-June-10-2025-WCQ----AFC-M
+,2026,,2025-06-11 Curaçao-nan,2025-06-11,Second round,Wed,Away,W,5,1,Curaçao,5,,,,,,0,0,00:00:00,/en/matches/b366ffb8/Haiti-Curacao-June-11-2025-WCQ----CONCACAF-M
+,2026,,2025-06-11 nan-Haiti,2025-06-11,Second round,Wed,Home,L,1,5,Haiti,1,,,,,,0,0,00:00:00,/en/matches/b366ffb8/Haiti-Curacao-June-11-2025-WCQ----CONCACAF-M
+,2026,,2025-09-04 Bolivia-nan,2025-09-04,World Cup qualification,Thu,Away,L,0,3,Bolivia,0,8,3,37.5,0.0,0.0,0,0,18:30:00,/en/matches/246e206c/Colombia-Bolivia-September-4-2025-WCQ----CONMEBOL-M
+,2026,,2025-09-04 Botswana-nan,2025-09-04,First round,Thu,Away,L,1,3,Botswana,1,,,,,,0,0,20:00:00,/en/matches/fc2af5d6/Algeria-Botswana-September-4-2025-WCQ----CAF-M
+,2026,,2025-09-04 Chile-nan,2025-09-04,World Cup qualification,Thu,Away,L,0,3,Chile,0,3,0,0.0,0.0,,0,0,21:30:00,/en/matches/93c8f0a9/Brazil-Chile-September-4-2025-WCQ----CONMEBOL-M
+,2026,,2025-09-04 Ecuador-nan,2025-09-04,World Cup qualification,Thu,Away,D,0,0,Ecuador,0,6,1,16.7,0.0,0.0,0,0,19:30:00,/en/matches/8846f1b1/Paraguay-Ecuador-September-4-2025-WCQ----CONMEBOL-M
+,2026,,2025-09-04 Liberia-nan,2025-09-04,First round,Thu,Away,L,0,3,Liberia,0,,,,,,0,0,20:00:00,/en/matches/263b65e8/Tunisia-Liberia-September-4-2025-WCQ----CAF-M
+,2026,,2025-09-04 Peru-nan,2025-09-04,World Cup qualification,Thu,Away,L,0,3,Peru,0,11,3,27.3,0.0,0.0,0,0,20:30:00,/en/matches/9692d63b/Uruguay-Peru-September-4-2025-WCQ----CONMEBOL-M
+,2026,,2025-09-04 Poland-nan,2025-09-04,First round,Thu,Away,D,1,1,Poland,1,6,2,33.3,0.17,0.5,0,0,20:45:00,/en/matches/d1692c71/Netherlands-Poland-September-4-2025-WCQ----UEFA-M
+,2026,,2025-09-04 Venezuela-nan,2025-09-04,World Cup qualification,Thu,Away,L,0,3,Venezuela,0,5,0,0.0,0.0,,0,0,20:30:00,/en/matches/26ca7993/Argentina-Venezuela-September-4-2025-WCQ----CONMEBOL-M
+,2026,,2025-09-04 nan-Bulgaria,2025-09-04,First round,Thu,Home,L,0,3,Bulgaria,0,3,0,0.0,0.0,,0,0,21:45:00,/en/matches/73a00b64/Bulgaria-Spain-September-4-2025-WCQ----UEFA-M
+,2026,,2025-09-04 nan-Chad,2025-09-04,First round,Thu,Home,D,1,1,Chad,1,,,,,,0,0,14:00:00,/en/matches/667fa8d9/Chad-Ghana-September-4-2025-WCQ----CAF-M
+,2026,,2025-09-04 nan-Georgia,2025-09-04,First round,Thu,Home,L,2,3,Georgia,2,15,4,26.7,0.13,0.5,0,0,20:00:00,/en/matches/3e3b75d7/Georgia-Turkiye-September-4-2025-WCQ----UEFA-M
+,2026,,2025-09-04 nan-Liechtenstein,2025-09-04,First round,Thu,Home,L,0,6,Liechtenstein,0,0,0,,,,0,0,20:45:00,/en/matches/c415a6bc/Liechtenstein-Belgium-September-4-2025-WCQ----UEFA-M
+,2026,,2025-09-04 nan-Mauritius,2025-09-04,First round,Thu,Home,L,0,2,Mauritius,0,,,,,,0,0,20:00:00,/en/matches/1bcc36b9/Mauritius-Cabo-Verde-September-4-2025-WCQ----CAF-M
+,2026,,2025-09-04 nan-Paraguay,2025-09-04,World Cup qualification,Thu,Home,D,0,0,Paraguay,0,7,3,42.9,0.0,0.0,0,0,19:30:00,/en/matches/8846f1b1/Paraguay-Ecuador-September-4-2025-WCQ----CONMEBOL-M
+,2026,,2025-09-04 nan-Slovakia,2025-09-04,First round,Thu,Home,W,2,0,Slovakia,2,8,5,62.5,0.25,0.4,0,0,20:45:00,/en/matches/dfc66eea/Slovakia-Germany-September-4-2025-WCQ----UEFA-M
+,2026,,2025-09-04 nan-Suriname,2025-09-04,Third round,Thu,Home,D,0,0,Suriname,0,,,,,,0,0,18:30:00,/en/matches/9fb8b400/Suriname-Panama-September-4-2025-WCQ----CONCACAF-M
+,2026,,2025-09-05 Burundi-nan,2025-09-05,First round,Fri,Away,L,0,1,Burundi,0,,,,,,0,0,19:00:00,/en/matches/1f1eb405/Cote-dIvoire-Burundi-September-5-2025-WCQ----CAF-M
+,2026,,2025-09-05 Ethiopia-nan,2025-09-05,First round,Fri,Away,L,0,2,Ethiopia,0,,,,,,0,0,22:00:00,/en/matches/772ffbef/Egypt-Ethiopia-September-5-2025-WCQ----CAF-M
+,2026,,2025-09-05 Honduras-nan,2025-09-05,Third round,Fri,Away,D,0,0,Honduras,0,,,,,,0,0,20:00:00,/en/matches/72a90910/Haiti-Honduras-September-5-2025-WCQ----CONCACAF-M
+,2026,,2025-09-05 Kosovo-nan,2025-09-05,First round,Fri,Away,L,0,4,Kosovo,0,7,1,14.3,0.0,0.0,0,0,20:45:00,/en/matches/2c8b38dc/Switzerland-Kosovo-September-5-2025-WCQ----UEFA-M
+,2026,,2025-09-05 Lesotho-Lesotho,2025-09-05,First round,Fri,Neutral,L,0,3,Lesotho,0,,,,,,0,0,18:00:00,/en/matches/ead18343/Lesotho-South-Africa-September-5-2025-WCQ----CAF-M
+,2026,,2025-09-05 Niger-nan,2025-09-05,First round,Fri,Away,L,0,5,Niger,0,,,,,,0,0,20:00:00,/en/matches/0c2bf39f/Morocco-Niger-September-5-2025-WCQ----CAF-M
+,2026,,2025-09-05 Sudan-nan,2025-09-05,First round,Fri,Away,L,0,2,Sudan,0,,,,,,0,0,19:00:00,/en/matches/f5bea881/Senegal-Sudan-September-5-2025-WCQ----CAF-M
+,2026,,2025-09-05 nan-Denmark,2025-09-05,First round,Fri,Home,D,0,0,Denmark,0,16,2,12.5,0.0,0.0,0,0,20:45:00,/en/matches/895c715d/Denmark-Scotland-September-5-2025-WCQ----UEFA-M
+,2026,,2025-09-05 nan-Faroe Islands,2025-09-05,First round,Fri,Home,L,0,1,Faroe Islands,0,6,3,50.0,0.0,0.0,0,0,19:45:00,/en/matches/7fe58272/Faroe-Islands-Croatia-September-5-2025-WCQ----UEFA-M
+,2026,,2025-09-05 nan-Montenegro,2025-09-05,First round,Fri,Home,L,0,2,Montenegro,0,21,5,23.8,0.0,0.0,0,0,20:45:00,/en/matches/41d36aff/Montenegro-Czechia-September-5-2025-WCQ----UEFA-M
+,2026,,2025-09-05 nan-Slovenia,2025-09-05,First round,Fri,Home,D,2,2,Slovenia,2,9,4,44.4,0.22,0.5,0,0,20:45:00,/en/matches/44895893/Slovenia-Sweden-September-5-2025-WCQ----UEFA-M
+,2026,,2025-09-05 nan-South Sudan,2025-09-05,First round,Fri,Home,L,1,4,South Sudan,1,,,,,,0,0,15:00:00,/en/matches/1e6fdc06/South-Sudan-Congo-DR-September-5-2025-WCQ----CAF-M
+,2026,,2025-09-05 nan-Trin & Tobago,2025-09-05,Third round,Fri,Home,D,0,0,Trin & Tobago,0,,,,,,0,0,20:00:00,/en/matches/ce4ff4e2/Trinidad-and-Tobago-Curacao-September-5-2025-WCQ----CONCACAF-M
+,2026,,2025-09-05 nan-Ukraine,2025-09-05,First round,Fri,Home,L,0,2,Ukraine,0,8,3,37.5,0.0,0.0,0,0,21:45:00,/en/matches/63a97adc/Ukraine-France-September-5-2025-WCQ----UEFA-M
+,2026,,2025-09-06 Andorra-nan,2025-09-06,First round,Sat,Away,L,0,2,Andorra,0,2,0,0.0,0.0,,0,0,17:00:00,/en/matches/533e2793/England-Andorra-September-6-2025-WCQ----UEFA-M
+,2026,,2025-09-06 Cyprus-nan,2025-09-06,First round,Sat,Away,L,0,1,Cyprus,0,16,5,31.3,0.0,0.0,0,0,20:45:00,/en/matches/b0ac3e36/Austria-Cyprus-September-6-2025-WCQ----UEFA-M
+,2026,,2025-09-06 nan-Armenia,2025-09-06,First round,Sat,Home,L,0,5,Armenia,0,7,3,42.9,0.0,0.0,0,0,20:00:00,/en/matches/ad079647/Armenia-Portugal-September-6-2025-WCQ----UEFA-M
+,2026,,2025-09-06 nan-San Marino,2025-09-06,First round,Sat,Home,L,0,6,San Marino,0,4,1,25.0,0.0,0.0,0,0,20:45:00,/en/matches/0216f99c/San-Marino-Bosnia-and-Herzegovina-September-6-2025-WCQ----UEFA-M
+,2026,,2025-09-07 Kazakhstan-nan,2025-09-07,First round,Sun,Away,L,0,6,Kazakhstan,0,5,2,40.0,0.0,0.0,0,0,20:45:00,/en/matches/183c43c6/Belgium-Kazakhstan-September-7-2025-WCQ----UEFA-M
+,2026,,2025-09-07 Northern Ireland-nan,2025-09-07,First round,Sun,Away,L,1,3,Northern Ireland,1,3,1,33.3,0.33,1.0,0,0,20:45:00,/en/matches/e99bd5a5/Germany-Northern-Ireland-September-7-2025-WCQ----UEFA-M
+,2026,,2025-09-07 Spain-nan,2025-09-07,First round,Sun,Away,W,6,0,Spain,6,21,12,57.1,0.29,0.5,0,0,21:45:00,/en/matches/109a2359/Turkiye-Spain-September-7-2025-WCQ----UEFA-M
+,2026,,2025-09-07 nan-Lithuania,2025-09-07,First round,Sun,Home,L,2,3,Lithuania,2,4,3,75.0,0.5,0.67,0,0,19:00:00,/en/matches/4cd13425/Lithuania-Netherlands-September-7-2025-WCQ----UEFA-M
+,2026,,2025-09-07 nan-Türkiye,2025-09-07,First round,Sun,Home,L,0,6,Türkiye,0,11,2,18.2,0.0,0.0,0,0,21:45:00,/en/matches/109a2359/Turkiye-Spain-September-7-2025-WCQ----UEFA-M
+,2026,,2025-09-08 Guatemala-nan,2025-09-08,Third round,Mon,Away,D,1,1,Guatemala,1,,,,,,0,0,20:30:00,/en/matches/330d1825/Panama-Guatemala-September-8-2025-WCQ----CONCACAF-M
+,2026,,2025-09-08 Guinea-Guinea,2025-09-08,First round,Mon,Neutral,D,0,0,Guinea,0,,,,,,0,0,17:00:00,/en/matches/761fa027/Guinea-Algeria-September-8-2025-WCQ----CAF-M
+,2026,,2025-09-08 Mali-nan,2025-09-08,First round,Mon,Away,L,0,1,Mali,0,,,,,,0,0,19:00:00,/en/matches/4ba2532f/Ghana-Mali-September-8-2025-WCQ----CAF-M
+,2026,,2025-09-08 Montenegro-nan,2025-09-08,First round,Mon,Away,L,0,4,Montenegro,0,3,1,33.3,0.0,0.0,0,0,20:45:00,/en/matches/58bd9cd6/Croatia-Montenegro-September-8-2025-WCQ----UEFA-M
+,2026,,2025-09-08 Slovenia-nan,2025-09-08,First round,Mon,Away,L,0,3,Slovenia,0,6,1,16.7,0.0,0.0,0,0,20:45:00,/en/matches/710e879d/Switzerland-Slovenia-September-8-2025-WCQ----UEFA-M
+,2026,,2025-09-08 nan-Belarus,2025-09-08,First round,Mon,Home,L,0,2,Belarus,0,6,3,50.0,0.0,0.0,0,0,21:45:00,/en/matches/59d358ed/Belarus-Scotland-September-8-2025-WCQ----UEFA-M
+,2026,,2025-09-08 nan-Equ. Guinea,2025-09-08,First round,Mon,Home,L,0,1,Equ. Guinea,0,,,,,,0,0,14:00:00,/en/matches/5449df03/Equatorial-Guinea-Tunisia-September-8-2025-WCQ----CAF-M
+,2026,,2025-09-08 nan-Kosovo,2025-09-08,First round,Mon,Home,W,2,0,Kosovo,2,11,5,45.5,0.18,0.4,0,0,20:45:00,/en/matches/60a474e3/Kosovo-Sweden-September-8-2025-WCQ----UEFA-M
+,2026,,2025-09-08 nan-Zambia,2025-09-08,First round,Mon,Home,L,0,2,Zambia,0,,,,,,0,0,15:00:00,/en/matches/ab96ad43/Zambia-Morocco-September-8-2025-WCQ----CAF-M
+,2026,,2025-09-09 Argentina-nan,2025-09-09,World Cup qualification,Tue,Away,L,0,1,Argentina,0,8,0,0.0,0.0,,0,0,18:00:00,/en/matches/d5ac347f/Ecuador-Argentina-September-9-2025-WCQ----CONMEBOL-M
+,2026,,2025-09-09 Austria-nan,2025-09-09,First round,Tue,Away,W,2,1,Austria,2,11,5,45.5,0.18,0.4,0,0,20:45:00,/en/matches/1dc1bc53/Bosnia-and-Herzegovina-Austria-September-9-2025-WCQ----UEFA-M
+,2026,,2025-09-09 Bermuda-nan,2025-09-09,Third round,Tue,Away,L,2,3,Bermuda,2,,,,,,0,0,20:00:00,/en/matches/e123af40/Curacao-Bermuda-September-9-2025-WCQ----CONCACAF-M
+,2026,,2025-09-09 Cameroon-nan,2025-09-09,First round,Tue,Away,L,0,1,Cameroon,0,,,,,,0,0,15:00:00,/en/matches/6079f9e7/Cabo-Verde-Cameroon-September-9-2025-WCQ----CAF-M
+,2026,,2025-09-09 Iceland-nan,2025-09-09,First round,Tue,Away,L,1,2,Iceland,1,7,2,28.6,0.14,0.5,0,0,20:45:00,/en/matches/fc192209/France-Iceland-September-9-2025-WCQ----UEFA-M
+,2026,,2025-09-09 Moldova-nan,2025-09-09,First round,Tue,Away,L,1,11,Moldova,0,2,0,0.0,0.0,,0,0,20:45:00,/en/matches/9d91e2ca/Norway-Moldova-September-9-2025-WCQ----UEFA-M
+,2026,,2025-09-09 Nigeria-nan,2025-09-09,First round,Tue,Away,D,1,1,Nigeria,1,,,,,,0,0,18:00:00,/en/matches/7e19d0f3/South-Africa-Nigeria-September-9-2025-WCQ----CAF-M
+,2026,,2025-09-09 Senegal-nan,2025-09-09,First round,Tue,Away,W,3,2,Senegal,3,,,,,,0,0,17:00:00,/en/matches/6debc46d/Congo-DR-Senegal-September-9-2025-WCQ----CAF-M
+,2026,,2025-09-09 nan-Bolivia,2025-09-09,World Cup qualification,Tue,Home,W,1,0,Bolivia,1,23,10,43.5,0.04,0.1,1,1,19:30:00,/en/matches/5ef1e6a8/Bolivia-Brazil-September-9-2025-WCQ----CONMEBOL-M
+,2026,,2025-09-09 nan-Bosnia–Herz,2025-09-09,First round,Tue,Home,L,1,2,Bosnia–Herz,1,16,3,18.8,0.06,0.33,0,0,20:45:00,/en/matches/1dc1bc53/Bosnia-and-Herzegovina-Austria-September-9-2025-WCQ----UEFA-M
+,2026,,2025-09-09 nan-Burkina Faso,2025-09-09,First round,Tue,Home,D,0,0,Burkina Faso,0,,,,,,0,0,16:00:00,/en/matches/132bb2fe/Burkina-Faso-Egypt-September-9-2025-WCQ----CAF-M
+,2026,,2025-09-09 nan-Chile,2025-09-09,World Cup qualification,Tue,Home,D,0,0,Chile,0,16,3,18.8,0.0,0.0,0,0,20:30:00,/en/matches/fdc625fd/Chile-Uruguay-September-9-2025-WCQ----CONMEBOL-M
+,2026,,2025-09-09 nan-Congo DR,2025-09-09,First round,Tue,Home,L,2,3,Congo DR,2,,,,,,0,0,17:00:00,/en/matches/6debc46d/Congo-DR-Senegal-September-9-2025-WCQ----CAF-M
+,2026,,2025-09-09 nan-Costa Rica,2025-09-09,Third round,Tue,Home,D,3,3,Costa Rica,3,,,,,,0,0,20:00:00,/en/matches/af722cf2/Costa-Rica-Haiti-September-9-2025-WCQ----CONCACAF-M
+,2026,,2025-09-09 nan-Ecuador,2025-09-09,World Cup qualification,Tue,Home,W,1,0,Ecuador,1,11,4,36.4,0.09,0.25,1,1,18:00:00,/en/matches/d5ac347f/Ecuador-Argentina-September-9-2025-WCQ----CONMEBOL-M
+,2026,,2025-09-09 nan-Gabon,2025-09-09,First round,Tue,Home,D,0,0,Gabon,0,,,,,,0,0,20:00:00,/en/matches/58792dfb/Gabon-Cote-dIvoire-September-9-2025-WCQ----CAF-M
+,2026,,2025-09-09 nan-Hungary,2025-09-09,First round,Tue,Home,L,2,3,Hungary,2,5,2,40.0,0.4,1.0,0,0,20:45:00,/en/matches/15153c54/Hungary-Portugal-September-9-2025-WCQ----UEFA-M
+,2026,,2025-09-09 nan-Peru,2025-09-09,World Cup qualification,Tue,Home,L,0,1,Peru,0,12,3,25.0,0.0,0.0,0,0,18:30:00,/en/matches/90996bcb/Peru-Paraguay-September-9-2025-WCQ----CONMEBOL-M
+,2026,,2025-09-09 nan-Serbia,2025-09-09,First round,Tue,Home,L,0,5,Serbia,0,3,0,0.0,0.0,,0,0,20:45:00,/en/matches/df596a54/Serbia-England-September-9-2025-WCQ----UEFA-M
+,2026,,2025-09-09 nan-Venezuela,2025-09-09,World Cup qualification,Tue,Home,L,3,6,Venezuela,3,11,8,72.7,0.27,0.38,0,0,19:30:00,/en/matches/0c0d07af/Venezuela-Colombia-September-9-2025-WCQ----CONMEBOL-M
+,2026,,2025-10-08 CAR-CAR,2025-10-08,First round,Wed,Neutral,L,0,5,CAR,0,,,,,,0,0,17:00:00,/en/matches/ec831d70/Central-African-Republic-Ghana-October-8-2025-WCQ----CAF-M
+,2026,,2025-10-08 nan-Djibouti,2025-10-08,First round,Wed,Home,L,0,3,Djibouti,0,,,,,,0,0,17:00:00,/en/matches/ed2f093e/Djibouti-Egypt-October-8-2025-WCQ----CAF-M
+,2026,,2025-10-08 nan-Indonesia,2025-10-08,Fourth round,Wed,Home,L,2,3,Indonesia,2,10,5,50.0,0.2,0.4,2,2,20:15:00,/en/matches/15386747/Indonesia-Saudi-Arabia-October-8-2025-WCQ----AFC-M
+,2026,,2025-10-08 nan-Libya,2025-10-08,First round,Wed,Home,D,3,3,Libya,2,,,,,,0,0,15:00:00,/en/matches/13429bc4/Libya-Cabo-Verde-October-8-2025-WCQ----CAF-M
+,2026,,2025-10-08 nan-Oman,2025-10-08,Fourth round,Wed,Home,D,0,0,Oman,0,6,1,16.7,0.0,0.0,0,0,18:00:00,/en/matches/dfe70ed3/Oman-Qatar-October-8-2025-WCQ----AFC-M
+,2026,,2025-10-09 Croatia-nan,2025-10-09,First round,Thu,Away,D,0,0,Croatia,0,10,2,20.0,0.0,0.0,0,0,20:45:00,/en/matches/b4221670/Czechia-Croatia-October-9-2025-WCQ----UEFA-M
+,2026,,2025-10-09 Greece-nan,2025-10-09,First round,Thu,Away,L,1,3,Greece,1,15,3,20.0,0.07,0.33,0,0,19:45:00,/en/matches/b5e45490/Scotland-Greece-October-9-2025-WCQ----UEFA-M
+,2026,,2025-10-09 San Marino-nan,2025-10-09,First round,Thu,Away,L,0,10,San Marino,0,4,1,25.0,0.0,0.0,0,0,20:45:00,/en/matches/28525593/Austria-San-Marino-October-9-2025-WCQ----UEFA-M
+,2026,,2025-10-09 Somalia-Somalia,2025-10-09,First round,Thu,Neutral,L,0,3,Somalia,0,,,,,,0,0,17:00:00,/en/matches/1c1fbeee/Somalia-Algeria-October-9-2025-WCQ----CAF-M
+,2026,,2025-10-09 nan-Cyprus,2025-10-09,First round,Thu,Home,D,2,2,Cyprus,2,14,3,21.4,0.14,0.67,1,1,21:45:00,/en/matches/3808941f/Cyprus-Bosnia-and-Herzegovina-October-9-2025-WCQ----UEFA-M
+,2026,,2025-10-09 nan-Czechia,2025-10-09,First round,Thu,Home,D,0,0,Czechia,0,11,2,18.2,0.0,0.0,0,0,20:45:00,/en/matches/b4221670/Czechia-Croatia-October-9-2025-WCQ----UEFA-M
+,2026,,2025-10-09 nan-Malta,2025-10-09,First round,Thu,Home,L,0,4,Malta,0,7,0,0.0,0.0,,0,0,20:45:00,/en/matches/e91380d1/Malta-Netherlands-October-9-2025-WCQ----UEFA-M
+,2026,,2025-10-09 nan-Nicaragua,2025-10-09,Third round,Thu,Home,L,0,3,Nicaragua,0,,,,,,0,0,18:00:00,/en/matches/cde1766c/Nicaragua-Haiti-October-9-2025-WCQ----CONCACAF-M
+,2026,,2025-10-10 Azerbaijan-nan,2025-10-10,First round,Fri,Away,L,0,3,Azerbaijan,0,1,0,0.0,0.0,,0,0,20:45:00,/en/matches/2c662ab8/France-Azerbaijan-October-10-2025-WCQ----UEFA-M
+,2026,,2025-10-10 Jamaica-nan,2025-10-10,Third round,Fri,Away,L,0,2,Jamaica,0,,,,,,0,0,19:00:00,/en/matches/653c3c1a/Curacao-Jamaica-October-10-2025-WCQ----CONCACAF-M
+,2026,,2025-10-10 Luxembourg-nan,2025-10-10,First round,Fri,Away,L,0,4,Luxembourg,0,1,1,100.0,0.0,0.0,0,0,20:45:00,/en/matches/b111bcad/Germany-Luxembourg-October-10-2025-WCQ----UEFA-M
+,2026,,2025-10-10 No. Macedonia-nan,2025-10-10,First round,Fri,Away,D,0,0,No. Macedonia,0,3,0,0.0,0.0,,0,0,20:45:00,/en/matches/af334e60/Belgium-North-Macedonia-October-10-2025-WCQ----UEFA-M
+,2026,,2025-10-10 Seychelles-Seychelles,2025-10-10,First round,Fri,Neutral,L,0,7,Seychelles,0,,,,,,0,0,17:00:00,/en/matches/d6eba9c0/Seychelles-Cote-dIvoire-October-10-2025-WCQ----CAF-M
+,2026,,2025-10-10 Switzerland-nan,2025-10-10,First round,Fri,Away,W,2,0,Switzerland,2,17,8,47.1,0.12,0.25,1,1,20:45:00,/en/matches/4e5d901c/Sweden-Switzerland-October-10-2025-WCQ----UEFA-M
+,2026,,2025-10-10 São Tomé-São Tomé,2025-10-10,First round,Fri,Neutral,L,0,6,São Tomé,0,,,,,,0,0,17:00:00,/en/matches/ee22a21f/Sao-Tome-and-Principe-Tunisia-October-10-2025-WCQ----CAF-M
+,2026,,2025-10-10 Zimbabwe-Zimbabwe,2025-10-10,First round,Fri,Neutral,D,0,0,Zimbabwe,0,,,,,,0,0,18:00:00,/en/matches/b16cdb53/Zimbabwe-South-Africa-October-10-2025-WCQ----CAF-M
+,2026,,2025-10-10 nan-El Salvador,2025-10-10,Third round,Fri,Home,L,0,1,El Salvador,0,,,,,,0,0,19:00:00,/en/matches/a932692e/El-Salvador-Panama-October-10-2025-WCQ----CONCACAF-M
+,2026,,2025-10-10 nan-South Sudan,2025-10-10,First round,Fri,Home,L,0,5,South Sudan,0,,,,,,0,0,15:00:00,/en/matches/2d8ea0e6/South-Sudan-Senegal-October-10-2025-WCQ----CAF-M
+,2026,,2025-10-10 nan-Sweden,2025-10-10,First round,Fri,Home,L,0,2,Sweden,0,7,0,0.0,0.0,,0,0,20:45:00,/en/matches/4e5d901c/Sweden-Switzerland-October-10-2025-WCQ----UEFA-M
+,2026,,2025-10-10 nan-Togo,2025-10-10,First round,Fri,Home,L,0,1,Togo,0,,,,,,0,0,13:00:00,/en/matches/ef536e03/Togo-Congo-DR-October-10-2025-WCQ----CAF-M
+,2026,,2025-10-11 Georgia-nan,2025-10-11,First round,Sat,Away,L,0,2,Georgia,0,1,1,100.0,0.0,0.0,0,0,20:45:00,/en/matches/f6ab9dc9/Spain-Georgia-October-11-2025-WCQ----UEFA-M
+,2026,,2025-10-11 Indonesia-nan,2025-10-11,Fourth round,Sat,Away,L,0,1,Indonesia,0,9,1,11.1,0.0,0.0,0,0,22:30:00,/en/matches/d725201a/Iraq-Indonesia-October-11-2025-WCQ----AFC-M
+,2026,,2025-10-11 Israel-nan,2025-10-11,First round,Sat,Away,L,0,5,Israel,0,4,1,25.0,0.0,0.0,0,0,18:00:00,/en/matches/401b0820/Norway-Israel-October-11-2025-WCQ----UEFA-M
+,2026,,2025-10-11 Rep. of Ireland-nan,2025-10-11,First round,Sat,Away,L,0,1,Rep. of Ireland,0,2,0,0.0,0.0,,0,0,19:45:00,/en/matches/b939c780/Portugal-Republic-of-Ireland-October-11-2025-WCQ----UEFA-M
+,2026,,2025-10-11 nan-Bulgaria,2025-10-11,First round,Sat,Home,L,1,6,Bulgaria,1,4,2,50.0,0.25,0.5,0,0,21:45:00,/en/matches/611a6a00/Bulgaria-Turkiye-October-11-2025-WCQ----UEFA-M
+,2026,,2025-10-12 Belarus-nan,2025-10-12,First round,Sun,Away,L,1,2,Belarus,1,22,3,13.6,0.05,0.33,0,0,17:00:00,/en/matches/e35964c4/Scotland-Belarus-October-12-2025-WCQ----UEFA-M
+,2026,,2025-10-12 Comoros-nan,2025-10-12,First round,Sun,Away,L,0,1,Comoros,0,,,,,,0,0,19:00:00,/en/matches/d87b78dd/Ghana-Comoros-October-12-2025-WCQ----CAF-M
+,2026,,2025-10-12 Finland-nan,2025-10-12,First round,Sun,Away,L,0,4,Finland,0,7,3,42.9,0.0,0.0,0,0,18:00:00,/en/matches/aa761d9a/Netherlands-Finland-October-12-2025-WCQ----UEFA-M
+,2026,,2025-10-12 Gibraltar-nan,2025-10-12,First round,Sun,Away,L,0,3,Gibraltar,0,1,0,0.0,0.0,,0,0,20:45:00,/en/matches/bd6c9d3b/Croatia-Gibraltar-October-12-2025-WCQ----UEFA-M
+,2026,,2025-10-12 Guinea-Bissau-nan,2025-10-12,First round,Sun,Away,L,0,1,Guinea-Bissau,0,,,,,,0,0,22:00:00,/en/matches/5fc514f9/Egypt-Guinea-Bissau-October-12-2025-WCQ----CAF-M
+,2026,,2025-10-12 nan-Faroe Islands,2025-10-12,First round,Sun,Home,W,2,1,Faroe Islands,2,6,3,50.0,0.33,0.67,0,0,17:00:00,/en/matches/ecd0a8b4/Faroe-Islands-Czechia-October-12-2025-WCQ----UEFA-M
+,2026,,2025-10-12 nan-Romania,2025-10-12,First round,Sun,Home,W,1,0,Romania,1,10,2,20.0,0.1,0.5,0,0,21:45:00,/en/matches/521c3ed0/Romania-Austria-October-12-2025-WCQ----UEFA-M
+,2026,,2025-10-13 Eswatini-nan,2025-10-13,First round,Mon,Away,L,0,3,Eswatini,0,,,,,,0,0,15:00:00,/en/matches/c041605e/Cabo-Verde-Eswatini-October-13-2025-WCQ----CAF-M
+,2026,,2025-10-13 Kosovo-nan,2025-10-13,First round,Mon,Away,W,1,0,Kosovo,1,7,3,42.9,0.14,0.33,0,0,20:45:00,/en/matches/e6e69066/Sweden-Kosovo-October-13-2025-WCQ----UEFA-M
+,2026,,2025-10-13 Namibia-nan,2025-10-13,First round,Mon,Away,L,0,3,Namibia,0,,,,,,0,0,14:00:00,/en/matches/bb98ae1a/Tunisia-Namibia-October-13-2025-WCQ----CAF-M
+,2026,,2025-10-13 nan-Honduras,2025-10-13,Third round,Mon,Home,W,3,0,Honduras,3,,,,,,0,0,18:00:00,/en/matches/3739ffde/Honduras-Haiti-October-13-2025-WCQ----CONCACAF-M
+,2026,,2025-10-13 nan-Iceland,2025-10-13,First round,Mon,Home,D,2,2,Iceland,2,4,2,50.0,0.5,1.0,0,0,18:45:00,/en/matches/9b822080/Iceland-France-October-13-2025-WCQ----UEFA-M
+,2026,,2025-10-13 nan-Northern Ireland,2025-10-13,First round,Mon,Home,L,0,1,Northern Ireland,0,12,3,25.0,0.0,0.0,0,0,19:45:00,/en/matches/39ca2925/Northern-Ireland-Germany-October-13-2025-WCQ----UEFA-M
+,2026,,2025-10-13 nan-Slovenia,2025-10-13,First round,Mon,Home,D,0,0,Slovenia,0,4,0,0.0,0.0,,0,0,20:45:00,/en/matches/5b733b81/Slovenia-Switzerland-October-13-2025-WCQ----UEFA-M
+,2026,,2025-10-13 nan-Wales,2025-10-13,First round,Mon,Home,L,2,4,Wales,2,9,3,33.3,0.22,0.67,0,0,19:45:00,/en/matches/789be0e8/Wales-Belgium-October-13-2025-WCQ----UEFA-M
+,2026,,2025-10-14 Bulgaria-nan,2025-10-14,First round,Tue,Away,L,0,4,Bulgaria,0,3,0,0.0,0.0,,0,0,20:45:00,/en/matches/90e53e80/Spain-Bulgaria-October-14-2025-WCQ----UEFA-M
+,2026,,2025-10-14 Congo-nan,2025-10-14,First round,Tue,Away,L,0,1,Congo,0,,,,,,0,0,20:00:00,/en/matches/a5e75f87/Morocco-Congo-October-14-2025-WCQ----CAF-M
+,2026,,2025-10-14 Georgia-nan,2025-10-14,First round,Tue,Away,L,1,4,Georgia,1,12,3,25.0,0.08,0.33,0,0,21:45:00,/en/matches/b66ea629/Turkiye-Georgia-October-14-2025-WCQ----UEFA-M
+,2026,,2025-10-14 Hungary-nan,2025-10-14,First round,Tue,Away,D,2,2,Hungary,2,17,7,41.2,0.12,0.29,0,0,19:45:00,/en/matches/b3a15e2f/Portugal-Hungary-October-14-2025-WCQ----UEFA-M
+,2026,,2025-10-14 Iraq-nan,2025-10-14,Fourth round,Tue,Away,D,0,0,Iraq,0,4,1,25.0,0.0,0.0,0,0,21:45:00,/en/matches/0b439e8f/Saudi-Arabia-Iraq-October-14-2025-WCQ----AFC-M
+,2026,,2025-10-14 Kenya-nan,2025-10-14,First round,Tue,Away,L,0,3,Kenya,0,,,,,,0,0,19:00:00,/en/matches/b6a42b99/Cote-dIvoire-Kenya-October-14-2025-WCQ----CAF-M
+,2026,,2025-10-14 Mauritania-nan,2025-10-14,First round,Tue,Away,L,0,4,Mauritania,0,,,,,,0,0,19:00:00,/en/matches/ffcbe733/Senegal-Mauritania-October-14-2025-WCQ----CAF-M
+,2026,,2025-10-14 Rwanda-nan,2025-10-14,First round,Tue,Away,L,0,3,Rwanda,0,,,,,,0,0,18:00:00,/en/matches/b8cc1e13/South-Africa-Rwanda-October-14-2025-WCQ----CAF-M
+,2026,,2025-10-14 Sudan-nan,2025-10-14,First round,Tue,Away,L,0,1,Sudan,0,,,,,,0,0,20:00:00,/en/matches/4789519e/Congo-DR-Sudan-October-14-2025-WCQ----CAF-M
+,2026,,2025-10-14 Suriname-nan,2025-10-14,Third round,Tue,Away,D,1,1,Suriname,1,,,,,,0,0,20:00:00,/en/matches/677953e5/Panama-Suriname-October-14-2025-WCQ----CONCACAF-M
+,2026,,2025-10-14 Trin & Tobago-nan,2025-10-14,Third round,Tue,Away,D,1,1,Trin & Tobago,1,,,,,,0,0,19:00:00,/en/matches/1c417c55/Curacao-Trinidad-and-Tobago-October-14-2025-WCQ----CONCACAF-M
+,2026,,2025-10-14 UAE-nan,2025-10-14,Fourth round,Tue,Away,L,1,2,UAE,1,15,4,26.7,0.07,0.25,0,0,20:00:00,/en/matches/7b43321a/Qatar-United-Arab-Emirates-October-14-2025-WCQ----AFC-M
+,2026,,2025-10-14 Uganda-nan,2025-10-14,First round,Tue,Away,L,1,2,Uganda,1,,,,,,0,0,17:00:00,/en/matches/9bb61161/Algeria-Uganda-October-14-2025-WCQ----CAF-M
+,2026,,2025-10-14 nan-Latvia,2025-10-14,First round,Tue,Home,L,0,5,Latvia,0,6,1,16.7,0.0,0.0,0,0,21:45:00,/en/matches/dfcc36f5/Latvia-England-October-14-2025-WCQ----UEFA-M
+,2026,,2025-10-14 nan-Saudi Arabia,2025-10-14,Fourth round,Tue,Home,D,0,0,Saudi Arabia,0,15,4,26.7,0.0,0.0,0,0,21:45:00,/en/matches/0b439e8f/Saudi-Arabia-Iraq-October-14-2025-WCQ----AFC-M
+,2026,,2025-11-13 Cameroon-Cameroon,2025-11-13,Second round — Semi-finals,Thu,Neutral,L,0,1,Cameroon,0,,,,,,0,0,20:00:00,/en/matches/6ae8ef39/Cameroon-Congo-DR-November-13-2025-WCQ----CAF-M
+,2026,,2025-11-13 Costa Rica-nan,2025-11-13,Third round,Thu,Away,L,0,1,Costa Rica,0,,,,,,0,0,22:00:00,/en/matches/174b87ff/Haiti-Costa-Rica-November-13-2025-WCQ----CONCACAF-M
+,2026,,2025-11-13 Estonia-nan,2025-11-13,First round,Thu,Away,L,1,4,Estonia,1,6,3,50.0,0.17,0.33,0,0,18:00:00,/en/matches/64573eae/Norway-Estonia-November-13-2025-WCQ----UEFA-M
+,2026,,2025-11-13 Serbia-nan,2025-11-13,First round,Thu,Away,L,0,2,Serbia,0,7,1,14.3,0.0,0.0,0,0,19:45:00,/en/matches/033a4adf/England-Serbia-November-13-2025-WCQ----UEFA-M
+,2026,,2025-11-13 Ukraine-nan,2025-11-13,First round,Thu,Away,L,0,4,Ukraine,0,1,0,0.0,0.0,,0,0,20:45:00,/en/matches/02165ade/France-Ukraine-November-13-2025-WCQ----UEFA-M
+,2026,,2025-11-13 nan-Bermuda,2025-11-13,Third round,Thu,Home,L,0,7,Bermuda,0,,,,,,0,0,20:00:00,/en/matches/be4805bf/Bermuda-Curacao-November-13-2025-WCQ----CONCACAF-M
+,2026,,2025-11-13 nan-Guatemala,2025-11-13,Third round,Thu,Home,L,2,3,Guatemala,2,,,,,,0,0,20:00:00,/en/matches/4a589b4e/Guatemala-Panama-November-13-2025-WCQ----CONCACAF-M
+,2026,,2025-11-13 nan-Rep. of Ireland,2025-11-13,First round,Thu,Home,W,2,0,Rep. of Ireland,2,14,3,21.4,0.14,0.67,0,0,19:45:00,/en/matches/cf1f16bb/Republic-of-Ireland-Portugal-November-13-2025-WCQ----UEFA-M
+,2026,,2025-11-13 nan-UAE,2025-11-13,Fifth round,Thu,Home,D,1,1,UAE,1,19,4,21.1,0.05,0.25,0,0,20:00:00,/en/matches/8371ad67/United-Arab-Emirates-Iraq-November-13-2025-WCQ----AFC-M
+,2026,,2025-11-14 Faroe Islands-nan,2025-11-14,First round,Fri,Away,L,1,3,Faroe Islands,1,4,4,100.0,0.25,0.25,0,0,20:45:00,/en/matches/e4bb85b1/Croatia-Faroe-Islands-November-14-2025-WCQ----UEFA-M
+,2026,,2025-11-14 nan-Luxembourg,2025-11-14,First round,Fri,Home,L,0,2,Luxembourg,0,7,1,14.3,0.0,0.0,0,0,20:45:00,/en/matches/e98d0d68/Luxembourg-Germany-November-14-2025-WCQ----UEFA-M
+,2026,,2025-11-14 nan-Poland,2025-11-14,First round,Fri,Home,D,1,1,Poland,1,12,5,41.7,0.08,0.2,0,0,20:45:00,/en/matches/8872104f/Poland-Netherlands-November-14-2025-WCQ----UEFA-M
+,2026,,2025-11-15 Bulgaria-nan,2025-11-15,First round,Sat,Away,L,0,2,Bulgaria,0,9,2,22.2,0.0,0.0,0,0,20:00:00,/en/matches/3a42c612/Turkiye-Bulgaria-November-15-2025-WCQ----UEFA-M
+,2026,,2025-11-15 Romania-nan,2025-11-15,First round,Sat,Away,L,1,3,Romania,1,9,3,33.3,0.11,0.33,0,0,20:45:00,/en/matches/0602fb26/Bosnia-and-Herzegovina-Romania-November-15-2025-WCQ----UEFA-M
+,2026,,2025-11-15 Sweden-nan,2025-11-15,First round,Sat,Away,L,1,4,Sweden,1,6,3,50.0,0.17,0.33,0,0,20:45:00,/en/matches/33be2d7d/Switzerland-Sweden-November-15-2025-WCQ----UEFA-M
+,2026,,2025-11-15 nan-Cyprus,2025-11-15,First round,Sat,Home,L,0,2,Cyprus,0,4,0,0.0,0.0,,0,0,19:00:00,/en/matches/bbba4e66/Cyprus-Austria-November-15-2025-WCQ----UEFA-M
+,2026,,2025-11-15 nan-Georgia,2025-11-15,First round,Sat,Home,L,0,4,Georgia,0,6,2,33.3,0.0,0.0,0,0,21:00:00,/en/matches/2e3752b9/Georgia-Spain-November-15-2025-WCQ----UEFA-M
+,2026,,2025-11-15 nan-Greece,2025-11-15,First round,Sat,Home,W,3,2,Greece,3,18,10,55.6,0.17,0.3,0,0,21:45:00,/en/matches/b6468ada/Greece-Scotland-November-15-2025-WCQ----UEFA-M
+,2026,,2025-11-15 nan-Kazakhstan,2025-11-15,First round,Sat,Home,D,1,1,Kazakhstan,1,9,3,33.3,0.11,0.33,0,0,19:00:00,/en/matches/02b25784/Kazakhstan-Belgium-November-15-2025-WCQ----UEFA-M
+,2026,,2025-11-15 nan-Switzerland,2025-11-15,First round,Sat,Home,W,4,1,Switzerland,4,9,7,77.8,0.44,0.57,1,1,20:45:00,/en/matches/33be2d7d/Switzerland-Sweden-November-15-2025-WCQ----UEFA-M
+,2026,,2025-11-16 Armenia-nan,2025-11-16,First round,Sun,Away,L,1,9,Armenia,1,4,2,50.0,0.25,0.5,0,0,14:00:00,/en/matches/09a19bf6/Portugal-Armenia-November-16-2025-WCQ----UEFA-M
+,2026,,2025-11-16 Nigeria-Nigeria,2025-11-16,Second round — Final,Sun,Neutral,D,1 (3),1 (4),Nigeria,1,,,,,,0,0,20:00:00,/en/matches/55e08fb0/Nigeria-Congo-DR-November-16-2025-WCQ----CAF-M
+,2026,,2025-11-16 nan-Albania,2025-11-16,First round,Sun,Home,L,0,2,Albania,0,6,3,50.0,0.0,0.0,0,0,18:00:00,/en/matches/f6a3426b/Albania-England-November-16-2025-WCQ----UEFA-M
+,2026,,2025-11-16 nan-Azerbaijan,2025-11-16,First round,Sun,Home,L,1,3,Azerbaijan,1,2,1,50.0,0.5,1.0,0,0,21:00:00,/en/matches/bedbcee1/Azerbaijan-France-November-16-2025-WCQ----UEFA-M
+,2026,,2025-11-16 nan-Italy,2025-11-16,First round,Sun,Home,L,1,4,Italy,1,15,4,26.7,0.07,0.25,0,0,20:45:00,/en/matches/cff28055/Italy-Norway-November-16-2025-WCQ----UEFA-M
+,2026,,2025-11-17 Gibraltar-nan,2025-11-17,First round,Mon,Away,L,0,6,Gibraltar,0,0,0,,,,0,0,20:45:00,/en/matches/0ebe79a8/Czechia-Gibraltar-November-17-2025-WCQ----UEFA-M
+,2026,,2025-11-17 Lithuania-nan,2025-11-17,First round,Mon,Away,L,0,4,Lithuania,0,9,1,11.1,0.0,0.0,0,0,20:45:00,/en/matches/88e19be4/Netherlands-Lithuania-November-17-2025-WCQ----UEFA-M
+,2026,,2025-11-17 Slovakia-nan,2025-11-17,First round,Mon,Away,L,0,6,Slovakia,0,6,2,33.3,0.0,0.0,0,0,20:45:00,/en/matches/b64bbdda/Germany-Slovakia-November-17-2025-WCQ----UEFA-M
+,2026,,2025-11-17 nan-Montenegro,2025-11-17,First round,Mon,Home,L,2,3,Montenegro,2,13,5,38.5,0.15,0.4,0,0,20:45:00,/en/matches/4f2773ae/Montenegro-Croatia-November-17-2025-WCQ----UEFA-M
+,2026,,2025-11-18 Bosnia–Herz-nan,2025-11-18,First round,Tue,Away,D,1,1,Bosnia–Herz,1,8,1,12.5,0.13,1.0,0,0,20:45:00,/en/matches/13f12bb3/Austria-Bosnia-and-Herzegovina-November-18-2025-WCQ----UEFA-M
+,2026,,2025-11-18 Denmark-nan,2025-11-18,First round,Tue,Away,L,2,4,Denmark,2,18,3,16.7,0.11,0.67,1,1,19:45:00,/en/matches/68f693c2/Scotland-Denmark-November-18-2025-WCQ----UEFA-M
+,2026,,2025-11-18 El Salvador-nan,2025-11-18,Third round,Tue,Away,L,0,3,El Salvador,0,,,,,,0,0,20:00:00,/en/matches/cb79e6ac/Panama-El-Salvador-November-18-2025-WCQ----CONCACAF-M
+,2026,,2025-11-18 Liechtenstein-nan,2025-11-18,First round,Tue,Away,L,0,7,Liechtenstein,0,2,1,50.0,0.0,0.0,0,0,20:45:00,/en/matches/8e442494/Belgium-Liechtenstein-November-18-2025-WCQ----UEFA-M
+,2026,,2025-11-18 Nicaragua-nan,2025-11-18,Third round,Tue,Away,L,0,2,Nicaragua,0,,,,,,0,0,21:00:00,/en/matches/b17e720d/Haiti-Nicaragua-November-18-2025-WCQ----CONCACAF-M
+,2026,,2025-11-18 Slovenia-nan,2025-11-18,First round,Tue,Away,D,1,1,Slovenia,1,17,3,17.6,0.06,0.33,0,0,20:45:00,/en/matches/167d1082/Sweden-Slovenia-November-18-2025-WCQ----UEFA-M
+,2026,,2025-11-18 Türkiye-nan,2025-11-18,First round,Tue,Away,D,2,2,Türkiye,2,13,7,53.8,0.15,0.29,0,0,20:45:00,/en/matches/dced891d/Spain-Turkiye-November-18-2025-WCQ----UEFA-M
+,2026,,2025-11-18 UAE-nan,2025-11-18,Fifth round,Tue,Away,L,1,2,UAE,1,13,4,30.8,0.08,0.25,0,0,19:00:00,/en/matches/ef31586f/Iraq-United-Arab-Emirates-November-18-2025-WCQ----AFC-M
+,2026,,2025-11-18 nan-Austria,2025-11-18,First round,Tue,Home,D,1,1,Austria,1,10,3,30.0,0.1,0.33,0,0,20:45:00,/en/matches/13f12bb3/Austria-Bosnia-and-Herzegovina-November-18-2025-WCQ----UEFA-M
+,2026,,2025-11-18 nan-Jamaica,2025-11-18,Third round,Tue,Home,D,0,0,Jamaica,0,,,,,,0,0,20:00:00,/en/matches/3844fe1a/Jamaica-Curacao-November-18-2025-WCQ----CONCACAF-M
+,2026,,2025-11-18 nan-Kosovo,2025-11-18,First round,Tue,Home,D,1,1,Kosovo,1,11,4,36.4,0.09,0.25,0,0,20:45:00,/en/matches/171d228d/Kosovo-Switzerland-November-18-2025-WCQ----UEFA-M
+,2026,,2025-11-18 nan-Spain,2025-11-18,First round,Tue,Home,D,2,2,Spain,2,21,9,42.9,0.1,0.22,0,0,20:45:00,/en/matches/dced891d/Spain-Turkiye-November-18-2025-WCQ----UEFA-M
+,2026,,2026-03-26 Brazil-Brazil,2026-03-26,Friendlies (M),Thu,Neutral,L,1,2,Brazil,1,,,,,,0,0,16:00:00,/en/matches/b9dc227a/Brazil-France-March-26-2026-Friendlies-M
+,2026,,2026-03-26 Colombia-Colombia,2026-03-26,Friendlies (M),Thu,Neutral,L,1,2,Colombia,1,,,,,,0,0,19:30:00,/en/matches/7bef623c/Croatia-Colombia-March-26-2026-Friendlies-M
+,2026,,2026-03-26 Croatia-Croatia,2026-03-26,Friendlies (M),Thu,Neutral,W,2,1,Croatia,2,,,,,,0,0,19:30:00,/en/matches/7bef623c/Croatia-Colombia-March-26-2026-Friendlies-M
+,2026,,2026-03-26 France-France,2026-03-26,Friendlies (M),Thu,Neutral,W,2,1,France,2,,,,,,0,0,16:00:00,/en/matches/b9dc227a/Brazil-France-March-26-2026-Friendlies-M
+,2026,,2026-03-26 Rep. of Ireland-Rep. of Ireland,2026-03-26,Second round — Semi-finals,Thu,Neutral,D,2 (3),2 (4),Rep. of Ireland,1,10,3,30.0,0.1,0.33,1,1,20:45:00,/en/matches/b9fa1ef0/Czechia-Republic-of-Ireland-March-26-2026-WCQ----UEFA-M
+,2026,,2026-03-26 Romania-Romania,2026-03-26,Second round — Semi-finals,Thu,Neutral,L,0,1,Romania,0,6,0,0.0,0.0,,0,0,20:00:00,/en/matches/d8dbe604/Turkiye-Romania-March-26-2026-WCQ----UEFA-M
+,2026,,2026-03-26 Ukraine-Ukraine,2026-03-26,Second round — Semi-finals,Thu,Neutral,L,1,3,Ukraine,1,10,4,40.0,0.1,0.25,0,0,20:45:00,/en/matches/6c0eb81f/Ukraine-Sweden-March-26-2026-WCQ----UEFA-M
+,2026,,2026-03-26 Wales-Wales,2026-03-26,Second round — Semi-finals,Thu,Neutral,D,1 (2),1 (4),Wales,1,19,3,15.8,0.05,0.33,0,0,19:45:00,/en/matches/223b6f6d/Wales-Bosnia-and-Herzegovina-March-26-2026-WCQ----UEFA-M
+,2026,,2026-03-27 Ecuador-Ecuador,2026-03-27,Friendlies (M),Fri,Neutral,D,1,1,Ecuador,1,,,,,,0,0,21:15:00,/en/matches/c28e1e8c/Morocco-Ecuador-March-27-2026-Friendlies-M
+,2026,,2026-03-27 Egypt-nan,2026-03-27,Friendlies (M),Fri,Away,W,4,0,Egypt,4,,,,,,0,0,20:30:00,/en/matches/ffe7a43a/Saudi-Arabia-Egypt-March-27-2026-Friendlies-M
+,2026,,2026-03-27 Germany-nan,2026-03-27,Friendlies (M),Fri,Away,W,4,3,Germany,4,,,,,,0,0,20:45:00,/en/matches/ec873493/Switzerland-Germany-March-27-2026-Friendlies-M
+,2026,,2026-03-27 Ghana-nan,2026-03-27,Friendlies (M),Fri,Away,L,1,5,Ghana,1,,,,,,0,0,18:00:00,/en/matches/3e29ace5/Austria-Ghana-March-27-2026-Friendlies-M
+,2026,,2026-03-27 Guatemala-Guatemala,2026-03-27,Friendlies (M),Fri,Neutral,L,0,7,Guatemala,0,,,,,,0,0,20:30:00,/en/matches/b4566156/Algeria-Guatemala-March-27-2026-Friendlies-M
+,2026,,2026-03-27 Mauritania-nan,2026-03-27,Friendlies (M),Fri,Away,L,1,2,Mauritania,1,,,,,,0,0,20:15:00,/en/matches/d7399ba1/Argentina-Mauritania-March-27-2026-Friendlies-M
+,2026,,2026-03-27 Morocco-Morocco,2026-03-27,Friendlies (M),Fri,Neutral,D,1,1,Morocco,1,,,,,,0,1,21:15:00,/en/matches/c28e1e8c/Morocco-Ecuador-March-27-2026-Friendlies-M
+,2026,,2026-03-27 Norway-nan,2026-03-27,Friendlies (M),Fri,Away,L,1,2,Norway,1,,,,,,0,0,20:45:00,/en/matches/f20c7973/Netherlands-Norway-March-27-2026-Friendlies-M
+,2026,,2026-03-27 Panama-nan,2026-03-27,Friendlies (M),Fri,Away,D,1,1,Panama,1,,,,,,0,0,19:00:00,/en/matches/97d3d9fb/South-Africa-Panama-March-27-2026-Friendlies-M
+,2026,,2026-03-27 Serbia-nan,2026-03-27,Friendlies (M),Fri,Away,L,0,3,Serbia,0,,,,,,0,0,21:00:00,/en/matches/07039168/Spain-Serbia-March-27-2026-Friendlies-M
+,2026,,2026-03-27 Uruguay-nan,2026-03-27,Friendlies (M),Fri,Away,D,1,1,Uruguay,1,,,,,,1,1,19:45:00,/en/matches/99caec30/England-Uruguay-March-27-2026-Friendlies-M
+,2026,,2026-03-27 nan-Austria,2026-03-27,Friendlies (M),Fri,Home,W,5,1,Austria,5,,,,,,1,1,18:00:00,/en/matches/3e29ace5/Austria-Ghana-March-27-2026-Friendlies-M
+,2026,,2026-03-27 nan-England,2026-03-27,Friendlies (M),Fri,Home,D,1,1,England,1,,,,,,0,0,19:45:00,/en/matches/99caec30/England-Uruguay-March-27-2026-Friendlies-M
+,2026,,2026-03-27 nan-Greece,2026-03-27,Friendlies (M),Fri,Home,L,0,1,Greece,0,,,,,,0,0,21:00:00,/en/matches/a9e4aa92/Greece-Paraguay-March-27-2026-Friendlies-M
+,2026,,2026-03-27 nan-Netherlands,2026-03-27,Friendlies (M),Fri,Home,W,2,1,Netherlands,2,,,,,,0,0,20:45:00,/en/matches/f20c7973/Netherlands-Norway-March-27-2026-Friendlies-M
+,2026,,2026-03-27 nan-Saudi Arabia,2026-03-27,Friendlies (M),Fri,Home,L,0,4,Saudi Arabia,0,,,,,,0,0,20:30:00,/en/matches/ffe7a43a/Saudi-Arabia-Egypt-March-27-2026-Friendlies-M
+,2026,,2026-03-27 nan-South Africa,2026-03-27,Friendlies (M),Fri,Home,D,1,1,South Africa,1,,,,,,0,0,19:00:00,/en/matches/97d3d9fb/South-Africa-Panama-March-27-2026-Friendlies-M
+,2026,,2026-03-27 nan-Switzerland,2026-03-27,Friendlies (M),Fri,Home,L,3,4,Switzerland,3,,,,,,0,0,20:45:00,/en/matches/ec873493/Switzerland-Germany-March-27-2026-Friendlies-M
+,2026,,2026-03-28 Belgium-nan,2026-03-28,Friendlies (M),Sat,Away,W,5,2,Belgium,5,,,,,,1,1,15:37:00,/en/matches/af7ce286/United-States-Belgium-March-28-2026-Friendlies-M
+,2026,,2026-03-28 Côte d'Ivoire-Côte d'Ivoire,2026-03-28,Friendlies (M),Sat,Neutral,W,4,0,Côte d'Ivoire,4,,,,,,0,0,14:00:00,/en/matches/71830a15/Korea-Republic-Cote-dIvoire-March-28-2026-Friendlies-M
+,2026,,2026-03-28 Haiti-Haiti,2026-03-28,Friendlies (M),Sat,Neutral,L,0,1,Haiti,0,,,,,,0,0,20:00:00,/en/matches/afb63da3/Haiti-Tunisia-March-28-2026-Friendlies-M
+,2026,,2026-03-28 Iceland-nan,2026-03-28,Friendlies (M),Sat,Away,D,2,2,Iceland,2,,,,,,0,0,13:20:00,/en/matches/23e80c9c/Canada-Iceland-March-28-2026-Friendlies-M
+,2026,,2026-03-28 Japan-nan,2026-03-28,Friendlies (M),Sat,Away,W,1,0,Japan,1,,,,,,0,0,17:00:00,/en/matches/c1524931/Scotland-Japan-March-28-2026-Friendlies-M
+,2026,,2026-03-28 Korea Republic-Korea Republic,2026-03-28,Friendlies (M),Sat,Neutral,L,0,4,Korea Republic,0,,,,,,0,0,14:00:00,/en/matches/71830a15/Korea-Republic-Cote-dIvoire-March-28-2026-Friendlies-M
+,2026,,2026-03-28 Peru-Peru,2026-03-28,Friendlies (M),Sat,Neutral,L,0,2,Peru,0,,,,,,0,0,17:00:00,/en/matches/3e33d427/Senegal-Peru-March-28-2026-Friendlies-M
+,2026,,2026-03-28 Portugal-nan,2026-03-28,Friendlies (M),Sat,Away,D,0,0,Portugal,0,,,,,,0,0,19:00:00,/en/matches/89af3085/Mexico-Portugal-March-28-2026-Friendlies-M
+,2026,,2026-03-28 Tunisia-Tunisia,2026-03-28,Friendlies (M),Sat,Neutral,W,1,0,Tunisia,1,,,,,,0,0,20:00:00,/en/matches/afb63da3/Haiti-Tunisia-March-28-2026-Friendlies-M
+,2026,,2026-03-28 nan-Mexico,2026-03-28,Friendlies (M),Sat,Home,D,0,0,Mexico,0,,,,,,0,0,19:00:00,/en/matches/89af3085/Mexico-Portugal-March-28-2026-Friendlies-M
+,2026,,2026-03-28 nan-Scotland,2026-03-28,Friendlies (M),Sat,Home,L,0,1,Scotland,0,,,,,,0,0,17:00:00,/en/matches/c1524931/Scotland-Japan-March-28-2026-Friendlies-M
+,2026,,2026-03-28 nan-USA,2026-03-28,Friendlies (M),Sat,Home,L,2,5,USA,2,,,,,,0,0,15:37:00,/en/matches/af7ce286/United-States-Belgium-March-28-2026-Friendlies-M
+,2026,,2026-03-29 Colombia-Colombia,2026-03-29,Friendlies (M),Sun,Neutral,L,1,3,Colombia,1,,,,,,0,0,15:00:00,/en/matches/4be8d965/Colombia-France-March-29-2026-Friendlies-M
+,2026,,2026-03-29 France-France,2026-03-29,Friendlies (M),Sun,Neutral,W,3,1,France,3,,,,,,0,0,15:00:00,/en/matches/4be8d965/Colombia-France-March-29-2026-Friendlies-M
+,2026,,2026-03-30 Ghana-nan,2026-03-30,Friendlies (M),Mon,Away,L,1,2,Ghana,1,,,,,,0,0,20:45:00,/en/matches/58260c4f/Germany-Ghana-March-30-2026-Friendlies-M
+,2026,,2026-03-30 nan-Germany,2026-03-30,Friendlies (M),Mon,Home,W,2,1,Germany,2,,,,,,1,1,20:45:00,/en/matches/58260c4f/Germany-Ghana-March-30-2026-Friendlies-M
+,2026,,2026-03-31 Algeria-Algeria,2026-03-31,Friendlies (M),Tue,Neutral,D,0,0,Algeria,0,,,,,,0,0,20:30:00,/en/matches/d2fe1225/Algeria-Uruguay-March-31-2026-Friendlies-M
+,2026,,2026-03-31 Belgium-Belgium,2026-03-31,Friendlies (M),Tue,Neutral,D,1,1,Belgium,1,,,,,,0,0,20:00:00,/en/matches/fe01feb5/Mexico-Belgium-March-31-2026-Friendlies-M
+,2026,,2026-03-31 Bolivia-Bolivia,2026-03-31,WCQ — Inter-confederation play-offs finals (M),Tue,Neutral,L,1,2,Bolivia,1,,,,,,0,0,21:00:00,/en/matches/27d1123d/Iraq-Bolivia-March-31-2026-FIFA-World-Cup-Qualification----Inter-confederation-play-offs
+,2026,,2026-03-31 Brazil-Brazil,2026-03-31,Friendlies (M),Tue,Neutral,W,3,1,Brazil,3,,,,,,1,1,20:00:00,/en/matches/750b2b0b/Brazil-Croatia-March-31-2026-Friendlies-M
+,2026,,2026-03-31 Croatia-Croatia,2026-03-31,Friendlies (M),Tue,Neutral,L,1,3,Croatia,1,,,,,,0,0,20:00:00,/en/matches/750b2b0b/Brazil-Croatia-March-31-2026-Friendlies-M
+,2026,,2026-03-31 Côte d'Ivoire-Côte d'Ivoire,2026-03-31,Friendlies (M),Tue,Neutral,W,1,0,Côte d'Ivoire,1,,,,,,0,0,19:30:00,/en/matches/ffd25819/Cote-dIvoire-Scotland-March-31-2026-Friendlies-M
+,2026,,2026-03-31 Denmark-nan,2026-03-31,Second round — Finals,Tue,Away,D,2 (1),2 (3),Denmark,2,22,8,36.4,0.09,0.25,0,0,20:45:00,/en/matches/693388b2/Czechia-Denmark-March-31-2026-WCQ----UEFA-M
+,2026,,2026-03-31 Ecuador-nan,2026-03-31,Friendlies (M),Tue,Away,D,1,1,Ecuador,1,,,,,,1,1,20:45:00,/en/matches/74458d95/Netherlands-Ecuador-March-31-2026-Friendlies-M
+,2026,,2026-03-31 Egypt-nan,2026-03-31,Friendlies (M),Tue,Away,D,0,0,Egypt,0,,,,,,0,0,21:00:00,/en/matches/6e94df18/Spain-Egypt-March-31-2026-Friendlies-M
+,2026,,2026-03-31 Gambia-nan,2026-03-31,Friendlies (M),Tue,Away,L,1,3,Gambia,1,,,,,,0,0,19:00:00,/en/matches/4c9576db/Senegal-Gambia-March-31-2026-Friendlies-M
+,2026,,2026-03-31 Iceland-Iceland,2026-03-31,Friendlies (M),Tue,Neutral,D,1,1,Iceland,1,,,,,,0,0,13:30:00,/en/matches/1a46d9fe/Haiti-Iceland-March-31-2026-Friendlies-M
+,2026,,2026-03-31 Italy-nan,2026-03-31,Second round — Finals,Tue,Away,D,1 (1),1 (4),Italy,1,9,3,33.3,0.11,0.33,0,0,20:45:00,/en/matches/e9d707b9/Bosnia-and-Herzegovina-Italy-March-31-2026-WCQ----UEFA-M
+,2026,,2026-03-31 Jamaica-Jamaica,2026-03-31,WCQ — Inter-confederation play-offs finals (M),Tue,Neutral,L,0,1,Jamaica,0,,,,,,0,0,15:00:00,/en/matches/27e15e8a/Congo-DR-Jamaica-March-31-2026-FIFA-World-Cup-Qualification----Inter-confederation-play-offs
+,2026,,2026-03-31 Japan-nan,2026-03-31,Friendlies (M),Tue,Away,W,1,0,Japan,1,,,,,,0,0,19:45:00,/en/matches/4b3667c6/England-Japan-March-31-2026-Friendlies-M
+,2026,,2026-03-31 Korea Republic-nan,2026-03-31,Friendlies (M),Tue,Away,L,0,1,Korea Republic,0,,,,,,0,0,20:45:00,/en/matches/1fe6a607/Austria-Korea-Republic-March-31-2026-Friendlies-M
+,2026,,2026-03-31 Mexico-Mexico,2026-03-31,Friendlies (M),Tue,Neutral,D,1,1,Mexico,1,,,,,,0,0,20:00:00,/en/matches/fe01feb5/Mexico-Belgium-March-31-2026-Friendlies-M
+,2026,,2026-03-31 Morocco-Morocco,2026-03-31,Friendlies (M),Tue,Neutral,W,2,1,Morocco,2,,,,,,0,0,20:00:00,/en/matches/2424820a/Morocco-Paraguay-March-31-2026-Friendlies-M
+,2026,,2026-03-31 Panama-nan,2026-03-31,Friendlies (M),Tue,Away,W,2,1,Panama,2,,,,,,0,0,19:30:00,/en/matches/b328181f/South-Africa-Panama-March-31-2026-Friendlies-M
+,2026,,2026-03-31 Paraguay-Paraguay,2026-03-31,Friendlies (M),Tue,Neutral,L,1,2,Paraguay,1,,,,,,0,0,20:00:00,/en/matches/2424820a/Morocco-Paraguay-March-31-2026-Friendlies-M
+,2026,,2026-03-31 Poland-nan,2026-03-31,Second round — Finals,Tue,Away,L,2,3,Poland,2,15,7,46.7,0.13,0.29,0,0,20:45:00,/en/matches/9cdf2d93/Sweden-Poland-March-31-2026-WCQ----UEFA-M
+,2026,,2026-03-31 Portugal-nan,2026-03-31,Friendlies (M),Tue,Away,W,2,0,Portugal,2,,,,,,0,0,19:07:00,/en/matches/b6c29c83/United-States-Portugal-March-31-2026-Friendlies-M
+,2026,,2026-03-31 Scotland-Scotland,2026-03-31,Friendlies (M),Tue,Neutral,L,0,1,Scotland,0,,,,,,0,0,19:30:00,/en/matches/ffd25819/Cote-dIvoire-Scotland-March-31-2026-Friendlies-M
+,2026,,2026-03-31 Switzerland-nan,2026-03-31,Friendlies (M),Tue,Away,D,0,0,Switzerland,0,,,,,,0,0,18:00:00,/en/matches/311568bb/Norway-Switzerland-March-31-2026-Friendlies-M
+,2026,,2026-03-31 Tunisia-nan,2026-03-31,Friendlies (M),Tue,Away,D,0,0,Tunisia,0,,,,,,0,0,21:00:00,/en/matches/1d92b1e6/Canada-Tunisia-March-31-2026-Friendlies-M
+,2026,,2026-03-31 Uruguay-Uruguay,2026-03-31,Friendlies (M),Tue,Neutral,D,0,0,Uruguay,0,,,,,,0,0,20:30:00,/en/matches/d2fe1225/Algeria-Uruguay-March-31-2026-Friendlies-M
+,2026,,2026-03-31 Zambia-nan,2026-03-31,Friendlies (M),Tue,Away,L,0,5,Zambia,0,,,,,,0,0,20:30:00,/en/matches/ec63900d/Argentina-Zambia-March-31-2026-Friendlies-M
+,2026,,2026-03-31 nan-Austria,2026-03-31,Friendlies (M),Tue,Home,W,1,0,Austria,1,,,,,,0,0,20:45:00,/en/matches/1fe6a607/Austria-Korea-Republic-March-31-2026-Friendlies-M
+,2026,,2026-03-31 nan-Canada,2026-03-31,Friendlies (M),Tue,Home,D,0,0,Canada,0,,,,,,0,0,21:00:00,/en/matches/1d92b1e6/Canada-Tunisia-March-31-2026-Friendlies-M
+,2026,,2026-03-31 nan-England,2026-03-31,Friendlies (M),Tue,Home,L,0,1,England,0,,,,,,0,0,19:45:00,/en/matches/4b3667c6/England-Japan-March-31-2026-Friendlies-M
+,2026,,2026-03-31 nan-Kosovo,2026-03-31,Second round — Finals,Tue,Home,L,0,1,Kosovo,0,11,2,18.2,0.0,0.0,0,0,20:45:00,/en/matches/1cdb800b/Kosovo-Turkiye-March-31-2026-WCQ----UEFA-M
+,2026,,2026-03-31 nan-Netherlands,2026-03-31,Friendlies (M),Tue,Home,D,1,1,Netherlands,0,,,,,,0,0,20:45:00,/en/matches/74458d95/Netherlands-Ecuador-March-31-2026-Friendlies-M
+,2026,,2026-03-31 nan-Norway,2026-03-31,Friendlies (M),Tue,Home,D,0,0,Norway,0,,,,,,0,0,18:00:00,/en/matches/311568bb/Norway-Switzerland-March-31-2026-Friendlies-M
+,2026,,2026-03-31 nan-Serbia,2026-03-31,Friendlies (M),Tue,Home,W,2,1,Serbia,2,,,,,,0,0,18:00:00,/en/matches/cf66a1f7/Serbia-Saudi-Arabia-March-31-2026-Friendlies-M
+,2026,,2026-03-31 nan-South Africa,2026-03-31,Friendlies (M),Tue,Home,L,1,2,South Africa,1,,,,,,0,0,19:30:00,/en/matches/b328181f/South-Africa-Panama-March-31-2026-Friendlies-M
+,2026,,2026-03-31 nan-Spain,2026-03-31,Friendlies (M),Tue,Home,D,0,0,Spain,0,,,,,,0,0,21:00:00,/en/matches/6e94df18/Spain-Egypt-March-31-2026-Friendlies-M
+,2026,,2026-03-31 nan-USA,2026-03-31,Friendlies (M),Tue,Home,L,0,2,USA,0,,,,,,0,0,19:07:00,/en/matches/b6c29c83/United-States-Portugal-March-31-2026-Friendlies-M
+,2026,,2026-05-22 Ghana-nan,2026-05-22,Friendlies (M),Fri,Away,L,0,2,Ghana,0,,,,,,0,0,20:00:00,/en/matches/3a39a2d2/Mexico-Ghana-May-22-2026-Friendlies-M
+,2026,,2026-05-22 nan-Mexico,2026-05-22,Friendlies (M),Fri,Home,W,2,0,Mexico,2,,,,,,0,0,20:00:00,/en/matches/3a39a2d2/Mexico-Ghana-May-22-2026-Friendlies-M
+,2026,,2026-05-28 Russia-nan,2026-05-28,Friendlies (M),Thu,Away,L,0,1,Russia,0,,,,,,0,0,21:00:00,/en/matches/ab287078/Egypt-Russia-May-28-2026-Friendlies-M
+,2026,,2026-05-28 nan-Rep. of Ireland,2026-05-28,Friendlies (M),Thu,Home,W,1,0,Rep. of Ireland,1,,,,,,0,0,19:45:00,/en/matches/02252990/Republic-of-Ireland-Qatar-May-28-2026-Friendlies-M
+,2026,,2026-05-29 Andorra-Andorra,2026-05-29,Friendlies (M),Fri,Neutral,L,0,1,Andorra,0,,,,,,0,0,18:00:00,/en/matches/fcac67d6/Iraq-Andorra-May-29-2026-Friendlies-M
+,2026,,2026-05-29 Gambia-Gambia,2026-05-29,Friendlies (M),Fri,Neutral,L,1,3,Gambia,1,,,,,,0,0,18:30:00,/en/matches/3860eec0/IR-Iran-Gambia-May-29-2026-Friendlies-M
+,2026,,2026-05-29 Nicaragua-nan,2026-05-29,Friendlies (M),Fri,Away,D,0,0,Nicaragua,0,,,,,,0,0,18:00:00,/en/matches/25da0bdc/South-Africa-Nicaragua-May-29-2026-Friendlies-M
+,2026,,2026-05-29 No. Macedonia-nan,2026-05-29,Friendlies (M),Fri,Away,D,0,0,No. Macedonia,0,,,,,,0,0,20:30:00,/en/matches/b31e1982/Bosnia-and-Herzegovina-North-Macedonia-May-29-2026-Friendlies-M
+,2026,,2026-05-30 Australia-Australia,2026-05-30,Friendlies (M),Sat,Neutral,L,0,1,Australia,0,,,,,,0,0,19:00:00,/en/matches/b2452c96/Mexico-Australia-May-30-2026-Friendlies-M
+,2026,,2026-05-30 Curaçao-nan,2026-05-30,Friendlies (M),Sat,Away,L,1,4,Curaçao,1,,,,,,0,0,13:00:00,/en/matches/9aa38da5/Scotland-Curacao-May-30-2026-Friendlies-M
+,2026,,2026-05-30 Ecuador-Ecuador,2026-05-30,Friendlies (M),Sat,Neutral,W,2,1,Ecuador,2,,,,,,0,0,20:00:00,/en/matches/e3883d15/Ecuador-Saudi-Arabia-May-30-2026-Friendlies-M
+,2026,,2026-05-30 Mexico-Mexico,2026-05-30,Friendlies (M),Sat,Neutral,W,1,0,Mexico,1,,,,,,0,0,19:00:00,/en/matches/b2452c96/Mexico-Australia-May-30-2026-Friendlies-M
+,2026,,2026-05-30 Saudi Arabia-Saudi Arabia,2026-05-30,Friendlies (M),Sat,Neutral,L,1,2,Saudi Arabia,1,,,,,,0,0,20:00:00,/en/matches/e3883d15/Ecuador-Saudi-Arabia-May-30-2026-Friendlies-M
+,2026,,2026-05-30 Trin & Tobago-Trin & Tobago,2026-05-30,Friendlies (M),Sat,Neutral,L,0,5,Trin & Tobago,0,,,,,,0,0,19:00:00,/en/matches/808ebdc4/Korea-Republic-Trinidad-and-Tobago-May-30-2026-Friendlies-M
+,2026,,2026-05-30 nan-Scotland,2026-05-30,Friendlies (M),Sat,Home,W,4,1,Scotland,4,,,,,,1,1,13:00:00,/en/matches/9aa38da5/Scotland-Curacao-May-30-2026-Friendlies-M
+,2026,,2026-05-31 Finland-nan,2026-05-31,Friendlies (M),Sun,Away,L,0,4,Finland,0,,,,,,0,0,20:45:00,/en/matches/bd546802/Germany-Finland-May-31-2026-Friendlies-M
+,2026,,2026-05-31 Iceland-nan,2026-05-31,Friendlies (M),Sun,Away,L,0,1,Iceland,0,,,,,,0,0,19:25:00,/en/matches/39f9cb25/Japan-Iceland-May-31-2026-Friendlies-M
+,2026,,2026-05-31 Jordan-nan,2026-05-31,Friendlies (M),Sun,Away,L,1,4,Jordan,1,,,,,,0,0,15:00:00,/en/matches/1e8a97eb/Switzerland-Jordan-May-31-2026-Friendlies-M
+,2026,,2026-05-31 Kosovo-nan,2026-05-31,Friendlies (M),Sun,Away,L,1,2,Kosovo,1,,,,,,0,0,16:00:00,/en/matches/98b88e9a/Czechia-Kosovo-May-31-2026-Friendlies-M
+,2026,,2026-05-31 Panama-nan,2026-05-31,Friendlies (M),Sun,Away,L,2,6,Panama,1,,,,,,0,0,18:30:00,/en/matches/95ecd65b/Brazil-Panama-May-31-2026-Friendlies-M
+,2026,,2026-05-31 Senegal-nan,2026-05-31,Friendlies (M),Sun,Away,L,2,3,Senegal,2,,,,,,0,0,15:30:00,/en/matches/e3a78261/United-States-Senegal-May-31-2026-Friendlies-M
+,2026,,2026-05-31 Serbia-Serbia,2026-05-31,Friendlies (M),Sun,Neutral,L,0,3,Serbia,0,,,,,,0,0,16:00:00,/en/matches/65691fa1/Cabo-Verde-Serbia-May-31-2026-Friendlies-M
+,2026,,2026-05-31 nan-Brazil,2026-05-31,Friendlies (M),Sun,Home,W,6,2,Brazil,6,,,,,,1,1,18:30:00,/en/matches/95ecd65b/Brazil-Panama-May-31-2026-Friendlies-M
+,2026,,2026-05-31 nan-Switzerland,2026-05-31,Friendlies (M),Sun,Home,W,4,1,Switzerland,4,,,,,,2,2,15:00:00,/en/matches/1e8a97eb/Switzerland-Jordan-May-31-2026-Friendlies-M
+,2026,,2026-05-31 nan-USA,2026-05-31,Friendlies (M),Sun,Home,W,3,2,USA,3,,,,,,0,0,15:30:00,/en/matches/e3a78261/United-States-Senegal-May-31-2026-Friendlies-M
+,2026,,2026-06-01 Costa Rica-nan,2026-06-01,Friendlies (M),Mon,Away,L,1,3,Costa Rica,1,,,,,,0,0,18:00:00,/en/matches/d1add9e8/Colombia-Costa-Rica-June-1-2026-Friendlies-M
+,2026,,2026-06-01 No. Macedonia-nan,2026-06-01,Friendlies (M),Mon,Away,L,0,4,No. Macedonia,0,,,,,,0,0,20:30:00,/en/matches/b44be9cf/Turkiye-North-Macedonia-June-1-2026-Friendlies-M
+,2026,,2026-06-01 Sweden-nan,2026-06-01,Friendlies (M),Mon,Away,L,1,3,Sweden,1,,,,,,0,0,19:00:00,/en/matches/44380925/Norway-Sweden-June-1-2026-Friendlies-M
+,2026,,2026-06-01 Tunisia-nan,2026-06-01,Friendlies (M),Mon,Away,L,0,1,Tunisia,0,,,,,,0,0,20:45:00,/en/matches/217a01dc/Austria-Tunisia-June-1-2026-Friendlies-M
+,2026,,2026-06-01 Uzbekistan-nan,2026-06-01,Friendlies (M),Mon,Away,L,0,2,Uzbekistan,0,,,,,,0,0,19:00:00,/en/matches/89e6a053/Canada-Uzbekistan-June-1-2026-Friendlies-M
+,2026,,2026-06-01 nan-Austria,2026-06-01,Friendlies (M),Mon,Home,W,1,0,Austria,1,,,,,,0,0,20:45:00,/en/matches/217a01dc/Austria-Tunisia-June-1-2026-Friendlies-M
+,2026,,2026-06-01 nan-Canada,2026-06-01,Friendlies (M),Mon,Home,W,2,0,Canada,2,,,,,,0,0,19:00:00,/en/matches/89e6a053/Canada-Uzbekistan-June-1-2026-Friendlies-M
+,2026,,2026-06-01 nan-Norway,2026-06-01,Friendlies (M),Mon,Home,W,3,1,Norway,3,,,,,,0,0,19:00:00,/en/matches/44380925/Norway-Sweden-June-1-2026-Friendlies-M
+,2026,,2026-06-02 Belgium-nan,2026-06-02,Friendlies (M),Tue,Away,W,2,0,Belgium,2,,,,,,0,0,18:00:00,/en/matches/93f69e6e/Croatia-Belgium-June-2-2026-Friendlies-M
+,2026,,2026-06-02 Haiti-Haiti,2026-06-02,Friendlies (M),Tue,Neutral,W,4,0,Haiti,4,,,,,,0,0,20:36:00,/en/matches/9cd61d29/Haiti-New-Zealand-June-2-2026-Friendlies-M
+,2026,,2026-06-02 Madagascar-nan,2026-06-02,Friendlies (M),Tue,Away,L,0,4,Madagascar,0,,,,,,0,0,18:15:00,/en/matches/81c956c8/Morocco-Madagascar-June-2-2026-Friendlies-M
+,2026,,2026-06-02 New Zealand-New Zealand,2026-06-02,Friendlies (M),Tue,Neutral,L,0,4,New Zealand,0,,,,,,0,0,20:36:00,/en/matches/9cd61d29/Haiti-New-Zealand-June-2-2026-Friendlies-M
+,2026,,2026-06-02 nan-Croatia,2026-06-02,Friendlies (M),Tue,Home,L,0,2,Croatia,0,,,,,,0,0,18:00:00,/en/matches/93f69e6e/Croatia-Belgium-June-2-2026-Friendlies-M
+,2026,,2026-06-02 nan-Wales,2026-06-02,Friendlies (M),Tue,Home,D,1,1,Wales,1,,,,,,0,0,19:45:00,/en/matches/435173b8/Wales-Ghana-June-2-2026-Friendlies-M
+,2026,,2026-06-03 Algeria-nan,2026-06-03,Friendlies (M),Wed,Away,W,1,0,Algeria,1,,,,,,0,0,20:45:00,/en/matches/3a9b1f58/Netherlands-Algeria-June-3-2026-Friendlies-M
+,2026,,2026-06-03 Denmark-Denmark,2026-06-03,Friendlies (M),Wed,Neutral,D,0,0,Denmark,0,,,,,,0,0,20:00:00,/en/matches/17bfc0fe/Denmark-Congo-DR-June-3-2026-Friendlies-M
+,2026,,2026-06-03 Dominican Rep.-nan,2026-06-03,Friendlies (M),Wed,Away,L,2,4,Dominican Rep.,2,,,,,,0,0,19:45:00,/en/matches/514e0adb/Panama-Dominican-Republic-June-3-2026-Friendlies-M
+,2026,,2026-06-03 El Salvador-El Salvador,2026-06-03,Friendlies (M),Wed,Neutral,L,0,1,El Salvador,0,,,,,,0,0,19:00:00,/en/matches/d31788ba/Korea-Republic-El-Salvador-June-3-2026-Friendlies-M
+,2026,,2026-06-03 nan-Netherlands,2026-06-03,Friendlies (M),Wed,Home,L,0,1,Netherlands,0,,,,,,0,0,20:45:00,/en/matches/3a9b1f58/Netherlands-Algeria-June-3-2026-Friendlies-M
+,2026,,2026-06-04 Côte d'Ivoire-nan,2026-06-04,Friendlies (M),Thu,Away,W,2,1,Côte d'Ivoire,2,,,,,,0,0,21:10:00,/en/matches/bb6eae98/France-Cote-dIvoire-June-4-2026-Friendlies-M
+,2026,,2026-06-04 Greece-nan,2026-06-04,Friendlies (M),Thu,Away,D,2,2,Greece,2,,,,,,0,0,19:00:00,/en/matches/5c0c667c/Sweden-Greece-June-4-2026-Friendlies-M
+,2026,,2026-06-04 Guatemala-Guatemala,2026-06-04,Friendlies (M),Thu,Neutral,L,1,3,Guatemala,1,,,,,,0,0,20:00:00,/en/matches/28b9adef/Czechia-Guatemala-June-4-2026-Friendlies-M
+,2026,,2026-06-04 Iraq-nan,2026-06-04,Friendlies (M),Thu,Away,D,1,1,Iraq,1,,,,,,0,0,21:00:00,/en/matches/a66cbb41/Spain-Iraq-June-4-2026-Friendlies-M
+,2026,,2026-06-04 Serbia-nan,2026-06-04,Friendlies (M),Thu,Away,L,1,5,Serbia,1,,,,,,0,0,20:00:00,/en/matches/d70087d8/Mexico-Serbia-June-4-2026-Friendlies-M
+,2026,,2026-06-04 nan-France,2026-06-04,Friendlies (M),Thu,Home,L,1,2,France,1,,,,,,0,0,21:10:00,/en/matches/bb6eae98/France-Cote-dIvoire-June-4-2026-Friendlies-M
+,2026,,2026-06-04 nan-Spain,2026-06-04,Friendlies (M),Thu,Home,D,1,1,Spain,1,,,,,,0,0,21:00:00,/en/matches/a66cbb41/Spain-Iraq-June-4-2026-Friendlies-M
+,2026,,2026-06-05 Nicaragua-nan,2026-06-05,Friendlies (M),Fri,Away,L,0,4,Nicaragua,0,,,,,,0,0,18:45:00,/en/matches/8bdd53f6/Paraguay-Nicaragua-June-5-2026-Friendlies-M
+,2026,,2026-06-05 Peru-Peru,2026-06-05,Friendlies (M),Fri,Neutral,W,2,1,Peru,2,,,,,,0,0,20:00:00,/en/matches/0d3b0471/Haiti-Peru-June-5-2026-Friendlies-M
+,2026,,2026-06-05 Puerto Rico-Puerto Rico,2026-06-05,Friendlies (M),Fri,Neutral,L,0,3,Puerto Rico,0,,,,,,0,0,18:00:00,/en/matches/b5a6373c/Saudi-Arabia-Puerto-Rico-June-5-2026-Friendlies-M
+,2026,,2026-06-05 Rep. of Ireland-nan,2026-06-05,Friendlies (M),Fri,Away,D,1,1,Rep. of Ireland,1,,,,,,0,1,19:30:00,/en/matches/626d8e5c/Canada-Republic-of-Ireland-June-5-2026-Friendlies-M
+,2026,,2026-06-06 Aruba-nan,2026-06-06,Friendlies (M),Sat,Away,L,0,4,Aruba,0,,,,,,0,0,20:00:00,/en/matches/fd91f0c5/Curacao-Aruba-June-6-2026-Friendlies-M
+,2026,,2026-06-06 Australia-Australia,2026-06-06,Friendlies (M),Sat,Neutral,D,1,1,Australia,1,,,,,,0,0,12:00:00,/en/matches/c0ebca40/Switzerland-Australia-June-6-2026-Friendlies-M
+,2026,,2026-06-06 Bermuda-Bermuda,2026-06-06,Friendlies (M),Sat,Neutral,L,0,3,Bermuda,0,,,,,,0,0,16:00:00,/en/matches/d573e47f/Cabo-Verde-Bermuda-June-6-2026-Friendlies-M
+,2026,,2026-06-06 Bolivia-Bolivia,2026-06-06,Friendlies (M),Sat,Neutral,L,0,4,Bolivia,0,,,,,,0,0,16:00:00,/en/matches/e6994a35/Bolivia-Scotland-June-6-2026-Friendlies-M
+,2026,,2026-06-06 Bosnia–Herz-Bosnia–Herz,2026-06-06,Friendlies (M),Sat,Neutral,D,1,1,Bosnia–Herz,1,,,,,,0,0,14:00:00,/en/matches/eb60c047/Panama-Bosnia-and-Herzegovina-June-6-2026-Friendlies-M
+,2026,,2026-06-06 Brazil-Brazil,2026-06-06,Friendlies (M),Sat,Neutral,W,2,1,Brazil,2,,,,,,0,0,18:00:00,/en/matches/99803f08/Brazil-Egypt-June-6-2026-Friendlies-M
+,2026,,2026-06-06 Chile-nan,2026-06-06,Friendlies (M),Sat,Away,L,1,2,Chile,1,,,,,,0,0,18:45:00,/en/matches/eb413f98/Portugal-Chile-June-6-2026-Friendlies-M
+,2026,,2026-06-06 Egypt-Egypt,2026-06-06,Friendlies (M),Sat,Neutral,L,1,2,Egypt,1,,,,,,0,0,18:00:00,/en/matches/99803f08/Brazil-Egypt-June-6-2026-Friendlies-M
+,2026,,2026-06-06 El Salvador-El Salvador,2026-06-06,Friendlies (M),Sat,Neutral,D,0,0,El Salvador,0,,,,,,0,0,13:00:00,/en/matches/64d48bd2/Qatar-El-Salvador-June-6-2026-Friendlies-M
+,2026,,2026-06-06 England-England,2026-06-06,Friendlies (M),Sat,Neutral,W,1,0,England,1,,,,,,0,0,16:00:00,/en/matches/d55979a1/England-New-Zealand-June-6-2026-Friendlies-M
+,2026,,2026-06-06 Germany-nan,2026-06-06,Friendlies (M),Sat,Away,W,2,1,Germany,2,,,,,,0,0,13:30:00,/en/matches/63052981/United-States-Germany-June-6-2026-Friendlies-M
+,2026,,2026-06-06 Honduras-Honduras,2026-06-06,Friendlies (M),Sat,Neutral,L,0,2,Honduras,0,,,,,,0,0,19:00:00,/en/matches/d86363fb/Argentina-Honduras-June-6-2026-Friendlies-M
+,2026,,2026-06-06 New Zealand-New Zealand,2026-06-06,Friendlies (M),Sat,Neutral,L,0,1,New Zealand,0,,,,,,0,0,16:00:00,/en/matches/d55979a1/England-New-Zealand-June-6-2026-Friendlies-M
+,2026,,2026-06-06 Panama-Panama,2026-06-06,Friendlies (M),Sat,Neutral,D,1,1,Panama,1,,,,,,0,0,14:00:00,/en/matches/eb60c047/Panama-Bosnia-and-Herzegovina-June-6-2026-Friendlies-M
+,2026,,2026-06-06 Switzerland-Switzerland,2026-06-06,Friendlies (M),Sat,Neutral,D,1,1,Switzerland,1,,,,,,0,0,12:00:00,/en/matches/c0ebca40/Switzerland-Australia-June-6-2026-Friendlies-M
+,2026,,2026-06-06 Tunisia-nan,2026-06-06,Friendlies (M),Sat,Away,L,0,5,Tunisia,0,,,,,,0,0,15:00:00,/en/matches/2c4d914e/Belgium-Tunisia-June-6-2026-Friendlies-M
+,2026,,2026-06-06 Venezuela-Venezuela,2026-06-06,Friendlies (M),Sat,Neutral,L,1,2,Venezuela,1,,,,,,0,0,18:00:00,/en/matches/84aba5c9/Turkiye-Venezuela-June-6-2026-Friendlies-M
+,2026,,2026-06-06 nan-Belgium,2026-06-06,Friendlies (M),Sat,Home,W,5,0,Belgium,5,,,,,,0,0,15:00:00,/en/matches/2c4d914e/Belgium-Tunisia-June-6-2026-Friendlies-M
+,2026,,2026-06-06 nan-USA,2026-06-06,Friendlies (M),Sat,Home,L,1,2,USA,1,,,,,,0,0,13:30:00,/en/matches/63052981/United-States-Germany-June-6-2026-Friendlies-M
+,2026,,2026-06-07 Colombia-Colombia,2026-06-07,Friendlies (M),Sun,Neutral,W,2,0,Colombia,2,,,,,,0,0,16:00:00,/en/matches/7e02a5ea/Colombia-Jordan-June-7-2026-Friendlies-M
+,2026,,2026-06-07 Guatemala-Guatemala,2026-06-07,Friendlies (M),Sun,Neutral,L,0,3,Guatemala,0,,,,,,0,0,16:15:00,/en/matches/d2056a5e/Ecuador-Guatemala-June-7-2026-Friendlies-M
+,2026,,2026-06-07 Jordan-Jordan,2026-06-07,Friendlies (M),Sun,Neutral,L,0,2,Jordan,0,,,,,,0,0,16:00:00,/en/matches/7e02a5ea/Colombia-Jordan-June-7-2026-Friendlies-M
+,2026,,2026-06-07 Morocco-Morocco,2026-06-07,Friendlies (M),Sun,Neutral,D,1,1,Morocco,1,,,,,,0,0,15:00:00,/en/matches/9120eced/Morocco-Norway-June-7-2026-Friendlies-M
+,2026,,2026-06-07 Norway-Norway,2026-06-07,Friendlies (M),Sun,Neutral,D,1,1,Norway,1,,,,,,0,0,15:00:00,/en/matches/9120eced/Morocco-Norway-June-7-2026-Friendlies-M
+,2026,,2026-06-07 Slovenia-nan,2026-06-07,Friendlies (M),Sun,Away,L,1,2,Slovenia,1,,,,,,0,0,20:45:00,/en/matches/6eb84a18/Croatia-Slovenia-June-7-2026-Friendlies-M
+,2026,,2026-06-08 Netherlands-Netherlands,2026-06-08,Friendlies (M),Mon,Neutral,W,2,1,Netherlands,2,,,,,,2,2,14:45:00,/en/matches/45c04355/Netherlands-Uzbekistan-June-8-2026-Friendlies-M
+,2026,,2026-06-08 Northern Ireland-nan,2026-06-08,Friendlies (M),Mon,Away,L,1,3,Northern Ireland,1,,,,,,0,0,21:10:00,/en/matches/1c84dae3/France-Northern-Ireland-June-8-2026-Friendlies-M
+,2026,,2026-06-08 Peru-Peru,2026-06-08,Friendlies (M),Mon,Neutral,L,1,3,Peru,1,,,,,,0,0,20:00:00,/en/matches/af602959/Peru-Spain-June-8-2026-Friendlies-M
+,2026,,2026-06-08 Uzbekistan-Uzbekistan,2026-06-08,Friendlies (M),Mon,Neutral,L,1,2,Uzbekistan,1,,,,,,0,0,14:45:00,/en/matches/45c04355/Netherlands-Uzbekistan-June-8-2026-Friendlies-M
+,2026,,2026-06-09 Chile-Chile,2026-06-09,Friendlies (M),Tue,Neutral,W,2,1,Chile,2,,,,,,0,0,18:00:00,/en/matches/18395dd7/Congo-DR-Chile-June-9-2026-Friendlies-M
+,2026,,2026-06-09 Iceland-Iceland,2026-06-09,Friendlies (M),Tue,Neutral,L,0,3,Iceland,0,,,,,,0,0,20:08:00,/en/matches/ae66e5f0/Argentina-Iceland-June-9-2026-Friendlies-M
+,2026,,2026-06-09 Saudi Arabia-Saudi Arabia,2026-06-09,Friendlies (M),Tue,Neutral,D,0,0,Saudi Arabia,0,,,,,,0,0,18:00:00,/en/matches/d67d0ca1/Saudi-Arabia-Senegal-June-9-2026-Friendlies-M
+,2026,,2026-06-09 Senegal-Senegal,2026-06-09,Friendlies (M),Tue,Neutral,D,0,0,Senegal,0,,,,,,0,0,18:00:00,/en/matches/d67d0ca1/Saudi-Arabia-Senegal-June-9-2026-Friendlies-M
+,2026,,2026-06-09 Venezuela-Venezuela,2026-06-09,Friendlies (M),Tue,Neutral,W,2,0,Venezuela,2,,,,,,0,0,20:00:00,/en/matches/4b89db92/Iraq-Venezuela-June-9-2026-Friendlies-M
+,2026,,2026-06-10 Bolivia-Bolivia,2026-06-10,Friendlies (M),Wed,Neutral,L,0,4,Bolivia,0,,,,,,0,0,19:00:00,/en/matches/0b890a7c/Bolivia-Algeria-June-10-2026-Friendlies-M
+,2026,,2026-06-10 Costa Rica-Costa Rica,2026-06-10,Friendlies (M),Wed,Neutral,L,0,3,Costa Rica,0,,,,,,0,0,17:00:00,/en/matches/87ca6dda/England-Costa-Rica-June-10-2026-Friendlies-M
+,2026,,2026-06-10 Nigeria-nan,2026-06-10,Friendlies (M),Wed,Away,L,1,2,Nigeria,1,,,,,,0,0,20:45:00,/en/matches/e70e481e/Portugal-Nigeria-June-10-2026-Friendlies-M
+,2026,,2026-06-11 Czechia-Czechia,2026-06-11,Group stage,Thu,Neutral,L,1,2,Czechia,1,7,4,57.1,0.14,0.25,0,0,20:00:00,/en/matches/beebb792/Korea-Republic-Czechia-June-11-2026-World-Cup
+,2026,,2026-06-11 Korea Republic-Korea Republic,2026-06-11,Group stage,Thu,Neutral,W,2,1,Korea Republic,2,15,6,40.0,0.13,0.33,0,0,20:00:00,/en/matches/beebb792/Korea-Republic-Czechia-June-11-2026-World-Cup
+,2026,,2026-06-11 Mexico-Mexico,2026-06-11,Group stage,Thu,Neutral,W,2,0,Mexico,2,16,4,25.0,0.13,0.5,0,0,13:00:00,/en/matches/3c1e3816/Mexico-South-Africa-June-11-2026-World-Cup
+,2026,,2026-06-11 South Africa-South Africa,2026-06-11,Group stage,Thu,Neutral,L,0,2,South Africa,0,3,2,66.7,0.0,0.0,0,0,13:00:00,/en/matches/3c1e3816/Mexico-South-Africa-June-11-2026-World-Cup
+,2026,,2026-06-12 Bosnia–Herz-Bosnia–Herz,2026-06-12,Group stage,Fri,Neutral,D,1,1,Bosnia–Herz,1,8,3,37.5,0.13,0.33,0,0,15:00:00,/en/matches/f6d2bd84/Canada-Bosnia-and-Herzegovina-June-12-2026-World-Cup
+,2026,,2026-06-12 Canada-Canada,2026-06-12,Group stage,Fri,Neutral,D,1,1,Canada,1,13,4,30.8,0.08,0.25,0,0,15:00:00,/en/matches/f6d2bd84/Canada-Bosnia-and-Herzegovina-June-12-2026-World-Cup
+,2026,,2026-06-12 Paraguay-Paraguay,2026-06-12,Group stage,Fri,Neutral,L,1,4,Paraguay,1,9,1,11.1,0.11,1.0,0,0,18:00:00,/en/matches/f6c0596c/United-States-Paraguay-June-12-2026-World-Cup
+,2026,,2026-06-12 USA-USA,2026-06-12,Group stage,Fri,Neutral,W,4,1,USA,3,16,6,37.5,0.19,0.5,0,0,18:00:00,/en/matches/f6c0596c/United-States-Paraguay-June-12-2026-World-Cup
+,2026,,2026-06-13 Australia-Australia,2026-06-13,Group stage,Sat,Neutral,W,2,0,Australia,2,9,4,44.4,0.22,0.5,0,0,21:00:00,/en/matches/4ff2342a/Australia-Turkiye-June-13-2026-World-Cup
+,2026,,2026-06-13 Brazil-Brazil,2026-06-13,Group stage,Sat,Neutral,D,1,1,Brazil,1,12,5,41.7,0.08,0.2,0,0,18:00:00,/en/matches/72d993fd/Brazil-Morocco-June-13-2026-World-Cup
+,2026,,2026-06-13 Haiti-Haiti,2026-06-13,Group stage,Sat,Neutral,L,0,1,Haiti,0,15,2,13.3,0.0,0.0,0,0,21:00:00,/en/matches/58c3106f/Haiti-Scotland-June-13-2026-World-Cup
+,2026,,2026-06-13 Morocco-Morocco,2026-06-13,Group stage,Sat,Neutral,D,1,1,Morocco,1,14,3,21.4,0.07,0.33,0,0,18:00:00,/en/matches/72d993fd/Brazil-Morocco-June-13-2026-World-Cup
+,2026,,2026-06-13 Qatar-Qatar,2026-06-13,Group stage,Sat,Neutral,D,1,1,Qatar,1,7,4,57.1,0.14,0.25,0,0,12:00:00,/en/matches/58580af9/Qatar-Switzerland-June-13-2026-World-Cup
+,2026,,2026-06-13 Scotland-Scotland,2026-06-13,Group stage,Sat,Neutral,W,1,0,Scotland,1,9,2,22.2,0.11,0.5,0,0,21:00:00,/en/matches/58c3106f/Haiti-Scotland-June-13-2026-World-Cup
+,2026,,2026-06-13 Switzerland-Switzerland,2026-06-13,Group stage,Sat,Neutral,D,1,1,Switzerland,1,26,7,26.9,0.04,0.14,1,1,12:00:00,/en/matches/58580af9/Qatar-Switzerland-June-13-2026-World-Cup
+,2026,,2026-06-13 Türkiye-Türkiye,2026-06-13,Group stage,Sat,Neutral,L,0,2,Türkiye,0,30,8,26.7,0.0,0.0,0,0,21:00:00,/en/matches/4ff2342a/Australia-Turkiye-June-13-2026-World-Cup
+,2026,,2026-06-14 Curaçao-Curaçao,2026-06-14,Group stage,Sun,Neutral,L,1,7,Curaçao,1,8,2,25.0,0.13,0.5,0,0,12:00:00,/en/matches/a2c54ed9/Germany-Curacao-June-14-2026-World-Cup
+,2026,,2026-06-14 Côte d'Ivoire-Côte d'Ivoire,2026-06-14,Group stage,Sun,Neutral,W,1,0,Côte d'Ivoire,1,15,4,26.7,0.07,0.25,0,0,19:00:00,/en/matches/f8ee7eef/Cote-dIvoire-Ecuador-June-14-2026-World-Cup
+,2026,,2026-06-14 Ecuador-Ecuador,2026-06-14,Group stage,Sun,Neutral,L,0,1,Ecuador,0,12,1,8.3,0.0,0.0,0,0,19:00:00,/en/matches/f8ee7eef/Cote-dIvoire-Ecuador-June-14-2026-World-Cup
+,2026,,2026-06-14 Germany-Germany,2026-06-14,Group stage,Sun,Neutral,W,7,1,Germany,7,26,12,46.2,0.27,0.58,1,1,12:00:00,/en/matches/a2c54ed9/Germany-Curacao-June-14-2026-World-Cup
+,2026,,2026-06-14 Japan-Japan,2026-06-14,Group stage,Sun,Neutral,D,2,2,Japan,2,10,3,30.0,0.2,0.67,0,0,15:00:00,/en/matches/faa0cb98/Netherlands-Japan-June-14-2026-World-Cup
+,2026,,2026-06-14 Netherlands-Netherlands,2026-06-14,Group stage,Sun,Neutral,D,2,2,Netherlands,2,10,6,60.0,0.2,0.33,0,0,15:00:00,/en/matches/faa0cb98/Netherlands-Japan-June-14-2026-World-Cup
+,2026,,2026-06-14 Sweden-Sweden,2026-06-14,Group stage,Sun,Neutral,W,5,1,Sweden,5,13,7,53.8,0.38,0.71,0,0,20:00:00,/en/matches/6df52cfd/Sweden-Tunisia-June-14-2026-World-Cup
+,2026,,2026-06-14 Tunisia-Tunisia,2026-06-14,Group stage,Sun,Neutral,L,1,5,Tunisia,1,6,2,33.3,0.17,0.5,0,0,20:00:00,/en/matches/6df52cfd/Sweden-Tunisia-June-14-2026-World-Cup
+,2026,,2026-06-15 Belgium-Belgium,2026-06-15,Group stage,Mon,Neutral,D,1,1,Belgium,0,15,3,20.0,0.0,0.0,0,0,12:00:00,/en/matches/5f18a385/Belgium-Egypt-June-15-2026-World-Cup
+,2026,,2026-06-15 Cabo Verde-Cabo Verde,2026-06-15,Group stage,Mon,Neutral,D,0,0,Cabo Verde,0,6,1,16.7,0.0,0.0,0,0,12:00:00,/en/matches/c100284d/Spain-Cabo-Verde-June-15-2026-World-Cup
+,2026,,2026-06-15 Egypt-Egypt,2026-06-15,Group stage,Mon,Neutral,D,1,1,Egypt,1,14,3,21.4,0.07,0.33,0,0,12:00:00,/en/matches/5f18a385/Belgium-Egypt-June-15-2026-World-Cup
+,2026,,2026-06-15 IR Iran-IR Iran,2026-06-15,Group stage,Mon,Neutral,D,2,2,IR Iran,2,17,4,23.5,0.12,0.5,0,0,18:00:00,/en/matches/a039dc32/IR-Iran-New-Zealand-June-15-2026-World-Cup
+,2026,,2026-06-15 New Zealand-New Zealand,2026-06-15,Group stage,Mon,Neutral,D,2,2,New Zealand,2,14,8,57.1,0.14,0.25,0,0,18:00:00,/en/matches/a039dc32/IR-Iran-New-Zealand-June-15-2026-World-Cup
+,2026,,2026-06-15 Saudi Arabia-Saudi Arabia,2026-06-15,Group stage,Mon,Neutral,D,1,1,Saudi Arabia,1,7,3,42.9,0.14,0.33,0,0,18:00:00,/en/matches/82de5964/Saudi-Arabia-Uruguay-June-15-2026-World-Cup
+,2026,,2026-06-15 Spain-Spain,2026-06-15,Group stage,Mon,Neutral,D,0,0,Spain,0,27,7,25.9,0.0,0.0,0,0,12:00:00,/en/matches/c100284d/Spain-Cabo-Verde-June-15-2026-World-Cup
+,2026,,2026-06-15 Uruguay-Uruguay,2026-06-15,Group stage,Mon,Neutral,D,1,1,Uruguay,1,27,10,37.0,0.04,0.1,0,0,18:00:00,/en/matches/82de5964/Saudi-Arabia-Uruguay-June-15-2026-World-Cup
+,2026,,2026-06-16 Algeria-Algeria,2026-06-16,Group stage,Tue,Neutral,L,0,3,Algeria,0,7,0,0.0,0.0,,0,0,20:00:00,/en/matches/881ab666/Argentina-Algeria-June-16-2026-World-Cup
+,2026,,2026-06-16 Argentina-Argentina,2026-06-16,Group stage,Tue,Neutral,W,3,0,Argentina,3,10,6,60.0,0.3,0.5,0,0,20:00:00,/en/matches/881ab666/Argentina-Algeria-June-16-2026-World-Cup
+,2026,,2026-06-16 Austria-Austria,2026-06-16,Group stage,Tue,Neutral,W,3,1,Austria,2,11,4,36.4,0.18,0.5,1,1,21:00:00,/en/matches/140e19d9/Austria-Jordan-June-16-2026-World-Cup
+,2026,,2026-06-16 France-France,2026-06-16,Group stage,Tue,Neutral,W,3,1,France,3,11,8,72.7,0.27,0.38,0,0,15:00:00,/en/matches/2712fac7/France-Senegal-June-16-2026-World-Cup
+,2026,,2026-06-16 Iraq-Iraq,2026-06-16,Group stage,Tue,Neutral,L,1,4,Iraq,1,11,1,9.1,0.09,1.0,0,0,18:00:00,/en/matches/17eda16a/Iraq-Norway-June-16-2026-World-Cup
+,2026,,2026-06-16 Jordan-Jordan,2026-06-16,Group stage,Tue,Neutral,L,1,3,Jordan,1,11,4,36.4,0.09,0.25,0,0,21:00:00,/en/matches/140e19d9/Austria-Jordan-June-16-2026-World-Cup
+,2026,,2026-06-16 Norway-Norway,2026-06-16,Group stage,Tue,Neutral,W,4,1,Norway,3,12,5,41.7,0.25,0.6,0,0,18:00:00,/en/matches/17eda16a/Iraq-Norway-June-16-2026-World-Cup
+,2026,,2026-06-16 Senegal-Senegal,2026-06-16,Group stage,Tue,Neutral,L,1,3,Senegal,1,6,2,33.3,0.17,0.5,0,0,15:00:00,/en/matches/2712fac7/France-Senegal-June-16-2026-World-Cup
+,2026,,2026-06-17 Colombia-Colombia,2026-06-17,Group stage,Wed,Neutral,W,3,1,Colombia,3,15,4,26.7,0.2,0.75,0,0,20:00:00,/en/matches/3329959e/Uzbekistan-Colombia-June-17-2026-World-Cup
+,2026,,2026-06-17 Congo DR-Congo DR,2026-06-17,Group stage,Wed,Neutral,D,1,1,Congo DR,1,8,2,25.0,0.13,0.5,0,0,12:00:00,/en/matches/c95830e9/Portugal-Congo-DR-June-17-2026-World-Cup
+,2026,,2026-06-17 Croatia-Croatia,2026-06-17,Group stage,Wed,Neutral,L,2,4,Croatia,2,10,5,50.0,0.2,0.4,0,0,15:00:00,/en/matches/c42ce3be/England-Croatia-June-17-2026-World-Cup
+,2026,,2026-06-17 England-England,2026-06-17,Group stage,Wed,Neutral,W,4,2,England,4,22,11,50.0,0.18,0.36,1,1,15:00:00,/en/matches/c42ce3be/England-Croatia-June-17-2026-World-Cup
+,2026,,2026-06-17 Ghana-Ghana,2026-06-17,Group stage,Wed,Neutral,W,1,0,Ghana,1,8,2,25.0,0.13,0.5,0,0,19:00:00,/en/matches/9f71086a/Ghana-Panama-June-17-2026-World-Cup
+,2026,,2026-06-17 Panama-Panama,2026-06-17,Group stage,Wed,Neutral,L,0,1,Panama,0,11,4,36.4,0.0,0.0,0,0,19:00:00,/en/matches/9f71086a/Ghana-Panama-June-17-2026-World-Cup
+,2026,,2026-06-17 Portugal-Portugal,2026-06-17,Group stage,Wed,Neutral,D,1,1,Portugal,1,7,1,14.3,0.14,1.0,0,0,12:00:00,/en/matches/c95830e9/Portugal-Congo-DR-June-17-2026-World-Cup
+,2026,,2026-06-17 Uzbekistan-Uzbekistan,2026-06-17,Group stage,Wed,Neutral,L,1,3,Uzbekistan,1,8,2,25.0,0.13,0.5,0,0,20:00:00,/en/matches/3329959e/Uzbekistan-Colombia-June-17-2026-World-Cup
+,2026,,2026-06-18 Bosnia–Herz-Bosnia–Herz,2026-06-18,Group stage,Thu,Neutral,L,1,4,Bosnia–Herz,1,5,3,60.0,0.2,0.33,0,0,12:00:00,/en/matches/5134daab/Switzerland-Bosnia-and-Herzegovina-June-18-2026-World-Cup
+,2026,,2026-06-18 Canada-Canada,2026-06-18,Group stage,Thu,Neutral,W,6,0,Canada,5,32,10,31.3,0.16,0.5,0,0,15:00:00,/en/matches/60dedabb/Canada-Qatar-June-18-2026-World-Cup
+,2026,,2026-06-18 Czechia-Czechia,2026-06-18,Group stage,Thu,Neutral,D,1,1,Czechia,1,14,3,21.4,0.07,0.33,0,0,12:00:00,/en/matches/02f675d6/Czechia-South-Africa-June-18-2026-World-Cup
+,2026,,2026-06-18 Korea Republic-Korea Republic,2026-06-18,Group stage,Thu,Neutral,L,0,1,Korea Republic,0,9,2,22.2,0.0,0.0,0,0,19:00:00,/en/matches/50a429da/Mexico-Korea-Republic-June-18-2026-World-Cup
+,2026,,2026-06-18 Mexico-Mexico,2026-06-18,Group stage,Thu,Neutral,W,1,0,Mexico,1,8,4,50.0,0.13,0.25,0,0,19:00:00,/en/matches/50a429da/Mexico-Korea-Republic-June-18-2026-World-Cup
+,2026,,2026-06-18 Qatar-Qatar,2026-06-18,Group stage,Thu,Neutral,L,0,6,Qatar,0,2,0,0.0,0.0,,0,0,15:00:00,/en/matches/60dedabb/Canada-Qatar-June-18-2026-World-Cup
+,2026,,2026-06-18 South Africa-South Africa,2026-06-18,Group stage,Thu,Neutral,D,1,1,South Africa,1,17,4,23.5,0.06,0.25,1,1,12:00:00,/en/matches/02f675d6/Czechia-South-Africa-June-18-2026-World-Cup
+,2026,,2026-06-18 Switzerland-Switzerland,2026-06-18,Group stage,Thu,Neutral,W,4,1,Switzerland,4,13,7,53.8,0.31,0.57,1,1,12:00:00,/en/matches/5134daab/Switzerland-Bosnia-and-Herzegovina-June-18-2026-World-Cup
+,2026,,2026-06-19 Australia-Australia,2026-06-19,Group stage,Fri,Neutral,L,0,2,Australia,0,5,2,40.0,0.0,0.0,0,0,12:00:00,/en/matches/580cb771/United-States-Australia-June-19-2026-World-Cup
+,2026,,2026-06-19 Brazil-Brazil,2026-06-19,Group stage,Fri,Neutral,W,3,0,Brazil,3,8,5,62.5,0.38,0.6,0,0,20:30:00,/en/matches/48cce92a/Brazil-Haiti-June-19-2026-World-Cup
+,2026,,2026-06-19 Haiti-Haiti,2026-06-19,Group stage,Fri,Neutral,L,0,3,Haiti,0,7,3,42.9,0.0,0.0,0,0,20:30:00,/en/matches/48cce92a/Brazil-Haiti-June-19-2026-World-Cup
+,2026,,2026-06-19 Morocco-Morocco,2026-06-19,Group stage,Fri,Neutral,W,1,0,Morocco,1,12,2,16.7,0.08,0.5,0,0,18:00:00,/en/matches/2a469714/Scotland-Morocco-June-19-2026-World-Cup
+,2026,,2026-06-19 Paraguay-Paraguay,2026-06-19,Group stage,Fri,Neutral,W,1,0,Paraguay,1,7,2,28.6,0.14,0.5,0,0,20:00:00,/en/matches/82209c60/Turkiye-Paraguay-June-19-2026-World-Cup
+,2026,,2026-06-19 Scotland-Scotland,2026-06-19,Group stage,Fri,Neutral,L,0,1,Scotland,0,6,0,0.0,0.0,,0,0,18:00:00,/en/matches/2a469714/Scotland-Morocco-June-19-2026-World-Cup
+,2026,,2026-06-19 Türkiye-Türkiye,2026-06-19,Group stage,Fri,Neutral,L,0,1,Türkiye,0,32,5,15.6,0.0,0.0,0,0,20:00:00,/en/matches/82209c60/Turkiye-Paraguay-June-19-2026-World-Cup
+,2026,,2026-06-19 USA-USA,2026-06-19,Group stage,Fri,Neutral,W,2,0,USA,1,10,2,20.0,0.1,0.5,0,0,12:00:00,/en/matches/580cb771/United-States-Australia-June-19-2026-World-Cup
+,2026,,2026-06-20 Curaçao-Curaçao,2026-06-20,Group stage,Sat,Neutral,D,0,0,Curaçao,0,10,3,30.0,0.0,0.0,0,0,19:00:00,/en/matches/ca7eecdb/Ecuador-Curacao-June-20-2026-World-Cup
+,2026,,2026-06-20 Côte d'Ivoire-Côte d'Ivoire,2026-06-20,Group stage,Sat,Neutral,L,1,2,Côte d'Ivoire,1,9,2,22.2,0.11,0.5,0,0,16:00:00,/en/matches/43fec9f3/Germany-Cote-dIvoire-June-20-2026-World-Cup
+,2026,,2026-06-20 Ecuador-Ecuador,2026-06-20,Group stage,Sat,Neutral,D,0,0,Ecuador,0,27,15,55.6,0.0,0.0,0,0,19:00:00,/en/matches/ca7eecdb/Ecuador-Curacao-June-20-2026-World-Cup
+,2026,,2026-06-20 Germany-Germany,2026-06-20,Group stage,Sat,Neutral,W,2,1,Germany,2,16,7,43.8,0.13,0.29,0,0,16:00:00,/en/matches/43fec9f3/Germany-Cote-dIvoire-June-20-2026-World-Cup
+,2026,,2026-06-20 Japan-Japan,2026-06-20,Group stage,Sat,Neutral,W,4,0,Japan,4,11,5,45.5,0.36,0.8,0,0,22:00:00,/en/matches/27695f4a/Tunisia-Japan-June-20-2026-World-Cup
+,2026,,2026-06-20 Netherlands-Netherlands,2026-06-20,Group stage,Sat,Neutral,W,5,1,Netherlands,5,10,7,70.0,0.5,0.71,0,0,12:00:00,/en/matches/816f4180/Netherlands-Sweden-June-20-2026-World-Cup
+,2026,,2026-06-20 Sweden-Sweden,2026-06-20,Group stage,Sat,Neutral,L,1,5,Sweden,1,16,8,50.0,0.06,0.13,0,0,12:00:00,/en/matches/816f4180/Netherlands-Sweden-June-20-2026-World-Cup
+,2026,,2026-06-20 Tunisia-Tunisia,2026-06-20,Group stage,Sat,Neutral,L,0,4,Tunisia,0,2,0,0.0,0.0,,0,0,22:00:00,/en/matches/27695f4a/Tunisia-Japan-June-20-2026-World-Cup
+,2026,,2026-06-21 Belgium-Belgium,2026-06-21,Group stage,Sun,Neutral,D,0,0,Belgium,0,23,7,30.4,0.0,0.0,0,0,12:00:00,/en/matches/c96f559b/Belgium-IR-Iran-June-21-2026-World-Cup
+,2026,,2026-06-21 Cabo Verde-Cabo Verde,2026-06-21,Group stage,Sun,Neutral,D,2,2,Cabo Verde,2,12,4,33.3,0.17,0.5,0,0,18:00:00,/en/matches/bc0e570b/Uruguay-Cabo-Verde-June-21-2026-World-Cup
+,2026,,2026-06-21 Egypt-Egypt,2026-06-21,Group stage,Sun,Neutral,W,3,1,Egypt,3,19,7,36.8,0.16,0.43,0,0,18:00:00,/en/matches/d5699a16/New-Zealand-Egypt-June-21-2026-World-Cup
+,2026,,2026-06-21 IR Iran-IR Iran,2026-06-21,Group stage,Sun,Neutral,D,0,0,IR Iran,0,7,3,42.9,0.0,0.0,0,0,12:00:00,/en/matches/c96f559b/Belgium-IR-Iran-June-21-2026-World-Cup
+,2026,,2026-06-21 New Zealand-New Zealand,2026-06-21,Group stage,Sun,Neutral,L,1,3,New Zealand,1,11,5,45.5,0.09,0.2,0,0,18:00:00,/en/matches/d5699a16/New-Zealand-Egypt-June-21-2026-World-Cup
+,2026,,2026-06-21 Saudi Arabia-Saudi Arabia,2026-06-21,Group stage,Sun,Neutral,L,0,4,Saudi Arabia,0,3,1,33.3,0.0,0.0,0,0,12:00:00,/en/matches/0fcac1d8/Spain-Saudi-Arabia-June-21-2026-World-Cup
+,2026,,2026-06-21 Spain-Spain,2026-06-21,Group stage,Sun,Neutral,W,4,0,Spain,3,22,8,36.4,0.14,0.38,0,0,12:00:00,/en/matches/0fcac1d8/Spain-Saudi-Arabia-June-21-2026-World-Cup
+,2026,,2026-06-21 Uruguay-Uruguay,2026-06-21,Group stage,Sun,Neutral,D,2,2,Uruguay,2,17,2,11.8,0.12,1.0,0,0,18:00:00,/en/matches/bc0e570b/Uruguay-Cabo-Verde-June-21-2026-World-Cup
+,2026,,2026-06-22 Algeria-Algeria,2026-06-22,Group stage,Mon,Neutral,W,2,1,Algeria,2,17,8,47.1,0.12,0.25,0,0,20:00:00,/en/matches/eb19002c/Jordan-Algeria-June-22-2026-World-Cup
+,2026,,2026-06-22 Argentina-Argentina,2026-06-22,Group stage,Mon,Neutral,W,2,0,Argentina,2,12,5,41.7,0.17,0.4,0,1,12:00:00,/en/matches/e7d8a062/Argentina-Austria-June-22-2026-World-Cup
+,2026,,2026-06-22 Austria-Austria,2026-06-22,Group stage,Mon,Neutral,L,0,2,Austria,0,6,1,16.7,0.0,0.0,0,0,12:00:00,/en/matches/e7d8a062/Argentina-Austria-June-22-2026-World-Cup
+,2026,,2026-06-22 France-France,2026-06-22,Group stage,Mon,Neutral,W,3,0,France,3,19,5,26.3,0.16,0.6,0,0,17:00:00,/en/matches/31f1f241/France-Iraq-June-22-2026-World-Cup
+,2026,,2026-06-22 Iraq-Iraq,2026-06-22,Group stage,Mon,Neutral,L,0,3,Iraq,0,4,0,0.0,0.0,,0,0,17:00:00,/en/matches/31f1f241/France-Iraq-June-22-2026-World-Cup
+,2026,,2026-06-22 Jordan-Jordan,2026-06-22,Group stage,Mon,Neutral,L,1,2,Jordan,1,8,4,50.0,0.13,0.25,0,0,20:00:00,/en/matches/eb19002c/Jordan-Algeria-June-22-2026-World-Cup
+,2026,,2026-06-22 Norway-Norway,2026-06-22,Group stage,Mon,Neutral,W,3,2,Norway,3,13,7,53.8,0.23,0.43,0,0,20:00:00,/en/matches/7382111b/Norway-Senegal-June-22-2026-World-Cup
+,2026,,2026-06-22 Senegal-Senegal,2026-06-22,Group stage,Mon,Neutral,L,2,3,Senegal,2,16,4,25.0,0.13,0.5,0,0,20:00:00,/en/matches/7382111b/Norway-Senegal-June-22-2026-World-Cup
+,2026,,2026-06-23 Colombia-Colombia,2026-06-23,Group stage,Tue,Neutral,W,1,0,Colombia,1,20,9,45.0,0.05,0.11,0,0,20:00:00,/en/matches/f2e8741b/Colombia-Congo-DR-June-23-2026-World-Cup
+,2026,,2026-06-23 Congo DR-Congo DR,2026-06-23,Group stage,Tue,Neutral,L,0,1,Congo DR,0,7,1,14.3,0.0,0.0,0,0,20:00:00,/en/matches/f2e8741b/Colombia-Congo-DR-June-23-2026-World-Cup
+,2026,,2026-06-23 Croatia-Croatia,2026-06-23,Group stage,Tue,Neutral,W,1,0,Croatia,1,6,2,33.3,0.17,0.5,0,0,19:00:00,/en/matches/28a6d770/Panama-Croatia-June-23-2026-World-Cup
+,2026,,2026-06-23 England-England,2026-06-23,Group stage,Tue,Neutral,D,0,0,England,0,19,3,15.8,0.0,0.0,0,0,16:00:00,/en/matches/3dac8725/England-Ghana-June-23-2026-World-Cup
+,2026,,2026-06-23 Ghana-Ghana,2026-06-23,Group stage,Tue,Neutral,D,0,0,Ghana,0,2,1,50.0,0.0,0.0,0,0,16:00:00,/en/matches/3dac8725/England-Ghana-June-23-2026-World-Cup
+,2026,,2026-06-23 Panama-Panama,2026-06-23,Group stage,Tue,Neutral,L,0,1,Panama,0,8,1,12.5,0.0,0.0,0,0,19:00:00,/en/matches/28a6d770/Panama-Croatia-June-23-2026-World-Cup
+,2026,,2026-06-23 Portugal-Portugal,2026-06-23,Group stage,Tue,Neutral,W,5,0,Portugal,4,17,9,52.9,0.24,0.44,0,0,12:00:00,/en/matches/904bbbdc/Portugal-Uzbekistan-June-23-2026-World-Cup
+,2026,,2026-06-23 Uzbekistan-Uzbekistan,2026-06-23,Group stage,Tue,Neutral,L,0,5,Uzbekistan,0,7,2,28.6,0.0,0.0,0,0,12:00:00,/en/matches/904bbbdc/Portugal-Uzbekistan-June-23-2026-World-Cup
+,2026,,2026-06-24 Bosnia–Herz-Bosnia–Herz,2026-06-24,Group stage,Wed,Neutral,W,3,1,Bosnia–Herz,2,14,5,35.7,0.14,0.4,0,0,12:00:00,/en/matches/a59cb59d/Bosnia-and-Herzegovina-Qatar-June-24-2026-World-Cup
+,2026,,2026-06-24 Brazil-Brazil,2026-06-24,Group stage,Wed,Neutral,W,3,0,Brazil,3,21,9,42.9,0.14,0.33,0,0,18:00:00,/en/matches/0ef71ab6/Scotland-Brazil-June-24-2026-World-Cup
+,2026,,2026-06-24 Canada-Canada,2026-06-24,Group stage,Wed,Neutral,L,1,2,Canada,1,13,7,53.8,0.08,0.14,0,0,12:00:00,/en/matches/199a57aa/Switzerland-Canada-June-24-2026-World-Cup
+,2026,,2026-06-24 Czechia-Czechia,2026-06-24,Group stage,Wed,Neutral,L,0,3,Czechia,0,13,1,7.7,0.0,0.0,0,0,19:00:00,/en/matches/f26b468c/Czechia-Mexico-June-24-2026-World-Cup
+,2026,,2026-06-24 Haiti-Haiti,2026-06-24,Group stage,Wed,Neutral,L,2,4,Haiti,1,9,2,22.2,0.11,0.5,0,0,18:00:00,/en/matches/2307866a/Morocco-Haiti-June-24-2026-World-Cup
+,2026,,2026-06-24 Korea Republic-Korea Republic,2026-06-24,Group stage,Wed,Neutral,L,0,1,Korea Republic,0,8,3,37.5,0.0,0.0,0,0,19:00:00,/en/matches/311661a5/South-Africa-Korea-Republic-June-24-2026-World-Cup
+,2026,,2026-06-24 Mexico-Mexico,2026-06-24,Group stage,Wed,Neutral,W,3,0,Mexico,3,11,5,45.5,0.27,0.6,0,0,19:00:00,/en/matches/f26b468c/Czechia-Mexico-June-24-2026-World-Cup
+,2026,,2026-06-24 Morocco-Morocco,2026-06-24,Group stage,Wed,Neutral,W,4,2,Morocco,4,22,11,50.0,0.18,0.36,0,0,18:00:00,/en/matches/2307866a/Morocco-Haiti-June-24-2026-World-Cup
+,2026,,2026-06-24 Qatar-Qatar,2026-06-24,Group stage,Wed,Neutral,L,1,3,Qatar,1,9,3,33.3,0.11,0.33,0,0,12:00:00,/en/matches/a59cb59d/Bosnia-and-Herzegovina-Qatar-June-24-2026-World-Cup
+,2026,,2026-06-24 Scotland-Scotland,2026-06-24,Group stage,Wed,Neutral,L,0,3,Scotland,0,14,5,35.7,0.0,0.0,0,0,18:00:00,/en/matches/0ef71ab6/Scotland-Brazil-June-24-2026-World-Cup
+,2026,,2026-06-24 South Africa-South Africa,2026-06-24,Group stage,Wed,Neutral,W,1,0,South Africa,1,13,4,30.8,0.08,0.25,0,0,19:00:00,/en/matches/311661a5/South-Africa-Korea-Republic-June-24-2026-World-Cup
+,2026,,2026-06-24 Switzerland-Switzerland,2026-06-24,Group stage,Wed,Neutral,W,2,1,Switzerland,2,6,4,66.7,0.33,0.5,0,0,12:00:00,/en/matches/199a57aa/Switzerland-Canada-June-24-2026-World-Cup
+,2026,,2026-06-25 Australia-Australia,2026-06-25,Group stage,Thu,Neutral,D,0,0,Australia,0,12,5,41.7,0.0,0.0,0,0,19:00:00,/en/matches/c8fa19f5/Paraguay-Australia-June-25-2026-World-Cup
+,2026,,2026-06-25 Curaçao-Curaçao,2026-06-25,Group stage,Thu,Neutral,L,0,2,Curaçao,0,11,2,18.2,0.0,0.0,0,0,16:00:00,/en/matches/89835aff/Curacao-Cote-dIvoire-June-25-2026-World-Cup
+,2026,,2026-06-25 Côte d'Ivoire-Côte d'Ivoire,2026-06-25,Group stage,Thu,Neutral,W,2,0,Côte d'Ivoire,2,7,3,42.9,0.29,0.67,0,0,16:00:00,/en/matches/89835aff/Curacao-Cote-dIvoire-June-25-2026-World-Cup
+,2026,,2026-06-25 Ecuador-Ecuador,2026-06-25,Group stage,Thu,Neutral,W,2,1,Ecuador,2,7,3,42.9,0.29,0.67,0,0,16:00:00,/en/matches/cc4ebc5b/Ecuador-Germany-June-25-2026-World-Cup
+,2026,,2026-06-25 Germany-Germany,2026-06-25,Group stage,Thu,Neutral,L,1,2,Germany,1,11,3,27.3,0.09,0.33,0,0,16:00:00,/en/matches/cc4ebc5b/Ecuador-Germany-June-25-2026-World-Cup
+,2026,,2026-06-25 Japan-Japan,2026-06-25,Group stage,Thu,Neutral,D,1,1,Japan,1,8,3,37.5,0.13,0.33,0,0,18:00:00,/en/matches/994aa701/Japan-Sweden-June-25-2026-World-Cup
+,2026,,2026-06-25 Netherlands-Netherlands,2026-06-25,Group stage,Thu,Neutral,W,3,1,Netherlands,2,20,7,35.0,0.1,0.29,0,0,18:00:00,/en/matches/63b14e23/Tunisia-Netherlands-June-25-2026-World-Cup
+,2026,,2026-06-25 Paraguay-Paraguay,2026-06-25,Group stage,Thu,Neutral,D,0,0,Paraguay,0,7,2,28.6,0.0,0.0,0,0,19:00:00,/en/matches/c8fa19f5/Paraguay-Australia-June-25-2026-World-Cup
+,2026,,2026-06-25 Sweden-Sweden,2026-06-25,Group stage,Thu,Neutral,D,1,1,Sweden,1,11,5,45.5,0.09,0.2,0,0,18:00:00,/en/matches/994aa701/Japan-Sweden-June-25-2026-World-Cup
+,2026,,2026-06-25 Tunisia-Tunisia,2026-06-25,Group stage,Thu,Neutral,L,1,3,Tunisia,1,10,4,40.0,0.1,0.25,0,0,18:00:00,/en/matches/63b14e23/Tunisia-Netherlands-June-25-2026-World-Cup
+,2026,,2026-06-25 Türkiye-Türkiye,2026-06-25,Group stage,Thu,Neutral,W,3,2,Türkiye,3,9,3,33.3,0.33,1.0,0,0,19:00:00,/en/matches/358fd0fc/Turkiye-United-States-June-25-2026-World-Cup
+,2026,,2026-06-25 USA-USA,2026-06-25,Group stage,Thu,Neutral,L,2,3,USA,2,18,7,38.9,0.11,0.29,0,0,19:00:00,/en/matches/358fd0fc/Turkiye-United-States-June-25-2026-World-Cup
+,2026,,2026-06-26 Belgium-Belgium,2026-06-26,Group stage,Fri,Neutral,W,5,1,Belgium,5,35,10,28.6,0.14,0.5,0,0,20:00:00,/en/matches/f527457d/New-Zealand-Belgium-June-26-2026-World-Cup
+,2026,,2026-06-26 Cabo Verde-Cabo Verde,2026-06-26,Group stage,Fri,Neutral,D,0,0,Cabo Verde,0,15,2,13.3,0.0,0.0,0,0,19:00:00,/en/matches/8d6d70b6/Cabo-Verde-Saudi-Arabia-June-26-2026-World-Cup
+,2026,,2026-06-26 Egypt-Egypt,2026-06-26,Group stage,Fri,Neutral,D,1,1,Egypt,1,15,3,20.0,0.07,0.33,0,0,20:00:00,/en/matches/acc93b55/Egypt-IR-Iran-June-26-2026-World-Cup
+,2026,,2026-06-26 France-France,2026-06-26,Group stage,Fri,Neutral,W,4,1,France,4,18,9,50.0,0.22,0.44,0,0,15:00:00,/en/matches/1bcdcfc8/Norway-France-June-26-2026-World-Cup
+,2026,,2026-06-26 IR Iran-IR Iran,2026-06-26,Group stage,Fri,Neutral,D,1,1,IR Iran,1,13,4,30.8,0.08,0.25,0,1,20:00:00,/en/matches/acc93b55/Egypt-IR-Iran-June-26-2026-World-Cup
+,2026,,2026-06-26 Iraq-Iraq,2026-06-26,Group stage,Fri,Neutral,L,0,5,Iraq,0,6,1,16.7,0.0,0.0,0,0,15:00:00,/en/matches/583c1910/Senegal-Iraq-June-26-2026-World-Cup
+,2026,,2026-06-26 New Zealand-New Zealand,2026-06-26,Group stage,Fri,Neutral,L,1,5,New Zealand,1,6,2,33.3,0.17,0.5,0,0,20:00:00,/en/matches/f527457d/New-Zealand-Belgium-June-26-2026-World-Cup
+,2026,,2026-06-26 Norway-Norway,2026-06-26,Group stage,Fri,Neutral,L,1,4,Norway,1,10,4,40.0,0.1,0.25,0,1,15:00:00,/en/matches/1bcdcfc8/Norway-France-June-26-2026-World-Cup
+,2026,,2026-06-26 Saudi Arabia-Saudi Arabia,2026-06-26,Group stage,Fri,Neutral,D,0,0,Saudi Arabia,0,7,3,42.9,0.0,0.0,0,0,19:00:00,/en/matches/8d6d70b6/Cabo-Verde-Saudi-Arabia-June-26-2026-World-Cup
+,2026,,2026-06-26 Senegal-Senegal,2026-06-26,Group stage,Fri,Neutral,W,5,0,Senegal,5,28,12,42.9,0.18,0.42,0,0,15:00:00,/en/matches/583c1910/Senegal-Iraq-June-26-2026-World-Cup
+,2026,,2026-06-26 Spain-Spain,2026-06-26,Group stage,Fri,Neutral,W,1,0,Spain,1,6,1,16.7,0.17,1.0,0,0,18:00:00,/en/matches/48dd64d5/Uruguay-Spain-June-26-2026-World-Cup
+,2026,,2026-06-26 Uruguay-Uruguay,2026-06-26,Group stage,Fri,Neutral,L,0,1,Uruguay,0,5,1,20.0,0.0,0.0,0,0,18:00:00,/en/matches/48dd64d5/Uruguay-Spain-June-26-2026-World-Cup
+,2026,,2026-06-27 Algeria-Algeria,2026-06-27,Group stage,Sat,Neutral,D,3,3,Algeria,3,12,5,41.7,0.25,0.6,0,0,21:00:00,/en/matches/79a8f8c8/Algeria-Austria-June-27-2026-World-Cup
+,2026,,2026-06-27 Argentina-Argentina,2026-06-27,Group stage,Sat,Neutral,W,3,1,Argentina,3,12,4,33.3,0.25,0.75,1,1,21:00:00,/en/matches/5ec98037/Jordan-Argentina-June-27-2026-World-Cup
+,2026,,2026-06-27 Austria-Austria,2026-06-27,Group stage,Sat,Neutral,D,3,3,Austria,3,10,3,30.0,0.3,1.0,0,0,21:00:00,/en/matches/79a8f8c8/Algeria-Austria-June-27-2026-World-Cup
+,2026,,2026-06-27 Colombia-Colombia,2026-06-27,Group stage,Sat,Neutral,D,0,0,Colombia,0,24,6,25.0,0.0,0.0,0,0,19:30:00,/en/matches/ded93e98/Colombia-Portugal-June-27-2026-World-Cup
+,2026,,2026-06-27 Congo DR-Congo DR,2026-06-27,Group stage,Sat,Neutral,W,3,1,Congo DR,3,19,4,21.1,0.16,0.75,1,1,19:30:00,/en/matches/6287f9c7/Congo-DR-Uzbekistan-June-27-2026-World-Cup
+,2026,,2026-06-27 Croatia-Croatia,2026-06-27,Group stage,Sat,Neutral,W,2,1,Croatia,2,8,4,50.0,0.25,0.5,0,0,17:00:00,/en/matches/a051b2ea/Croatia-Ghana-June-27-2026-World-Cup
+,2026,,2026-06-27 England-England,2026-06-27,Group stage,Sat,Neutral,W,2,0,England,2,17,6,35.3,0.12,0.33,0,0,17:00:00,/en/matches/d7e30dec/Panama-England-June-27-2026-World-Cup
+,2026,,2026-06-27 Ghana-Ghana,2026-06-27,Group stage,Sat,Neutral,L,1,2,Ghana,1,6,1,16.7,0.17,1.0,0,0,17:00:00,/en/matches/a051b2ea/Croatia-Ghana-June-27-2026-World-Cup
+,2026,,2026-06-27 Jordan-Jordan,2026-06-27,Group stage,Sat,Neutral,L,1,3,Jordan,1,5,1,20.0,0.2,1.0,0,0,21:00:00,/en/matches/5ec98037/Jordan-Argentina-June-27-2026-World-Cup
+,2026,,2026-06-27 Panama-Panama,2026-06-27,Group stage,Sat,Neutral,L,0,2,Panama,0,13,2,15.4,0.0,0.0,0,0,17:00:00,/en/matches/d7e30dec/Panama-England-June-27-2026-World-Cup
+,2026,,2026-06-27 Portugal-Portugal,2026-06-27,Group stage,Sat,Neutral,D,0,0,Portugal,0,13,2,15.4,0.0,0.0,0,0,19:30:00,/en/matches/ded93e98/Colombia-Portugal-June-27-2026-World-Cup
+,2026,,2026-06-27 Uzbekistan-Uzbekistan,2026-06-27,Group stage,Sat,Neutral,L,1,3,Uzbekistan,1,3,1,33.3,0.33,1.0,0,0,19:30:00,/en/matches/6287f9c7/Congo-DR-Uzbekistan-June-27-2026-World-Cup
+,2026,,2026-06-28 Canada-Canada,2026-06-28,Round of 32,Sun,Neutral,W,1,0,Canada,1,12,7,58.3,0.08,0.14,0,0,12:00:00,/en/matches/c4104726/South-Africa-Canada-June-28-2026-World-Cup
+,2026,,2026-06-28 South Africa-South Africa,2026-06-28,Round of 32,Sun,Neutral,L,0,1,South Africa,0,6,1,16.7,0.0,0.0,0,0,12:00:00,/en/matches/c4104726/South-Africa-Canada-June-28-2026-World-Cup
+,2026,,2026-06-29 Brazil-Brazil,2026-06-29,Round of 32,Mon,Neutral,W,2,1,Brazil,2,19,7,36.8,0.11,0.29,0,0,12:00:00,/en/matches/58289f35/Brazil-Japan-June-29-2026-World-Cup
+,2026,,2026-06-29 Germany-Germany,2026-06-29,Round of 32,Mon,Neutral,D,1 (3),1 (4),Germany,1,21,6,28.6,0.05,0.17,0,0,16:30:00,/en/matches/89da405b/Germany-Paraguay-June-29-2026-World-Cup
+,2026,,2026-06-29 Japan-Japan,2026-06-29,Round of 32,Mon,Neutral,L,1,2,Japan,1,5,2,40.0,0.2,0.5,0,0,12:00:00,/en/matches/58289f35/Brazil-Japan-June-29-2026-World-Cup
+,2026,,2026-06-29 Morocco-Morocco,2026-06-29,Round of 32,Mon,Neutral,D,1 (3),1 (2),Morocco,1,11,5,45.5,0.09,0.2,0,0,19:00:00,/en/matches/bebca560/Netherlands-Morocco-June-29-2026-World-Cup
+,2026,,2026-06-29 Netherlands-Netherlands,2026-06-29,Round of 32,Mon,Neutral,D,1 (2),1 (3),Netherlands,1,6,2,33.3,0.17,0.5,0,0,19:00:00,/en/matches/bebca560/Netherlands-Morocco-June-29-2026-World-Cup
+,2026,,2026-06-29 Paraguay-Paraguay,2026-06-29,Round of 32,Mon,Neutral,D,1 (4),1 (3),Paraguay,1,7,3,42.9,0.14,0.33,0,0,16:30:00,/en/matches/89da405b/Germany-Paraguay-June-29-2026-World-Cup
+,2026,,2026-06-30 Côte d'Ivoire-Côte d'Ivoire,2026-06-30,Round of 32,Tue,Neutral,L,1,2,Côte d'Ivoire,1,14,5,35.7,0.07,0.2,0,0,12:00:00,/en/matches/d280258e/Cote-dIvoire-Norway-June-30-2026-World-Cup
+,2026,,2026-06-30 Ecuador-Ecuador,2026-06-30,Round of 32,Tue,Neutral,L,0,2,Ecuador,0,7,1,14.3,0.0,0.0,0,0,20:00:00,/en/matches/5eca3d3a/Mexico-Ecuador-June-30-2026-World-Cup
+,2026,,2026-06-30 France-France,2026-06-30,Round of 32,Tue,Neutral,W,3,0,France,3,25,12,48.0,0.12,0.25,0,0,17:00:00,/en/matches/da47849b/France-Sweden-June-30-2026-World-Cup
+,2026,,2026-06-30 Mexico-Mexico,2026-06-30,Round of 32,Tue,Neutral,W,2,0,Mexico,2,15,3,20.0,0.13,0.67,0,0,20:00:00,/en/matches/5eca3d3a/Mexico-Ecuador-June-30-2026-World-Cup
+,2026,,2026-06-30 Norway-Norway,2026-06-30,Round of 32,Tue,Neutral,W,2,1,Norway,2,9,4,44.4,0.22,0.5,0,0,12:00:00,/en/matches/d280258e/Cote-dIvoire-Norway-June-30-2026-World-Cup
+,2026,,2026-06-30 Sweden-Sweden,2026-06-30,Round of 32,Tue,Neutral,L,0,3,Sweden,0,8,3,37.5,0.0,0.0,0,0,17:00:00,/en/matches/da47849b/France-Sweden-June-30-2026-World-Cup
+,2026,,2026-07-01 Belgium-Belgium,2026-07-01,Round of 32,Wed,Neutral,W,3,2,Belgium,3,19,5,26.3,0.16,0.6,1,1,13:00:00,/en/matches/cf968279/Belgium-Senegal-July-1-2026-World-Cup
+,2026,,2026-07-01 Bosnia–Herz-Bosnia–Herz,2026-07-01,Round of 32,Wed,Neutral,L,0,2,Bosnia–Herz,0,10,3,30.0,0.0,0.0,0,0,17:00:00,/en/matches/89aea7f3/United-States-Bosnia-and-Herzegovina-July-1-2026-World-Cup
+,2026,,2026-07-01 Congo DR-Congo DR,2026-07-01,Round of 32,Wed,Neutral,L,1,2,Congo DR,1,7,2,28.6,0.14,0.5,0,0,12:00:00,/en/matches/520a5665/England-Congo-DR-July-1-2026-World-Cup
+,2026,,2026-07-01 England-England,2026-07-01,Round of 32,Wed,Neutral,W,2,1,England,2,16,7,43.8,0.13,0.29,0,0,12:00:00,/en/matches/520a5665/England-Congo-DR-July-1-2026-World-Cup
+,2026,,2026-07-01 Senegal-Senegal,2026-07-01,Round of 32,Wed,Neutral,L,2,3,Senegal,2,19,5,26.3,0.11,0.4,0,0,13:00:00,/en/matches/cf968279/Belgium-Senegal-July-1-2026-World-Cup
+,2026,,2026-07-01 USA-USA,2026-07-01,Round of 32,Wed,Neutral,W,2,0,USA,2,8,2,25.0,0.25,1.0,0,0,17:00:00,/en/matches/89aea7f3/United-States-Bosnia-and-Herzegovina-July-1-2026-World-Cup
+,2026,,2026-07-02 Algeria-Algeria,2026-07-02,Round of 32,Thu,Neutral,L,0,2,Algeria,0,8,2,25.0,0.0,0.0,0,0,20:00:00,/en/matches/b2f307a9/Switzerland-Algeria-July-2-2026-World-Cup
+,2026,,2026-07-02 Austria-Austria,2026-07-02,Round of 32,Thu,Neutral,L,0,3,Austria,0,5,0,0.0,0.0,,0,0,12:00:00,/en/matches/288fba4d/Spain-Austria-July-2-2026-World-Cup
+,2026,,2026-07-02 Croatia-Croatia,2026-07-02,Round of 32,Thu,Neutral,L,1,2,Croatia,1,13,6,46.2,0.08,0.17,0,0,19:00:00,/en/matches/87717b95/Portugal-Croatia-July-2-2026-World-Cup
+,2026,,2026-07-02 Portugal-Portugal,2026-07-02,Round of 32,Thu,Neutral,W,2,1,Portugal,2,15,3,20.0,0.13,0.67,1,1,19:00:00,/en/matches/87717b95/Portugal-Croatia-July-2-2026-World-Cup
+,2026,,2026-07-02 Spain-Spain,2026-07-02,Round of 32,Thu,Neutral,W,3,0,Spain,3,23,10,43.5,0.13,0.3,0,0,12:00:00,/en/matches/288fba4d/Spain-Austria-July-2-2026-World-Cup
+,2026,,2026-07-02 Switzerland-Switzerland,2026-07-02,Round of 32,Thu,Neutral,W,2,0,Switzerland,2,11,5,45.5,0.18,0.4,0,0,20:00:00,/en/matches/b2f307a9/Switzerland-Algeria-July-2-2026-World-Cup
+,2026,,2026-07-03 Argentina-Argentina,2026-07-03,Round of 32,Fri,Neutral,W,3,2,Argentina,2,22,10,45.5,0.09,0.2,0,0,18:00:00,/en/matches/675b328b/Argentina-Cabo-Verde-July-3-2026-World-Cup
+,2026,,2026-07-03 Australia-Australia,2026-07-03,Round of 32,Fri,Neutral,D,1 (2),1 (4),Australia,0,16,1,6.3,0.0,0.0,0,0,13:00:00,/en/matches/3ccca695/Australia-Egypt-July-3-2026-World-Cup
+,2026,,2026-07-03 Cabo Verde-Cabo Verde,2026-07-03,Round of 32,Fri,Neutral,L,2,3,Cabo Verde,2,16,5,31.3,0.13,0.4,0,0,18:00:00,/en/matches/675b328b/Argentina-Cabo-Verde-July-3-2026-World-Cup
+,2026,,2026-07-03 Colombia-Colombia,2026-07-03,Round of 32,Fri,Neutral,W,1,0,Colombia,1,20,8,40.0,0.05,0.13,0,0,20:30:00,/en/matches/d4ac0040/Colombia-Ghana-July-3-2026-World-Cup
+,2026,,2026-07-03 Egypt-Egypt,2026-07-03,Round of 32,Fri,Neutral,D,1 (4),1 (2),Egypt,1,14,3,21.4,0.07,0.33,0,0,13:00:00,/en/matches/3ccca695/Australia-Egypt-July-3-2026-World-Cup
+,2026,,2026-07-03 Ghana-Ghana,2026-07-03,Round of 32,Fri,Neutral,L,0,1,Ghana,0,8,0,0.0,0.0,,0,0,20:30:00,/en/matches/d4ac0040/Colombia-Ghana-July-3-2026-World-Cup
+,2026,,2026-07-04 Canada-Canada,2026-07-04,Round of 16,Sat,Neutral,L,0,3,Canada,0,10,3,30.0,0.0,0.0,0,0,12:00:00,/en/matches/b709bfa1/Canada-Morocco-July-4-2026-World-Cup
+,2026,,2026-07-04 France-France,2026-07-04,Round of 16,Sat,Neutral,W,1,0,France,1,15,5,33.3,0.07,0.2,1,1,17:00:00,/en/matches/8ad9833e/Paraguay-France-July-4-2026-World-Cup
+,2026,,2026-07-04 Morocco-Morocco,2026-07-04,Round of 16,Sat,Neutral,W,3,0,Morocco,3,5,4,80.0,0.6,0.75,0,0,12:00:00,/en/matches/b709bfa1/Canada-Morocco-July-4-2026-World-Cup
+,2026,,2026-07-04 Paraguay-Paraguay,2026-07-04,Round of 16,Sat,Neutral,L,0,1,Paraguay,0,5,0,0.0,0.0,,0,0,17:00:00,/en/matches/8ad9833e/Paraguay-France-July-4-2026-World-Cup
+,2026,,2026-07-05 Brazil-Brazil,2026-07-05,Round of 16,Sun,Neutral,L,1,2,Brazil,1,14,4,28.6,0.07,0.25,1,2,16:00:00,/en/matches/dabafdc1/Brazil-Norway-July-5-2026-World-Cup
+,2026,,2026-07-05 England-England,2026-07-05,Round of 16,Sun,Neutral,W,3,2,England,3,6,5,83.3,0.5,0.6,1,1,19:00:00,/en/matches/3ed2ad56/Mexico-England-July-5-2026-World-Cup
+,2026,,2026-07-05 Mexico-Mexico,2026-07-05,Round of 16,Sun,Neutral,L,2,3,Mexico,2,20,5,25.0,0.1,0.4,1,1,19:00:00,/en/matches/3ed2ad56/Mexico-England-July-5-2026-World-Cup
+,2026,,2026-07-05 Norway-Norway,2026-07-05,Round of 16,Sun,Neutral,W,2,1,Norway,2,9,5,55.6,0.22,0.4,0,0,16:00:00,/en/matches/dabafdc1/Brazil-Norway-July-5-2026-World-Cup
+,2026,,2026-07-06 Belgium-Belgium,2026-07-06,Round of 16,Mon,Neutral,W,4,1,Belgium,4,15,7,46.7,0.27,0.57,0,0,17:00:00,/en/matches/ac3ca9ea/United-States-Belgium-July-6-2026-World-Cup
+,2026,,2026-07-06 Portugal-Portugal,2026-07-06,Round of 16,Mon,Neutral,L,0,1,Portugal,0,10,2,20.0,0.0,0.0,0,0,14:00:00,/en/matches/fe9daeb3/Portugal-Spain-July-6-2026-World-Cup
+,2026,,2026-07-06 Spain-Spain,2026-07-06,Round of 16,Mon,Neutral,W,1,0,Spain,1,15,6,40.0,0.07,0.17,0,0,14:00:00,/en/matches/fe9daeb3/Portugal-Spain-July-6-2026-World-Cup
+,2026,,2026-07-06 USA-USA,2026-07-06,Round of 16,Mon,Neutral,L,1,4,USA,1,7,2,28.6,0.14,0.5,0,0,17:00:00,/en/matches/ac3ca9ea/United-States-Belgium-July-6-2026-World-Cup
+,2026,,2026-07-07 Argentina-Argentina,2026-07-07,Round of 16,Tue,Neutral,W,3,2,Argentina,3,19,7,36.8,0.16,0.43,0,1,12:00:00,/en/matches/99ef3f64/Argentina-Egypt-July-7-2026-World-Cup
+,2026,,2026-07-07 Colombia-Colombia,2026-07-07,Round of 16,Tue,Neutral,D,0 (3),0 (4),Colombia,0,15,3,20.0,0.0,0.0,0,0,13:00:00,/en/matches/fb7171eb/Switzerland-Colombia-July-7-2026-World-Cup
+,2026,,2026-07-07 Egypt-Egypt,2026-07-07,Round of 16,Tue,Neutral,L,2,3,Egypt,2,5,2,40.0,0.4,1.0,0,0,12:00:00,/en/matches/99ef3f64/Argentina-Egypt-July-7-2026-World-Cup
+,2026,,2026-07-07 Switzerland-Switzerland,2026-07-07,Round of 16,Tue,Neutral,D,0 (4),0 (3),Switzerland,0,7,2,28.6,0.0,0.0,0,0,13:00:00,/en/matches/fb7171eb/Switzerland-Colombia-July-7-2026-World-Cup
+,2026,,2026-07-09 France-France,2026-07-09,Quarter-finals,Thu,Neutral,W,2,0,France,2,22,8,36.4,0.09,0.25,0,1,16:00:00,/en/matches/c069f408/France-Morocco-July-9-2026-World-Cup
+,2026,,2026-07-09 Morocco-Morocco,2026-07-09,Quarter-finals,Thu,Neutral,L,0,2,Morocco,0,5,1,20.0,0.0,0.0,0,0,16:00:00,/en/matches/c069f408/France-Morocco-July-9-2026-World-Cup
+,2026,,2026-07-10 Belgium-Belgium,2026-07-10,Quarter-finals,Fri,Neutral,L,1,2,Belgium,1,5,2,40.0,0.2,0.5,0,0,12:00:00,/en/matches/ed14068b/Spain-Belgium-July-10-2026-World-Cup
+,2026,,2026-07-10 Spain-Spain,2026-07-10,Quarter-finals,Fri,Neutral,W,2,1,Spain,2,17,8,47.1,0.12,0.25,0,0,12:00:00,/en/matches/ed14068b/Spain-Belgium-July-10-2026-World-Cup
+,2026,,2026-07-11 Argentina-Argentina,2026-07-11,Quarter-finals,Sat,Neutral,W,3,1,Argentina,3,22,7,31.8,0.14,0.43,0,0,20:00:00,/en/matches/3ae43552/Argentina-Switzerland-July-11-2026-World-Cup
+,2026,,2026-07-11 England-England,2026-07-11,Quarter-finals,Sat,Neutral,W,2,1,England,2,14,8,57.1,0.14,0.25,0,0,17:00:00,/en/matches/4a03a810/Norway-England-July-11-2026-World-Cup
+,2026,,2026-07-11 Norway-Norway,2026-07-11,Quarter-finals,Sat,Neutral,L,1,2,Norway,1,13,4,30.8,0.08,0.25,0,0,17:00:00,/en/matches/4a03a810/Norway-England-July-11-2026-World-Cup
+,2026,,2026-07-11 Switzerland-Switzerland,2026-07-11,Quarter-finals,Sat,Neutral,L,1,3,Switzerland,1,11,5,45.5,0.09,0.2,0,0,20:00:00,/en/matches/3ae43552/Argentina-Switzerland-July-11-2026-World-Cup
+,2026,,2026-07-14 France-France,2026-07-14,Semi-finals,Tue,Neutral,L,0,2,France,0,10,3,30.0,0.0,0.0,0,0,14:00:00,/en/matches/9575513b/France-Spain-July-14-2026-World-Cup
+,2026,,2026-07-14 Spain-Spain,2026-07-14,Semi-finals,Tue,Neutral,W,2,0,Spain,2,10,2,20.0,0.2,1.0,1,1,14:00:00,/en/matches/9575513b/France-Spain-July-14-2026-World-Cup
+,2026,,2026-07-15 Argentina-Argentina,2026-07-15,Semi-finals,Wed,Neutral,W,2,1,Argentina,2,15,5,33.3,0.13,0.4,0,0,15:00:00,/en/matches/47dbfe60/England-Argentina-July-15-2026-World-Cup
+,2026,,2026-07-15 England-England,2026-07-15,Semi-finals,Wed,Neutral,L,1,2,England,1,5,2,40.0,0.2,0.5,0,0,15:00:00,/en/matches/47dbfe60/England-Argentina-July-15-2026-World-Cup
+,2026,,2026-07-18 England-England,2026-07-18,Third-place match,Sat,Neutral,W,6,4,England,6,19,11,57.9,0.32,0.55,1,1,17:00:00,/en/matches/aba06a2a/France-England-July-18-2026-World-Cup
+,2026,,2026-07-18 France-France,2026-07-18,Third-place match,Sat,Neutral,L,4,6,France,4,19,9,47.4,0.21,0.44,0,0,17:00:00,/en/matches/aba06a2a/France-England-July-18-2026-World-Cup
+,2026,,2026-07-19 Argentina-Argentina,2026-07-19,Final,Sun,Neutral,L,0,1,Argentina,0,2,0,0.0,0.0,,0,0,15:00:00,/en/matches/bedbfe84/Spain-Argentina-July-19-2026-World-Cup
+,2026,,2026-07-19 Spain-Spain,2026-07-19,Final,Sun,Neutral,W,1,0,Spain,1,20,12,60.0,0.05,0.08,0,0,15:00:00,/en/matches/bedbfe84/Spain-Argentina-July-19-2026-World-Cup
